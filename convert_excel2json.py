@@ -17,18 +17,15 @@ def sanitize_sheet_name(name):
 def check_referenced_files(df, sheet_name, source_dir):
     """Check if files referenced in 'Document' and optionally 'Table Name (input)' exist."""
     missing_files = []
-
     sheet_dir = os.path.join(source_dir, sheet_name)
 
     for idx, row in df.iterrows():
-        # Always check 'Document'
         doc_file = row.get("Document")
         if isinstance(doc_file, str) and doc_file.strip():
             doc_path = os.path.join(sheet_dir, doc_file.strip())
             if not os.path.isfile(doc_path):
                 missing_files.append(doc_path)
 
-        # Only check 'Table Name (input)' if column exists
         if "Table Name (input)" in df.columns:
             table_file = row.get("Table Name (input)")
             if isinstance(table_file, str) and table_file.strip():
@@ -38,18 +35,39 @@ def check_referenced_files(df, sheet_name, source_dir):
 
     return missing_files
 
+def should_process_sheet(sheet_name, filter_mode):
+    if filter_mode == "all":
+        return True
+    elif "," in filter_mode:
+        allowed = [s.strip() for s in filter_mode.split(",")]
+        return sheet_name in allowed
+    else:
+        return sheet_name.startswith("dataset_")
+
 def main():
-    parser = argparse.ArgumentParser(description="Convert Excel sheets to JSON with optional file checks.")
+    parser = argparse.ArgumentParser(
+        description="Convert an Excel file with multiple sheets into flat JSON files.\n"
+                    "By default, only sheets whose names start with 'dataset_' are processed.",
+        formatter_class=argparse.RawTextHelpFormatter,
+        epilog="""Example usage:
+  python excel_to_json.py --in myfile.xlsx --out json_output/ --source_data_dir raw_documents
+  python excel_to_json.py --in myfile.xlsx --out json_output/ --sheets all
+  python excel_to_json.py --in myfile.xlsx --out json_output/ --sheets dataset_charts,dataset_tables
+"""
+    )
+
     parser.add_argument("--in", dest="input_file", required=True, help="Path to the input Excel file (.xlsx)")
-    parser.add_argument("--out", dest="output", help="Path to output JSON file or directory. Defaults to stdout.")
-    parser.add_argument("--source_data_dir", dest="source_data_dir", help="Path to source documents for validation.")
-    
+    parser.add_argument("--out", dest="output", help="Output directory or .json file (optional; defaults to stdout)")
+    parser.add_argument("--source_data_dir", dest="source_data_dir", help="Path to directory containing referenced PDF files")
+    parser.add_argument("--sheets", dest="sheets_filter", default="dataset_", 
+                        help="Which sheets to process: 'all', comma-separated names, or default (sheets starting with 'dataset_')")
+
     args = parser.parse_args()
     input_file = args.input_file
     output_path = args.output
     source_data_dir = args.source_data_dir
+    sheets_filter = args.sheets_filter
 
-    # Read all sheets
     try:
         xls = pd.read_excel(input_file, sheet_name=None, engine='openpyxl')
     except Exception as e:
@@ -60,6 +78,9 @@ def main():
     base_name = os.path.splitext(os.path.basename(input_file))[0]
 
     for sheet_name, df in xls.items():
+        if not should_process_sheet(sheet_name, sheets_filter):
+            continue
+
         df = df.applymap(convert_cell)
 
         if source_data_dir:
@@ -70,7 +91,10 @@ def main():
         data = df.fillna('').to_dict(orient='records')
         json_outputs[sheet_name] = data
 
-    # Output logic
+    if not json_outputs:
+        print("⚠️  No sheets matched your filter criteria.", file=sys.stderr)
+        sys.exit(1)
+
     if output_path:
         if output_path.endswith('.json') and len(json_outputs) == 1:
             sheet_data = next(iter(json_outputs.values()))
