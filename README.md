@@ -1,6 +1,11 @@
 
 Finance domain eval dataset for Gaperon and Scribe projects.
 
+Done 
+Converted from https://docs.google.com/spreadsheets/d/1DmDVHa1qfuwoPkejRCsMTcGhYVAfisxNyIGKoPcuSA0/edit?gid=894010143#gid=894010143 
+to Excel, then to json.
+
+
 TODO (ASAP)
 
 
