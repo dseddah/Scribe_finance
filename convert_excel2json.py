@@ -14,7 +14,7 @@ def convert_cell(val):
 def sanitize_sheet_name(name):
     return re.sub(r'[^\w.-]', '_', name.strip())
 
-def check_referenced_files(df, sheet_name, source_dir):
+def check_referenced_files_without_file_replacing(df, sheet_name, source_dir):
     """Check if files referenced in 'Document' and optionally 'Table Name (input)' exist."""
     missing_files = []
     sheet_dir = os.path.join(source_dir, sheet_name)
@@ -34,6 +34,38 @@ def check_referenced_files(df, sheet_name, source_dir):
                     missing_files.append(table_path)
 
     return missing_files
+
+
+def check_and_update_file_paths(df, sheet_name, source_dir):
+    """Check and update file references for 'Document' and 'Table Name (input)' columns with relative paths."""
+    missing_files = []
+    sheet_dir = os.path.join(source_dir, sheet_name)
+
+    for idx, row in df.iterrows():
+        # Always check 'Document'
+        doc_file = row.get("Document")
+        if isinstance(doc_file, str) and doc_file.strip():
+            full_path = os.path.join(sheet_dir, doc_file.strip())
+            if os.path.isfile(full_path):
+                rel_path = os.path.relpath(full_path, source_dir)
+                df.at[idx, "Document"] = rel_path
+            else:
+                missing_files.append(full_path)
+
+        # Check 'Table Name (input)' if it exists
+        if "Table Name (input)" in df.columns:
+            table_file = row.get("Table Name (input)")
+            if isinstance(table_file, str) and table_file.strip():
+                full_path = os.path.join(sheet_dir, table_file.strip())
+                if os.path.isfile(full_path):
+                    rel_path = os.path.relpath(full_path, source_dir)
+                    df.at[idx, "Table Name (input)"] = rel_path
+                else:
+                    missing_files.append(full_path)
+
+    return missing_files
+
+
 
 def should_process_sheet(sheet_name, filter_mode):
     if filter_mode == "all":
@@ -84,7 +116,8 @@ def main():
         df = df.applymap(convert_cell)
 
         if source_data_dir:
-            missing = check_referenced_files(df, sheet_name, source_data_dir)
+            #missing = check_referenced_files(df, sheet_name, source_data_dir)
+            missing = check_and_update_file_paths(df, sheet_name, source_data_dir) 
             for path in missing:
                 print(f"⚠️  Missing file: {path}", file=sys.stderr)
 
