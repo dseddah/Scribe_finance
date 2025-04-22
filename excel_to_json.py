@@ -94,6 +94,11 @@ def main():
     parser.add_argument("--sheets", dest="sheets_filter", default="dataset_", 
                         help="Which sheets to process: 'all', comma-separated names, or default (sheets starting with 'dataset_')")
 
+    # Show help if no arguments are provided
+    if len(sys.argv) == 1:
+        parser.print_help()
+        sys.exit(1)
+
     args = parser.parse_args()
     input_file = args.input_file
     output_path = args.output
