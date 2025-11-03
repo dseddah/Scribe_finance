@@ -20,7 +20,6 @@ def main(tested_model_name: str, judge_model_name: str, task: str, datasets_path
     judge_llm = LLM(
         model=judge_model_name,
         max_model_len=1024,
-        tensor_parallel_size=2,
         gpu_memory_utilization=0.95,
     )
 
@@ -52,7 +51,6 @@ if __name__ == "__main__":
         sys.exit(1)
 
     tested_model_name, judge_model_name, task = sys.argv[1], sys.argv[2], sys.argv[3]
-
-    datasets_path = Path("dataset_json_20251021-1055")
+    datasets_path = Path("dataset_json")
 
     main(tested_model_name, judge_model_name, task, datasets_path)

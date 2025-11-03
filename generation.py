@@ -17,13 +17,12 @@ def main(model_name: str, task: str, datasets_path: Path):
             model=model_name,
             max_model_len=16384,
             tokenizer_mode="mistral",
-            tensor_parallel_size=1,
             config_format="mistral",
             load_format="mistral",
             limit_mm_per_prompt={"image": 1},
         )
     else:
-        tested_llm = LLM(model=model_name, max_model_len=16384, tensor_parallel_size=2)
+        tested_llm = LLM(model=model_name, max_model_len=16384)
 
     match task:
         case "NER":
@@ -49,7 +48,6 @@ if __name__ == "__main__":
         sys.exit(1)
 
     model_name, task = sys.argv[1], sys.argv[2]
-
-    datasets_path = Path("dataset_json_20251021-1055")
+    datasets_path = Path("dataset_json")
 
     main(model_name, task, datasets_path)
