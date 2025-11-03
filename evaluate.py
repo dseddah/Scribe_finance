@@ -8,7 +8,7 @@ import os
 from utils.calculs_conversation import evaluate_calcul_conversation
 from utils.special_cases import evaluate_special_cases
 from utils.tables import evaluate_tables
-from utils.tables_YN_TF import evaluate_tables_yn_tf
+from utils.tables_yn_tf import evaluate_tables_yn_tf
 
 
 def main(tested_model_name: str, judge_model_name: str, task: str, datasets_path: Path):

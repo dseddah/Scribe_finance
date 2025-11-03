@@ -7,7 +7,7 @@ from utils.ner import generate_ner
 from utils.charts import generate_charts
 from utils.special_cases import generate_special_cases
 from utils.tables import generate_tables
-from utils.tables_YN_TF import generate_tables_yn_tf
+from utils.tables_yn_tf import generate_tables_yn_tf
 import os
 
 

@@ -10,9 +10,9 @@ def main(tested_model_name: str, task: str):
         f.stem.split(":")[-1]: pd.read_csv(f)
         for f in Path("results").iterdir()
         if f.is_file()
-        and re.compile(
-            rf"^{task}:{tested_model_name.replace('/', '__')}:(.+)\.csv$"
-        ).match(f.name)
+        and re.match(
+            rf"^{task}:{tested_model_name.replace('/', '__')}:(.+)\.csv$", f.name
+        )
     }
 
     if not results:
