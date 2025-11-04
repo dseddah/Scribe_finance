@@ -40,7 +40,7 @@ def generate_tables(llm: LLM, dataset_path: Path) -> list[str]:
                     },
                     {
                         "type": "text",
-                        "text": f"Question: {row['question']}\nAnswer the question concisely based on the image provided.",
+                        "text": f"Question: {row['question']}\nAnswer the question concisely based on the image provided. Don't include any explanations.",
                     },
                 ],
             },

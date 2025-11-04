@@ -32,7 +32,7 @@ def generate_ner(llm: LLM, dataset_path: Path) -> list[str]:
             },
             {
                 "role": "user",
-                "content": f"Context: {row['context']}\nQuestion: {row['question']}\nAnswer the question concisely based on the context provided.",
+                "content": f"Context: {row['context']}\nQuestion: {row['question']}\nAnswer the question concisely based on the context provided. Don't include any explanations.",
             },
             {
                 "role": "assistant",

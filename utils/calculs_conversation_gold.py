@@ -56,7 +56,7 @@ def build_conversational_prompt(
                     "role": "user",
                     "content": [
                         {"type": "image_url", "image_url": {"url": image}},
-                        {"type": "text", "text": previous_questions[i]},
+                        {"type": "text", "text": f"Answer all questions concisely based on the image provided. Don't include any explanations. {previous_questions[i]}"},
                     ],
                 }
             )
@@ -64,7 +64,7 @@ def build_conversational_prompt(
             prompt.append(
                 {
                     "role": "user",
-                    "content": f"Question: {previous_questions[i]}\nAnswer the question concisely based on the image provided.",
+                    "content": previous_questions[i]
                 }
             )
 
@@ -78,7 +78,7 @@ def build_conversational_prompt(
     prompt += [
         {
             "role": "user",
-            "content": f"Question: {question}\nAnswer the question concisely based on the image provided.",
+            "content": question,
         },
         {
             "role": "assistant",
