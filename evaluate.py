@@ -4,7 +4,7 @@ from vllm import LLM
 from pathlib import Path
 from utils.ner import evaluate_ner
 from utils.charts import evaluate_charts
-import os
+from utils.calculs_conversation_gold import evaluate_calcul_conversation_gold
 from utils.calculs_conversation import evaluate_calcul_conversation
 from utils.special_cases import evaluate_special_cases
 from utils.tables import evaluate_tables
@@ -28,6 +28,10 @@ def main(tested_model_name: str, judge_model_name: str, task: str, datasets_path
             results = evaluate_ner(judge_llm, datasets_path, predictions)
         case "charts":
             results = evaluate_charts(judge_llm, datasets_path, predictions)
+        case "calculs_conversation_gold":
+            results = evaluate_calcul_conversation_gold(
+                judge_llm, datasets_path, predictions
+            )
         case "calculs_conversation":
             results = evaluate_calcul_conversation(
                 judge_llm, datasets_path, predictions

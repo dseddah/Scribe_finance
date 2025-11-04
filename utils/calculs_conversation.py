@@ -21,95 +21,75 @@ def load_calcul_conversation_dataset(dataset_path: Path):
                         "Element_filename(input)": "file",
                         "Element_id": "conversation_id",
                     }
-                )[["id", "conversation_id", "file", "question", "answer"]]
+                )[["id", "conversation_id", "file", "question"]]
             break
 
-    df["previous_questions"] = [[] for _ in range(len(df))]
-    df["previous_answers"] = [[] for _ in range(len(df))]
+    df_grouped = df.groupby("conversation_id")["question"].apply(list).reset_index()
 
-    for conv_id, group in df.groupby("conversation_id", sort=False):
-        prev_qs, prev_as = [], []
-        for idx in group.index:
-            # Assign accumulated context
-            df.at[idx, "previous_questions"] = prev_qs.copy()
-            df.at[idx, "previous_answers"] = prev_as.copy()
-
-            # Update context history for next step
-            prev_qs.append(group.at[idx, "question"])
-            prev_as.append(group.at[idx, "answer"])
+    df = df_grouped.merge(df[["conversation_id", "file"]], on="conversation_id")
 
     return df
 
 
-def build_conversational_prompt(
-    previous_questions: list[str],
-    previous_answers: list[str],
-    question: str,
-    image: str,
-) -> list[dict]:
-    prompt = []
-
-    for i in range(len(previous_questions)):
-        if i == 0:
-            prompt.append(
-                {
-                    "role": "user",
-                    "content": [
-                        {"type": "image_url", "image_url": {"url": image}},
-                        {"type": "text", "text": previous_questions[i]},
-                    ],
-                }
-            )
-        else:
-            prompt.append(
-                {
-                    "role": "user",
-                    "content": f"Question: {previous_questions[i]}\nAnswer the question concisely based on the image provided.",
-                }
-            )
-
-        prompt.append(
-            {
-                "role": "assistant",
-                "content": f"Answer: {previous_answers[i]}",
-            }
-        )
-
-    prompt += [
-        {
-            "role": "user",
-            "content": f"Question: {question}\nAnswer the question concisely based on the image provided.",
-        },
-        {
-            "role": "assistant",
-            "content": "Answer:",
-        },
-    ]
-
-    return prompt
-
-
 def generate_calcul_conversation(llm: LLM, dataset_path: Path) -> list[str]:
     ds = load_calcul_conversation_dataset(dataset_path)
+    outputs = []
 
-    prompts = ds.apply(
-        lambda row: build_conversational_prompt(
-            row["previous_questions"],
-            row["previous_answers"],
-            row["question"],
-            get_asset(Path("raw_documents/dataset_calculs_conversation") / row["file"]),
-        ),
-        axis=1,
-    ).tolist()
+    for index, conversation in ds.iterrows():
+        conv = []
+        outputs_conv = []
 
-    outputs = llm.chat(
-        prompts,
-        sampling_params=SamplingParams(temperature=0, max_tokens=64, n=1),
-        add_generation_prompt=False,
-        continue_final_message=True,
-    )
+        for i, question in enumerate(conversation["question"]):
+            if i == 0:
+                conv.append(
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": get_asset(
+                                        Path(
+                                            "raw_documents/dataset_calculs_conversation"
+                                        )
+                                        / conversation["file"]
+                                    )
+                                },
+                            },
+                            {
+                                "type": "text",
+                                "text": f"Answer all questions concisely based on the image provided. Don't include any explanations. {question}",
+                            },
+                        ],
+                    }
+                )
+            else:
+                conv.append({"role": "user", "content": question})
 
-    return [output.outputs[0].text.strip() for output in outputs]
+            outputs = llm.chat(
+                conv
+                + [
+                    {
+                        "role": "assistant",
+                        "content": "Answer:",
+                    },
+                ],
+                sampling_params=SamplingParams(temperature=0, max_tokens=64, n=1),
+                add_generation_prompt=False,
+                continue_final_message=True,
+            )
+
+            outputs_conv.append(outputs[0].outputs[0].text.strip())
+            conv.append(
+                {
+                    "role": "assistant",
+                    "content": f"Answer: {outputs[0].outputs[0].text.strip()}",
+                }
+            )
+
+        outputs += outputs_conv
+
+    return outputs
 
 
 def evaluate_calcul_conversation(

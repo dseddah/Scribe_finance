@@ -2,6 +2,7 @@ import json
 import sys
 from vllm import LLM
 from pathlib import Path
+from utils.calculs_conversation_gold import generate_calcul_conversation_gold
 from utils.calculs_conversation import generate_calcul_conversation
 from utils.ner import generate_ner
 from utils.charts import generate_charts
@@ -29,6 +30,8 @@ def main(model_name: str, task: str, datasets_path: Path):
             prediction = generate_ner(tested_llm, datasets_path)
         case "charts":
             prediction = generate_charts(tested_llm, datasets_path)
+        case "calculs_conversation_gold":
+            prediction = generate_calcul_conversation_gold(tested_llm, datasets_path)
         case "calculs_conversation":
             prediction = generate_calcul_conversation(tested_llm, datasets_path)
         case "special_cases":
@@ -38,6 +41,7 @@ def main(model_name: str, task: str, datasets_path: Path):
         case "tables_yn_tf":
             prediction = generate_tables_yn_tf(tested_llm, datasets_path)
 
+    Path("results").mkdir(exist_ok=True)
     with open(f"results/{task}:{model_name.replace('/', '__')}.json", "w") as json_file:
         json.dump(prediction, json_file)
 
