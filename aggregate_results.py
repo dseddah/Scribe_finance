@@ -46,7 +46,6 @@ def aggregate_results(
         for model_name, file_path in results_files.items():
             model_eval_df = pd.read_csv(file_path)
 
-            print(task, model_name, group)
             # Merge dataset_df and model_eval_df on a common column, e.g., 'id'
             merged_df = pd.merge(dataset_df, model_eval_df, on="id").rename(
                 columns={"majority_vote": "accuracy"}
@@ -76,6 +75,7 @@ def aggregate_results(
                     [aggregated_results, pivoted[model_name]], axis=1
                 )
 
+        Path("aggregated_results").mkdir(exist_ok=True)
         aggregated_results.to_csv(
             Path("aggregated_results") / task / f"{task}_{group}.csv"
         )
@@ -89,6 +89,12 @@ def main():
         "tables_yn_tf": ["Type", "Question_type", "Domain", "Input_Context_Size"],
         "special_cases": ["Type", "Question_type", "Domain", "Input_Context_Size"],
         "calculs_conversation": [
+            "Type",
+            "Question_type",
+            "Domain",
+            "Input_Context_Size",
+        ],
+        "calculs_conversation_gold": [
             "Type",
             "Question_type",
             "Domain",

@@ -24,8 +24,6 @@ TASK=${TASKS[$SLURM_ARRAY_TASK_ID]}
 
 JUDGE_MODELS=(meta-llama/Llama-3.3-70B-Instruct Qwen/Qwen3-32B google/gemma-3-27b-it)
 
-mkdir -p results
-
 uv run generation.py $TESTED_MODEL $TASK
 
 for judge_model in "${JUDGE_MODELS[@]}"; do
