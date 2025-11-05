@@ -20,7 +20,7 @@ def load_model_eval(model_name: str, task_name: str):
 
 
 def get_results_files(task: str) -> dict[str, Path]:
-    # Match ^charts:[^:]+\.py$
+    # Match ^charts:[^:]+\.csv$
     results_folder = Path("results")
     files = {}
     for file in results_folder.iterdir():
@@ -62,7 +62,7 @@ def aggregate_results(
             row = pd.DataFrame(
                 {
                     group: ["Average"],
-                    model_name: [grouped["accuracy"].mean()],
+                    model_name: [merged_df["accuracy"].mean()],
                 }
             )
 
@@ -75,14 +75,15 @@ def aggregate_results(
                     [aggregated_results, pivoted[model_name]], axis=1
                 )
 
-        Path("aggregated_results").mkdir(exist_ok=True)
-        aggregated_results.to_csv(
-            Path("aggregated_results") / task / f"{task}_{group}.csv"
-        )
+        if aggregated_results is not None:
+            (Path("aggregated_results") / task).mkdir(exist_ok=True, parents=True)
+            aggregated_results.to_csv(
+                Path("aggregated_results") / task / f"{task}_{group}.csv"
+            )
 
 
 def main():
-    tasks = {
+    tasks_group_map = {
         "NER": ["Type", "Named Entities", "Context size"],
         "charts": ["Type", "Question_type", "Domain", "Input_Context_Size"],
         "tables": ["Type", "Question_type", "Domain", "Input_Context_Size"],
@@ -102,8 +103,18 @@ def main():
         ],
     }
 
-    for task, group_by in tasks.items():
-        dataset_df = load_dataset(task)
+    task_ds_map = {
+        "NER": load_dataset("NER"),
+        "charts": load_dataset("charts"),
+        "tables": load_dataset("tables"),
+        "tables_yn_tf": load_dataset("tables_yn_tf"),
+        "special_cases": load_dataset("special_cases"),
+        "calculs_conversation": load_dataset("calculs_conversation"),
+        "calculs_conversation_gold": load_dataset("calculs_conversation"),
+    }
+
+    for task, group_by in tasks_group_map.items():
+        dataset_df = task_ds_map[task]
         results_files = get_results_files(task)
 
         aggregate_results(task, dataset_df, results_files, group_by=group_by)

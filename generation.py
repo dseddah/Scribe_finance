@@ -13,6 +13,12 @@ import os
 
 
 def main(model_name: str, task: str, datasets_path: Path):
+    if Path(f"results/{task}:{model_name.replace('/', '__')}.json").exists():
+        print(
+            f"Results for model {model_name} on task {task} already exist. Skipping generation."
+        )
+        return
+
     if model_name == "mistralai/Pixtral-12B-2409":
         tested_llm = LLM(
             model=model_name,
@@ -21,9 +27,18 @@ def main(model_name: str, task: str, datasets_path: Path):
             config_format="mistral",
             load_format="mistral",
             limit_mm_per_prompt={"image": 1},
+            tensor_parallel_size=len(os.environ["CUDA_VISIBLE_DEVICES"].split(","))
+            if os.environ.get("CUDA_VISIBLE_DEVICES")
+            else 1,
         )
     else:
-        tested_llm = LLM(model=model_name, max_model_len=16384)
+        tested_llm = LLM(
+            model=model_name,
+            max_model_len=16384,
+            tensor_parallel_size=len(os.environ["SLURM_GPUS_ON_NODE"].split(","))
+            if os.environ.get("SLURM_GPUS_ON_NODE")
+            else 1,
+        )
 
     match task:
         case "NER":

@@ -1,4 +1,5 @@
 import json
+import os
 import sys
 from vllm import LLM
 from pathlib import Path
@@ -12,6 +13,12 @@ from utils.tables_yn_tf import evaluate_tables_yn_tf
 
 
 def main(tested_model_name: str, judge_model_name: str, task: str, datasets_path: Path):
+    if Path(f"results/{task}:{tested_model_name.replace('/', '__')}:{judge_model_name.replace('/', '__')}.csv").exists():
+        print(
+            f"Results for model {tested_model_name} on task {task} already exist with judge {judge_model_name}. Skipping evaluation."
+        )
+        return
+
     with open(
         f"results/{task}:{tested_model_name.replace('/', '__')}.json", "r"
     ) as json_file:
@@ -19,8 +26,11 @@ def main(tested_model_name: str, judge_model_name: str, task: str, datasets_path
 
     judge_llm = LLM(
         model=judge_model_name,
-        max_model_len=1024,
+        max_model_len=2048,
         gpu_memory_utilization=0.95,
+        tensor_parallel_size=len(os.environ["CUDA_VISIBLE_DEVICES"].split(","))
+        if os.environ.get("CUDA_VISIBLE_DEVICES")
+        else 1,
     )
 
     match task:

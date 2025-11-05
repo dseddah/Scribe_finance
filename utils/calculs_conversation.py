@@ -21,19 +21,19 @@ def load_calcul_conversation_dataset(dataset_path: Path):
                         "Element_filename(input)": "file",
                         "Element_id": "conversation_id",
                     }
-                )[["id", "conversation_id", "file", "question"]]
+                )[["id", "conversation_id", "file", "question", "answer"]]
             break
-
-    df_grouped = df.groupby("conversation_id")["question"].apply(list).reset_index()
-
-    df = df_grouped.merge(df[["conversation_id", "file"]], on="conversation_id")
 
     return df
 
 
 def generate_calcul_conversation(llm: LLM, dataset_path: Path) -> list[str]:
     ds = load_calcul_conversation_dataset(dataset_path)
-    outputs = []
+
+    df_grouped = ds.groupby("conversation_id")["question"].apply(list).reset_index()
+    ds = df_grouped.merge(ds[["conversation_id", "file"]].drop_duplicates(), on="conversation_id")
+
+    outputs_text = []
 
     for index, conversation in ds.iterrows():
         conv = []
@@ -87,9 +87,9 @@ def generate_calcul_conversation(llm: LLM, dataset_path: Path) -> list[str]:
                 }
             )
 
-        outputs += outputs_conv
+        outputs_text.extend(outputs_conv)
 
-    return outputs
+    return outputs_text
 
 
 def evaluate_calcul_conversation(

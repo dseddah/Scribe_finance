@@ -56,17 +56,15 @@ def build_conversational_prompt(
                     "role": "user",
                     "content": [
                         {"type": "image_url", "image_url": {"url": image}},
-                        {"type": "text", "text": f"Answer all questions concisely based on the image provided. Don't include any explanations. {previous_questions[i]}"},
+                        {
+                            "type": "text",
+                            "text": f"Answer all questions concisely based on the image provided. Don't include any explanations. {previous_questions[i]}",
+                        },
                     ],
                 }
             )
         else:
-            prompt.append(
-                {
-                    "role": "user",
-                    "content": previous_questions[i]
-                }
-            )
+            prompt.append({"role": "user", "content": previous_questions[i]})
 
         prompt.append(
             {
@@ -115,7 +113,7 @@ def generate_calcul_conversation_gold(llm: LLM, dataset_path: Path) -> list[str]
 def evaluate_calcul_conversation_gold(
     judge_llm: LLM, dataset_path: Path, predictions: list[str]
 ) -> pd.DataFrame:
-    ds = load_calcul_conversation_dataset(dataset_path)
+    ds = load_calcul_conversation_gold_dataset(dataset_path)
 
     ds["prediction"] = predictions
 
