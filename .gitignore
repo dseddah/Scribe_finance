@@ -7,3 +7,7 @@ __pycache__/
 # Results files
 results/
 aggregated_results/
+
+# MacOS files
+.DS_Store
+._.*

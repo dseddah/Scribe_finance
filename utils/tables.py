@@ -8,7 +8,7 @@ from utils.image import get_asset
 def load_tables_dataset(dataset_path: Path):
     # Load json dataset
     for filesname in dataset_path.iterdir():
-        if filesname.suffix == ".json" and "dataset_tables" in filesname.stem:
+        if "dataset_tables.json" in filesname.name:
             with open(filesname, "r") as f:
                 ds = pd.read_json(f).rename(
                     columns={

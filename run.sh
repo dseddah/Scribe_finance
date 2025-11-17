@@ -12,4 +12,4 @@ done
 
 deps=$(IFS=:; echo "${job_ids[*]}")
 
-sbatch --wrap "uv run aggregate_results.py" -A zln@cpu --dependency=afterok:$deps
+sbatch --wrap "uv run aggregate_results.py" -A zln@cpu --dependency=afterok:$deps --output=logs/aggregate_results_A%.log --error=logs/aggregate_results_A%.err
