@@ -1,0 +1,131 @@
+id,question,answer,prediction,google__gemma-3-27b-it,Qwen__Qwen3-32B,meta-llama__Llama-3.3-70B-Instruct,majority_vote
+1,Ce graphique compare t-il la performance annuelle du fonds PLUVALCA ALLCAPS – part A avec celle de son indice de référence : le SBF 120 Net TR ?,Oui, Oui,True,True,True,True
+2,Quelle est la période couverte par ce graphique ?,"Le graphique couvre la période de 2012 à 2021, soit 10 années complètes de performances.", 2012-2021,True,True,True,True
+3,Y a-t-il eu des années où la performance du fonds a été négative ?,Oui, Oui,True,True,True,True
+4,Quel est le nom du fonds présenté dans ce graphique ?,PLUVALCA ALLCAPS, PLUVALCA ALLCAPS - ACTION A,False,False,False,False
+5,Quelle est la date de création du compartiment (le fonds) ?,15 septembre 2017, 15/09/2017,True,True,True,True
+6,Quelle est la date de création de la part A (ACTION A),15 septembre 2017, 15/09/2017,True,True,True,True
+7,Le nom du Fonds parapluie est-il mentionné ?,Non, Non,True,True,True,True
+8,En quelle devise le fonds est-il libellé ?,Euros, Euro,False,True,True,True
+9,Quel est l’indicateur de référence utilisé par le fonds ?,SBF 120 NET TR, PLUVALCA ALLCAPS - ACTION A,False,False,False,False
+10,Quelle a été la performance du fonds PLUVALCA ALLCAPS – Action A en 2021 ?,"20,5 %
+
+", -18.3%,False,False,False,False
+11,Quelle est la meilleure performance annuelle réalisée par le fonds Antenor ?,2013," 5,88%",False,False,False,False
+12,Quelle est la pire performance annuelle enregistrée ?,2008," -15,43%",False,False,False,False
+13,Combien d'années positives le fonds a-t-il eu ?,7, 6,False,False,False,False
+14,Combien d'années négatives le fonds a-t-il eu ?,4, 3,False,False,False,False
+15,Ces performances incluent-elles les frais ?,Oui, Non,False,False,False,False
+16,Quelle a été la performance du fonds en 2018 ?,"-12,9%", 26.5%,False,False,False,False
+17,Est-ce que 2018 a été la pire année de la période représentée ?,Oui, Oui,True,True,True,True
+18,Quelle a été la performance de l'OPCVM en 2013 ?,"19,8%", 19.8%,True,True,True,True
+19,Quelle est la devise de calcul de la performance ?,Euro, EUR,True,True,True,True
+20,Pendant combien de périodes la cristallisation a-t-elle eu lieu sur l’ensemble des périodes représentées ?,2, 2,True,True,True,True
+21,Quelle est la première période où une cristallisation est observée ?,La cristallisation est observée à la fin de la période 0–1., 1,False,False,False,False
+22,Combien de périodes consécutives sans cristallisation sont visibles sur le graphique ?,"Trois périodes consécutives (1–2, 2–3, 3–4) sans cristallisation.", 3,True,True,True,True
+23,Y a-t-il eu une cristallisation l’année 6 ?,Oui, Non,False,False,False,False
+24,Quels types d'actifs composent le nouvel indice de référence depuis 2021 ?,15% CAC Total Return ; 10% MSCI World Net Total Return ; 35% Euro MTS 5-7 ans ; 40% ESTR Capitalisé," 15% CAC 40, 10% MSCI World, 35% ETFs MSCI 5-7 ans et 40% ETFs Capitalisé",False,False,False,False
+25,Depuis quand l’OPCVM existe-t-il ?,2007-09-10T00:00:00, 2007,True,True,True,True
+26,Les frais d'entrée et de sortie sont-ils inclus dans le calcul des performances passées ?,Non, Non,True,True,True,True
+27,Quelle a été la pire année pour l’OPCVM ?,2011, 2012,False,False,False,False
+28,Combien de fois la performance de l’OPCVM a-t-elle dépassé les 4% ?,3, 5,False,False,False,False
+29,Quelle a été la meilleure année pour le fonds ?,2019, 2018,False,False,False,False
+30,Qu’indique la lettre B sur le graphique ?,Le fonds devient nourricier, Indice de référence,False,False,False,False
+31,Quelle a été la performance annuelle de l’indice de référence en 2016 ?,"4,4 %", 12.7%,False,False,False,False
+32,L’OPCVM avait-il le statut de fonds nourricier en 2014 ?,Non, Oui,False,False,False,False
+33,Quel est le nom complet du produit financier présenté dans ce contenu ?,Amundi Actions Euro - Part P, AMUND ACTIVOS EURO - P,False,False,False,False
+34,Quelle a été la performance du fonds Amundi Actions Euro - P en 2020 ?,"-1,8 %"," -12,5%",False,False,False,False
+35,"Dans l'exemple du graphique, la part sous-performe-t-elle l’actif de référence pendant toute la période de 5 ans ?",Oui, Non,False,False,False,False
+36,"Dans l'exemple du graphique, une commission de surperformance est-elle dûe la cinquième année ?",Non, Non,True,True,True,True
+37,En quelle année l'écart cumulé est-il le plus important ?,Année 1, Année 2,False,False,False,False
+38,Que représente la ligne bleue claire ?,Actif net de la part, Actif net de la part,True,True,True,True
+39,"Dans le tableau intitulé ""Cas d'une sous performance compensée"", quel est l'actif net de la part en Année 1?",-2, 98,False,False,False,False
+40,La part est-elle en sous-performance au départ dans le graphique?,Oui, Oui,True,True,True,True
+41,"Dans le graphique, le fait que la courbe bleue claire passe au dessus de la bleue foncée signifie t-il que la part a dépassé l'actif de référence ?",Oui, Non,False,False,False,False
+42,En quelle année le fonds a-t-il connu sa meilleure performance ?,2019, 2019,True,True,True,True
+43,Quelle est la seule année de perte enregistrée sur la période ?,2018, 2018,True,True,True,True
+44,Pourquoi les performances affichées avant 2019 ne reflètent-elles pas totalement la réalité du fonds actuel ?,A : La performance passée est basée sur la performance passée du fonds français absorbé créé en 2016., Le fonds français absorbé créé en 2016.,False,False,True,False
+45,Quel changement majeur a eu lieu en 2021 concernant l’indice de référence ?,"À compter du 02.12.2021, l’indice de référence est l’€STR capitalisé +2 %", L'indice de référence a été changé à partir du 02.12.2021.,True,True,True,True
+46,Les performances affichées tiennent-elles compte des frais du fonds ?,Oui, Oui,True,True,True,True
+47,Le fonds a-t-il mieux performé que son indice de référence en 2019 ?,Non, Oui,False,False,False,False
+48,"En 2021, le fonds a-t-il surperformé l’indice ?",Non, Oui,False,False,False,False
+49,"Durant la période 2012 à 2021, quelle année le fonds a-t-il enregistré son rendement le plus élevé, indépendamment de l’indice de référence ?",2019, 2017,False,False,False,False
+50,Quel est le nom de l'indice de référence utilisé à partir de février 2016 ?,NMX 30 Infrastructure Global (TR), NAM100 Infrastructure Global,False,False,False,False
+51,Quel est le nom du compartiment effectivement réprésenté entre février 2008 et février 2016 dans le graphique?,NMX®30 Infrastructure Global THEAM Easy UCITS ETF, ECPI GLOBAL ESG INFRASTRUCTURE UCITS ETF,False,False,False,False
+52,Quelle était la dénomination du fonds entre février 2016 et avril 2021 ?,NMX 30 Infrastructure Global, ECPI GLOBAL ESG INFRASTRUCTURE UCITS ETF,False,False,False,False
+53,"D’après la légende, à quel fonds correspondent les barres bleues du graphique des performances passées ?",ECPI GLOBAL ESG INFRASTRUCTURE, ECPI GLOBAL ESG INFRASTRUCTURE UCITS ETF,True,False,True,True
+54,Quelle est la phrase dans le document qui explique pourquoi les performances du “NMX®30 Infrastructure Global THEAM Easy UCITS ETF” sont utilisées pour illustrer celles du fonds actuellement commercialisé sous le nom “BNP PARIBAS EASY NMX® 30 INFRASTRUCTURE GLOBAL” ?,"02/2008-02/2016: À la suite d’une opération sur titres le 05/02/2016, les performances indiquées correspondent à celles du compartiment «NMX®30 Infrastructure Global THEAM Easy UCITS ETF». Le compartiment «BNP PARIBAS EASY NMX® 30 INFRASTRUCTURE GLOBAL» est géré conformément à une stratégie d’investissement, des processus et des frais absolument identiques."," A: 02/06/2016 : À la suite d'une opération sur titres du 05/06/2016, les performances indiquées correspondent à celles du compartiment « NMX®30 Infrastructure Global THEAM Easy UCITS ETF »",False,False,False,False
+55,Quelle a été la meilleure année pour le fonds Apprecio E entre 2011 et 2020 ?,2012, 2013,False,False,False,False
+56,En quelle année le fonds a-t-il enregistré sa pire performance ?,2018, 2018,True,True,True,True
+57,Le fonds Apprecio E a-t-il surperformé l’indicateur de référence en 2017 ?,Oui, Oui,True,True,True,True
+58,"En 2019, le fonds a-t-il enregistré une performance supérieure à 5 % ?",Oui, Non,False,False,False,False
+59,Quelle est la seule année où la performance du fonds et celle de l’indice sont quasiment identiques ?,2017, 2019,False,False,False,False
+60,Comment est calculée la performance du fonds Apprecio E ?,"coupons nets réinvestis, et nette de frais de gestion directs et indirects et hors frais d’entrée et de sortie", coups nets réinvestis,False,False,False,False
+61,Quand a été créé le fonds Apprecio E ?,28/04/2006, 1er janvier 2011,False,False,False,False
+62,Quel changement au niveau du dépositaire est survenu durant la période présentée ?,changement de société de gestion de VP FINANCE GESTION à WiseAM et de dépositaire de Banque Leonardo à Crédit Industriel et Commercial (CIC), Changement de société de gestion de VP FINANCE GESTION à WiseAM et de dépositaire de Banque Changement à Crédit Industriel et Commercial (CIC),True,False,False,False
+63,Quel changement au niveau de la société de gestion est survenu durant la période présentée ?,changement de société de gestion de VP FINANCE GESTION à WiseAM, changement de société de gestion de VP FINANCE GESTION à WiseAM,True,True,True,True
+64,En quelle année la part A-EUR du fonds a-t-elle enregistré sa meilleure performance annuelle ?,2013, 2013,True,True,True,True
+65,Quelle a été la pire performance du fonds entre 2011 et 2020 ?,2018," -4,79%",False,False,False,False
+66,Quelle est la performance du fonds en 2020 ?,"22,72%", 22.73%,True,False,False,False
+67,Y a-t-il une année où le fonds a enregistré une performance proche de zéro ?,Oui," Oui, en 2019.",True,True,False,True
+68,Comment la performance du fonds est-elle calculée ?,coupons nets réinvestis et hors frais d’entrée, coupons nets réinvestis et hors frais d'entrée,True,True,True,True
+69,Quelle est la devise utilisée pour calculer les performances ?,euro, Euro,True,True,True,True
+70,Depuis quand la part A-EUR du fonds existe-t-elle ?,1er décembre 2006, 1er décembre 2006,True,True,True,True
+71,Le fonds est-il comparé à un indice de référence dans ce document ?,Non, Non,True,True,True,True
+72,"Quel est le nom complet du fonds figurant dans la rubrique “Performances passées”, et à quelle classe de part correspond-il ?",Varenne Selection part A-EU, Varenne Selection part A-EUR,False,False,True,False
+73,À combien s’élève le taux de commission de surperformance dans cet exemple ?,20 %, 20%,True,True,True,True
+74,Le mécanisme de clawback a-t-il empêché la facturation d'une commission en année 9 ?,Oui, Oui,True,True,True,True
+75,Y a t-il eu un commission de surperformance à payer en année 3 ?,Non, Non,True,True,True,True
+76,"En année 6, le fonds a-t-il récupéré toute sa sous-performance ?",Non, Non,True,True,True,True
+77,En quelle année une sous-performance de -10 % est enregistrée ?,Y8, 2012,False,False,False,False
+78,En quelle année la performance du fonds est-elle tombée à -5 % ?,Y3, 2012,False,False,False,False
+79,Quelle est la performance du fonds en année 1 ?,5 %, 102,False,False,False,False
+80,Une  commission de performance est-elle dûe la sixième année ?,Oui, Non,False,False,False,False
+81,En quelle(s) année(s) observe-t-on un prélèvement de frais de surperformance ?,Année 2 ; Année 5," Année 1, Année 2",False,False,False,False
+82,"En année 3, y a-t-il une commission de surperformance prélevée ?",Non, Non,True,True,True,True
+83,"En année 4, la performance dépasse-t-elle le Hurdle ?",Oui, Oui,True,True,True,True
+84,"À partir de l'année 3, à quel moment la VNI nette repasse t-elle au-dessus du HWM ?",Année 5, Année 4,False,False,False,False
+85,Que représente la courbe rouge ?,VNI (après frais de surperformance), VNE nette (après frais de surperformance),False,False,False,False
+86,Quel modèle de commission de surperformance est illustré dans ce graphique ?,modèle avec HWM 5Y, Modèle avec HWM 5Y,True,True,True,True
+87,La VNI nette à la fin de l’année 5 est-elle de plus de 105 ?,Oui, Oui,True,True,True,True
+88,En quelle année le fonds a-t-il réalisé sa meilleure performance ?,2016, 2021,False,False,False,False
+89,Combien d’années le fonds a-t-il surperformé l’indice MSCI World ?,4, 7,False,False,False,False
+90,Quelle a été la performance du fonds en 2020 ?,"3,4%"," 1,8%",False,False,False,False
+91,Quelle année montre le plus grand écart de performance entre le fonds et l’indice ?,2019, 2018,False,False,False,False
+92,Quelles sont les années pendant lesquelles le fonds a eu une performance négative ?,2011 ; 2014 ; 2015 ; 2018," 2011, 2013, 2015, 2018",False,False,False,False
+93,En quelle année le fonds a-t-il le plus sous-performé l’indice ?,2019, 2018,False,False,False,False
+94,En quelle année le fonds a le plus surperformé l’indice ?,2016, 2016,True,True,True,True
+95,En quelle année l’indice a le plus surperformé le fonds ?,2019, 2021,False,False,False,False
+96,Combien de fois le fonds a-t-il eu une performance supérieure à 20 % ?,2, 3,False,False,False,False
+97,Combien d’années le fonds a-t-il affiché une performance positive ?,7, 7,True,True,True,True
+98,En quelle année la différence de performance entre le fonds et l’indice est la plus faible en % ?,2017, 2018,False,False,False,False
+99,Combien de fois le fonds a-t-il affiché une performance inférieure à -10 % ?,3, 3,True,True,True,True
+100,Quelle est la part des investissements durables dans le total des investissements ?,"80,00 %"," 80,00 %",True,True,True,True
+101,A combien s'élève la part des investissements non durables ?,"20,00 %"," 20,00 %",True,True,True,True
+102,"Parmi les investissements durables, quelle part est allouée aux critères environnementaux ?","0,00 %"," 0,00 %",True,True,True,True
+103,Les investissements durables incluent-ils une composante sociale ?,Non, Oui,False,False,False,False
+104,Peut-on considérer que les investissements ont un objectif environnemental ou social ?,Non, Non,True,True,True,True
+105,"Quel est le niveau d’alignement des investissements avec la taxonomie européenne, obligations souveraines incluses ?","0,00 %", 100.00%,False,False,False,False
+106,L’exclusion des obligations souveraines modifie-t-elle le niveau d’alignement avec la taxonomie ?,Non, Non,True,True,True,True
+107,"Quelle est la part des investissements classés comme ""autres investissements"" dans les deux graphiques en camembert ?","100,00 %", 0.00%,False,False,False,False
+108,Vrai ou Faux ? Les investissements du portefeuille sont alignés à 50 % sur la taxonomie européenne.,Faux, Faux,True,True,True,True
+109,"Vrai ou Faux ? Le portefeuille présente un alignement de 0,00 % avec la taxonomie, obligations souveraines incluses.",Vrai, Faux,False,False,False,False
+110,La part d’investissements alignés sur la taxonomie augmente lorsque l’on exclut les obligations souveraines. Vrai ou Faux ?,Faux, Faux,True,True,True,True
+111,"Tous les investissements sont classés comme ""autres investissements"" dans les deux graphiques. Vrai ou Faux ?",Vrai, Faux,False,False,False,False
+112,Vrai ou Faux ? Le graphique permet de conclure que les critères environnementaux ne sont pas respectés par le portefeuille. ,Vrai, Faux,False,False,False,False
+113,Quelle a été la performance du fonds en 2018 ?,"-10,63 %", -16.81%,False,False,False,False
+114,En quelle année le fonds a-t-il eu une performance négative ?,2018, 2018,True,True,True,True
+115,En quelle année le fonds a t-il eu sa meilleure performance ?,2019, 2019,True,True,True,True
+116,Vrai ou Faux ? La performance du fonds a toujours été positive entre 2017 et 2021.,Faux, Faux,True,True,True,True
+117,Y a t-il une performance inscrite pour l'année 2021 dans le graphique ?,Non, Non,True,True,True,True
+118,Quel est le nom du produit dont on étudie les performances passées ?,Opéra Première Symphonie C EUR, Opéra Première Symphonie C EUR,True,True,True,True
+119,Quelle a été la performance du fonds CD France Expertise en 2018 ?,"-2,0 %"," 24,6%",False,False,False,False
+120,"En 2020, le fonds a-t-il mieux résisté que son indice de référence ?",Oui, Non,False,False,False,False
+121,Combien d’années le fonds a-t-il enregistré une performance supérieure à celle de son indice ?,6, 5,False,False,False,False
+122,Quelles sont les années pendant lesquelles le fonds a eu une performance supérieure à celle de son indice ?,2011 ; 2014 ; 2015 ; 2017 ; 2018 ; 2020," 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019",False,False,False,False
+123,Comment les performances sont-elles calculées pour le fonds,Les performances de CD France Expertise présentées ici sont calculées revenus nets réinvestis et après déduction de tous les frais du fonds, revenues nettes réinvesties et après déduction de tous les frais du fonds,True,True,True,True
+124,Comment les performances sont-elles calculées pour l’indice ?,Les performances de l'indicateur de référence sont calculées dividendes réinvestis, Les performances de l'indice sont calculées dividendes réinvestis.,True,True,True,True
+125,Quelle a été la performance du fonds FCP AGA Capital Plus en 2021 ?,"14,03 %"," 14,03%",True,True,True,True
+126,Quelle est l’année où le fonds a enregistré sa meilleure performance parmi celles affichées ?,2021, 2021,True,True,True,True
+127,Quelle a été la performances de l'indice MSCI EMU Net Return  en 2020 ?,-0.01, -10.5%,False,False,False,False
+128,Quelle a été la performance la plus élevée de l’OPCVM sur la période 2015–2021 ?,"12,56 %"," 12,64%",False,False,False,False

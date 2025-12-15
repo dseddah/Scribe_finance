@@ -1,0 +1,326 @@
+id,conversation_id,file,question,answer,prediction,evaluation
+1,1.1,priip_heptagon_IE00B3N32X37-2023-fr_calcul_1.pdf,"Si j’investis 25 000 $ et que le scénario favorable se réalise au bout d’un an, combien vais-je obtenir environ à la fin de l’année ?
+A. 29 500 $
+B. 38 375 $
+C. 39 725 $
+D. 40 000 $",C,C. 39 725 $,True
+2,1.1,priip_heptagon_IE00B3N32X37-2023-fr_calcul_1.pdf,"Et par curiosité, cette valeur-là, elle dépasse de combien celle du scénario intermédiaire sur la même période ?
+A. Environ 7 625 $
+B. Un peu plus de 5 000 $
+C. 12 275 $
+D. C’est équivalent",C,A. Environ 7 625 $,False
+3,1.1,priip_heptagon_IE00B3N32X37-2023-fr_calcul_1.pdf,"OK, mais si je me projette sur 5 ans avec ce même scénario, j’atteins quoi comme montant final ?
+A. 32 000 $
+B. 37 250 $
+C. 39 750 $
+D. 43 750 $",B,D. 43 750 $,False
+4,1.1,priip_heptagon_IE00B3N32X37-2023-fr_calcul_1.pdf,"Ah oui tiens, et avec le scénario de tensions sur 1 an avec la somme que j’ai investie… je perds combien en gros ?
+A. 9 250 $
+B. 12 750 $
+C. 11 625 $
+D. 19 650 $",C,C. 11 625 $,True
+5,1.1,priip_heptagon_IE00B3N32X37-2023-fr_calcul_1.pdf,"Et si je garde mes 25 000 $ 5 ans dans ce même scénario de tensions, je retombe à quoi ?
+A. 5 275 $
+B. 8 000 $
+C. 13 275 $
+D. 5 000 $",A,A. 5 275 $,True
+6,1.1,priip_heptagon_IE00B3N32X37-2023-fr_calcul_1.pdf,"Et dans le scénario défavorable sur 5 ans, mon capital fond de combien en % sur toute la période ?
+A. 8 %
+B. 0,8 %
+C. 3,8 %
+D. Impossible à dire",C,A. 8 %,False
+7,1.1,priip_heptagon_IE00B3N32X37-2023-fr_calcul_1.pdf,"Et si j’investis 25 000 $ avec le même scénario, et j’applique la même baisse au bout de 5 ans. J’obtiens environ ?
+A. 24 050 $
+B. 24 010 $
+C. 24 000 $
+D. 23 900 $",A,C. 24 000 $,False
+8,1.1,priip_heptagon_IE00B3N32X37-2023-fr_calcul_1.pdf,"Et à l’inverse, sur 5 ans en scénario favorable, mon capital passe à combien ?
+A. 49 275 $
+B. 41 250 $
+C. 49 275 $
+D. 36 000 $",A,A. 49 275 $,True
+9,1.1,priip_heptagon_IE00B3N32X37-2023-fr_calcul_1.pdf,"Tu saurais me dire combien j’aurais gagné net dans ce cas-là (scénario favorable sur 5 ans) ?
+A. 25 000 $
+B. 24 275 $
+C. 14 275 $
+D. Impossible à dire sans les impôts",B,B. 24 275 $,True
+10,1.1,priip_heptagon_IE00B3N32X37-2023-fr_calcul_1.pdf,"Mais est-ce que ce tableau me permet de savoir ce que je toucherais exactement une fois mes impôts retirés ?
+A. Oui, c’est dans la dernière colonne
+B. Oui, en calculant bien
+C. Non, ce n’est pas indiqué
+D. Seulement pour les rendements positifs",C,"C. Non, ce n’est pas indiqué",True
+11,2.1,priip_gay-lussac_FR0010178665-fr_calcul_1.pdf,"Si je place 25 000 € sur la part A, combien me coûteraient les frais d’entrée maximum ?
+A. 500 €
+B. 2 %
+C. 625 €
+D. 700 €",A,C. 625 €,False
+12,2.1,priip_gay-lussac_FR0010178665-fr_calcul_1.pdf,"Et si je prends cette même somme pour la part I ou R, j’aurais une différence au niveau des frais ?
+A. Oui, les frais sont plus élevés pour la part R
+B. Non, c’est toujours 2 %, donc le même coût
+C. Oui, car la TVA est différente
+D. On ne peut pas savoir",B,"B. Non, c’est toujours 2 %, donc le même coût",True
+13,2.1,priip_gay-lussac_FR0010178665-fr_calcul_1.pdf,"Et côté sortie, si je retire la totalité, combien cela va me couter ?
+A. 1 %
+B. Il n’y a pas de frais de sortie
+C. environ 0,5 %
+D. Cela dépend de la part",B,B. Il n’y a pas de frais de sortie,True
+14,2.1,priip_gay-lussac_FR0010178665-fr_calcul_1.pdf,"D’accord. Maintenant si je reste un an sur la part A, quels frais annuels sont prélevés en pourcentage ?
+A. 2,8 %
+B. 1,44 %
+C. 1,88 %
+D. Aucun",A,"A. 2,8 %",True
+15,2.1,priip_gay-lussac_FR0010178665-fr_calcul_1.pdf,"Et concrètement, en euros, cela me coûterait combien ces 2,80 % si je laisse mes 25 000 € placés un an ?
+A. 650 €
+B. 700 €
+C. 500 €
+D. 625 €",B,B. 700 €,True
+16,2.1,priip_gay-lussac_FR0010178665-fr_calcul_1.pdf,"OK, et si j'avais mis la même somme sur la part I à la place, mes frais annuels auraient été de… ?
+A. 625 €
+B. 360 €
+C. 450 €
+D. 520 €",B,B. 360 €,True
+17,2.1,priip_gay-lussac_FR0010178665-fr_calcul_1.pdf,"Pas mal, donc la différence annuelle entre la part A et la part I, cela donnerait quoi comme écart de coût en euros ?
+A. 240 €
+B. 300 €
+C. 340 €
+D. 180 €",C,C. 340 €,True
+18,2.1,priip_gay-lussac_FR0010178665-fr_calcul_1.pdf,"Et si je regarde bien, combien y a-t-il de parts distinctes proposées dans ce tableau ?
+A. Deux
+B. Trois
+C. Quatre
+D. Impossible à dire",B,B. Trois,True
+19,2.1,priip_gay-lussac_FR0010178665-fr_calcul_1.pdf,"Tiens, et sur une année, laquelle est la plus économique en frais courants ?
+A. La part A
+B. La part R
+C. La part I
+D. Elles sont identiques",C,C. La part I,True
+20,2.1,priip_gay-lussac_FR0010178665-fr_calcul_1.pdf,"Dernière chose : est-ce que ces frais incluent aussi ce que je pourrais payer à mon conseiller personnel ?
+A. Oui, toujours
+B. Non, ce n’est pas forcément inclus
+C. Oui, sauf pour la part R
+D. C’est déduit des frais de sortie",B,"B. Non, ce n’est pas forcément inclus",True
+21,3.1,priip_artisan_IE00B8Q6N977-2022-fr_calcul_1.pdf,"Si j’investis 10 000 USD et que le scénario favorable se réalise au bout d’un an, combien j’obtiens ?
+A. 13 540 USD
+B. 10 630 USD
+C. 16 410 USD
+D. 17 530 USD",C,C. 16 410 USD,True
+22,3.1,priip_artisan_IE00B8Q6N977-2022-fr_calcul_1.pdf,"Et dans ce cas-là, sur un an, mon rendement en pourcentage, c’est bien ce fameux 64 % qu’on voit ?
+A. Oui, exactement
+B. Non, c’est sur 5 ans
+C. Non, c’est une moyenne pondérée
+D. Ce n’est pas dit",A,"A. Oui, exactement",True
+23,3.1,priip_artisan_IE00B8Q6N977-2022-fr_calcul_1.pdf,"Bon et si je reste 5 ans dans le scénario intermédiaire, j’atteins quoi comme montant à la fin ?
+A. 10 630 USD
+B. 13 540 USD
+C. 17 530 USD
+D. 7 410 USD",B,B. 13 540 USD,True
+24,3.1,priip_artisan_IE00B8Q6N977-2022-fr_calcul_1.pdf,"D’accord. Et cette progression-là sur 5 ans, ça revient à quel rendement annuel moyen à peu près ?
+A. 6,24 %
+B. 11,88 %
+C. -5,83 %
+D. 22 %",A,"A. 6,24 %",True
+25,3.1,priip_artisan_IE00B8Q6N977-2022-fr_calcul_1.pdf,"Et si j'avais placé 25000 USD en scénario intermediaire sur le même nombre d'années ?
+A. 1 240 USD
+B. 1 560 USD
+C. 1 000 USD
+D. 1 270 USD",B,B. 1 560 USD,True
+26,3.1,priip_artisan_IE00B8Q6N977-2022-fr_calcul_1.pdf,"Humm pas mal, donc là je gagne quel % exactement ?
+A. 6,24 %
+B. 6,35 %
+C. 11,88 %
+D. 34,18% ",A,"B. 6,35 %",False
+27,3.1,priip_artisan_IE00B8Q6N977-2022-fr_calcul_1.pdf,"Et tu sais si ces chiffres prennent en compte mes impôts ou ma fiscalité perso ?
+A. Oui, c’est intégré
+B. Non, ce n’est pas précisé
+C. Non, ce n’est pas pris en compte
+D. Ça dépend du pays",C,"C. Non, ce n’est pas pris en compte",True
+28,3.1,priip_artisan_IE00B8Q6N977-2022-fr_calcul_1.pdf,"Et pour ce fameux scénario défavorable, les rendements annuels sont plus négatifs sur 1 an ou sur 5 ans ?
+A. Sur 5 ans
+B. Sur 1 an
+C. C’est pareil
+D. Ce n’est pas mentionné",B,B. Sur 1 an,True
+29,3.1,priip_artisan_IE00B8Q6N977-2022-fr_calcul_1.pdf,"Est-ce qu’on sait combien de personnes ont réellement connu ces performances passées ?
+A. Oui, c’est écrit en note
+B. Oui, les chiffres sont agrégés
+C. Non, cette information ne figure pas
+D. Oui, dans le rapport de performance",B,"C. Non, cette information ne figure pas",False
+30,3.1,priip_artisan_IE00B8Q6N977-2022-fr_calcul_1.pdf,"Et à propos du scénario minimum, il dit qu’on peut tout perdre. Mais est-ce qu’on connaît la probabilité que ça arrive ?
+A. Oui, elle est précisée dans la ligne
+B. Non, elle n’est pas donnée
+C. Oui, c’est 1 %
+D. Oui, c’est entre tensions et défavorable",B,"B. Non, elle n’est pas donnée",True
+31,4.1,priip_capital-group_LU1378994856-2022-fr_calcul_1.pdf,"D’après le tableau, quel est le montant total des coûts si l’on sort du produit après 1 an avec 10000 USD investi au départ ?
+A. 168 USD
+B. 1.7 %
+C. 841 USD
+D. 10 000 USD",A,"B. Non, cette info n’est pas dans le document",False
+32,4.1,priip_capital-group_LU1378994856-2022-fr_calcul_1.pdf,"Et si on investi le nombre d'années correspondant à la seconde période de détention présentée, le coût total passe à combien ?
+A. 168 USD
+B. 525 USD
+C. 841 USD
+D. 1 050 USD",C,A. 168 USD,False
+33,4.1,priip_capital-group_LU1378994856-2022-fr_calcul_1.pdf,"Justement, ces frais récurrents sont estimés à combien par an en pourcentage de l’investissement ?
+A. 0 %
+B. 1.7 %
+C. 8.8 %
+D. 10.5 %",B,C. 841 USD,False
+34,4.1,priip_capital-group_LU1378994856-2022-fr_calcul_1.pdf,"Donc, si on applique 1.7 % par an pendant 5 ans sur un investissement de départ de 10 000 USD, à combien s’élèvent ces frais ?
+A. 168 USD
+B. 500 USD
+C. 850 USD
+D. 1 700 USD",C,B. 1.7 %,False
+35,4.1,priip_capital-group_LU1378994856-2022-fr_calcul_1.pdf,"Le rendement annuel du produit avant frais est supposé à :
+A. 8.8 %
+B. 1.7 %
+C. 0 %
+D. 10.5 %",D,C. 850 USD,False
+36,4.1,priip_capital-group_LU1378994856-2022-fr_calcul_1.pdf,"Et après frais, ce rendement net descend à… ?
+A. 1.7 %
+B. 8.8 %
+C. 10.5 %
+D. 5 %",B,D. 10.5 %,False
+37,4.1,priip_capital-group_LU1378994856-2022-fr_calcul_1.pdf,"Peut-on savoir à combien s’élève le rendement la première année dans cet exemple ?
+A. 8.8 %
+B. 10.5 %
+C. 0 %
+D. Ce n’est pas précisé",C,B. 8.8 %,False
+38,4.1,priip_capital-group_LU1378994856-2022-fr_calcul_1.pdf,"Est-il possible de connaître les frais de sortie exacts dans cet exemple ?
+A. Oui, 0 %
+B. Oui, 5.25 %
+C. Non, l'information n'est pas présente dans ce document
+D. Non, on n'a qu'une estimation des frais de sortie",C,C. 0 %,False
+39,4.1,priip_capital-group_LU1378994856-2022-fr_calcul_1.pdf,"Dans l'exemple présenté, quelle somme de départ a été investie?
+A. 5 000 USD
+B. 10 000 USD
+C. 168 USD
+D. Ce n’est pas mentionné",B,"C. Non, l'information n'est pas présente dans ce document",False
+40,4.09999999999999,priip_capital-group_LU1378994856-2022-fr_calcul_1.pdf,"Est-ce qu’on peut savoir combien d’investisseurs ont suivi cette stratégie ou ce scénario modéré ?
+A. Oui, on a les chiffres exacts
+B. Non, cette info n’est pas dans le document
+C. Oui, ils sont dans une note de bas de page
+D. On peut l’estimer à partir du rendement",B,B. 10 000 USD,False
+41,5.1,priip_sofidy_FR0013260288_2023-fr_calcul_1.pdf,"D’après le document, à quel niveau de risque est classé ce produit sur une échelle de 1 à 7 ?
+A. Niveau 1 – Risque très faible
+B. Niveau 2 – Risque faible
+C. Niveau 5 – Risque modéré
+D. Niveau 7 – Risque très élevé",B,B. Niveau 2 – Risque faible,True
+42,5.1,priip_sofidy_FR0013260288_2023-fr_calcul_1.pdf,"D’accord, donc c’est plutôt rassurant. Mais ce niveau de risque est-il garanti si on sort avant les 8 ans ?
+A. Oui, le niveau reste le même quelle que soit la durée
+B. Oui, car le produit est stable
+C. Non, le risque réel peut différer si on sort avant
+D. On ne sait pas",C,"C. Non, le risque réel peut différer si on sort avant",True
+43,5.1,priip_sofidy_FR0013260288_2023-fr_calcul_1.pdf,"Et dans le pire des cas, que se passerait-il au bout d’un an selon le scénario de tensions ?
+A. On perd tout
+B. On récupère 10 101 €
+C. On descend à 8 670 €
+D. On perd 1 330 €",D,C. On descend à 8 670 €,False
+44,5.1,priip_sofidy_FR0013260288_2023-fr_calcul_1.pdf,"Et sur 8 ans, toujours dans le même scénario que la question précédente, le produit évoluerait comment ?
+A. Après déduction des coûts il passerait à 12 084 €
+B. Le pourcentage de baisse serait moins important
+C. Il n'y aurait ni gains ni pertes
+D. L'investissement s'éléverait à 10 415 €",B,B. Le pourcentage de baisse serait moins important,True
+45,5.1,priip_sofidy_FR0013260288_2023-fr_calcul_1.pdf,"Donc même dans ce cas extrême à long terme, on ne perd pas tout ?
+A. Faux, on perd tout
+B. Vrai, on perd un peu mais pas tout
+C. Non, on gagne légèrement
+D. Impossible à dire",B,"B. Vrai, on perd un peu mais pas tout",True
+46,5.1,priip_sofidy_FR0013260288_2023-fr_calcul_1.pdf,"Si on regarde maintenant le scénario favorable à 8 ans, combien pourrait-on obtenir ?
+A. 12 084 €
+B. 13 793 €
+C. 10 101 €
+D. 8 291 €",B,B. 13 793 €,True
+47,5.1,priip_sofidy_FR0013260288_2023-fr_calcul_1.pdf,"Et au final, quel est le seul scénario (sur les 4) qui affiche un rendement négatif sur les 8 ans ?
+A. Scénario favorable
+B. Scénario de tensions
+C. Scénario défavorable
+D. Aucun",B,C. Scénario défavorable,False
+48,5.1,priip_sofidy_FR0013260288_2023-fr_calcul_1.pdf,"Peut-on savoir dans ce document combien d’investisseurs ont réellement obtenu ces performances passées ?
+A. Oui, c’est dans les notes
+B. Non, ce n’est pas indiqué
+C. Oui, dans l’annexe fiscale
+D. On peut l’estimer",B,"B. Non, ce n’est pas indiqué",True
+49,5.1,priip_sofidy_FR0013260288_2023-fr_calcul_1.pdf,"À propos de garantie de capital, est-ce que ce produit en propose une ?
+A. Oui, totalement
+B. Oui, en cas de crise
+C. Non, aucune
+D. Seulement à échéance",C,"C. Non, aucune",True
+50,5.1,priip_sofidy_FR0013260288_2023-fr_calcul_1.pdf,"Est-ce que les rendements indiqués prennent en compte les frais de conseil ou de distribution ?
+A. Oui, tous sont inclus
+B. Non, pas nécessairement
+C. Oui, sauf les commissions
+D. On ne sait pas",B,"B. Non, pas nécessairement",True
+51,6.1,prospectus_fidelity_2024_calcul_1.pdf,"Quelle est la politique de distribution de dividendes pour la catégorie ""USD Hedged ACC "" ?
+A. Distribution trimestrielle
+B. Capitalisation
+C. Distribution annuelle
+D. Non précisée",B,B. P EUR Acc non coté,False
+52,6.1,prospectus_fidelity_2024_calcul_1.pdf,"Et la catégorie précédente dans le tableau (la ligne précédente), c’est le même principe ?
+A. Oui, c’est aussi en capitalisation
+B. Non, c’est une distribution
+C. Non précisé
+D. Il n’y a pas de dividendes",B,"B. Non, certaines n'ont pas cette info",False
+53,6.1,prospectus_fidelity_2024_calcul_1.pdf,"Et si on compare ces deux-là, ont-elles le même TER maximum (Total des Frais sur Encours) ?
+A. Non, Inc USD a un TER plus élevé
+B. Oui, toutes deux sont à 0,20 %
+C. USD Hedged ACC est à 0,25 %, l’autre non
+D. Ce n’est pas indiqué",C,"B. Non, le document ne le précise pas",False
+54,6.1,prospectus_fidelity_2024_calcul_1.pdf,"Et maintenant, si on regarde toutes les catégories non ""Hedged"" (c’est-à-dire couvertes contre le risque de change), quel est leur TER ?
+A. Toujours 0,20 %
+B. 0,25 %
+C. 0,30 %
+D. Variable selon la devise",A,C. 4,False
+55,6.1,prospectus_fidelity_2024_calcul_1.pdf,"D’ailleurs, combien de catégories distribuent des dividendes ET sont couvertes (“Hedged Inc”) ?
+A. 2
+B. 4
+C. 6
+D. 8",B,B. C'est toujours 5 unités dans chaque devise,False
+56,6.09999999999999,prospectus_fidelity_2024_calcul_1.pdf,"Si je voulais investir dans une part non ETF en EUR avec capitalisation, quelle catégorie devrais-je choisir ?
+A. EUR Hedged Acc
+B. P EUR Acc non coté
+C. P EUR Inc non coté
+D. Acc USD",B,B. Capitalisation,False
+57,6.09999999999999,prospectus_fidelity_2024_calcul_1.pdf,"Est-ce qu’on connaît la date de fin de la période d’offre initiale pour toutes ces catégories ?
+A. Oui, c’est toujours janvier 2025
+B. Non, certaines n’ont pas cette info
+C. Oui, c’est indiqué pour toutes
+D. On peut le déduire à partir du prix",B,"A. Oui, c'est aussi en capitalisation",False
+58,6.09999999999999,prospectus_fidelity_2024_calcul_1.pdf,"Peut-on savoir à quoi correspond exactement ce “N/A*” dans le tableau ?
+A. Oui, c’est expliqué dans une note
+B. Non, le document ne le précise pas
+C. Oui, c’est le sigle d’un fonds fermé
+D. On peut l’estimer par comparaison",B,"C. USD Hedged ACC est à 0,25 %, l'autre non",False
+59,6.09999999999999,prospectus_fidelity_2024_calcul_1.pdf,"Combien de devises différentes sont proposées pour les catégories “Hedged” ?
+A. 2
+B. 3
+C. 4
+D. 5",C,"A. Toujours 0,20 %",False
+60,6.09999999999999,prospectus_fidelity_2024_calcul_1.pdf,"Est-ce que le prix d’offre varie entre les catégories d’actions ?
+A. Celon qu'elles soient ETF ou non le prix varie
+B. C’est toujours 5 unités dans chaque devise
+C. Oui, selon la politique de dividende
+D. On ne peut pas le savoir",B,B. 4,False
+61,7.1,priip_primonial_FR0013228715-fr_calcul_1.pdf,"Bon, première chose : à combien s’élèvent les frais d’entrée maximum pour ce fonds ?
+A. 3,5 %
+B. 5 %
+C. 0 %
+D. 2,19 %",B,B. 5 %,True
+62,7.1,priip_primonial_FR0013228715-fr_calcul_1.pdf,"Ok, donc si j’investis 20 000 €, combien pourrait être réellement être investi dans ce cas ?
+A. 20 000 €
+B. 9 500 €
+C. 19 000 €
+D. On ne peut pas savoir",C,C. 19 000 €,True
+63,7.1,priip_primonial_FR0013228715-fr_calcul_1.pdf,"Et sur cette somme investie, combien sont prélevés chaque année au titre des frais courants ?
+A. 2,19 % de 20 000 €
+B. 2,19 % de 19 000 €
+C. 2,19 % de l’actif net
+D. On ne sait pas du tout",D,"C. 2,19 % de l’actif net",False
+64,7.1,priip_primonial_FR0013228715-fr_calcul_1.pdf,"D’accord, et parmis les frais, qu’est-ce qui pèse le plus ?
+A. Les frais d’entrée
+B. Les frais de sortie
+C. Les frais de gestion et de fonctionnement
+D. Les frais d’exploitation immobilière",A,C. Les frais de gestion et de fonctionnement,False
+65,7.1,priip_primonial_FR0013228715-fr_calcul_1.pdf,"Et il y a une commission de performance ? Si oui, comment elle fonctionne dans ce cas ?
+A. Non, aucune mentionnée dans ce document
+B. Oui, 20 % de la performance brute
+C. Oui, 24 % de la surperformance au-delà de 5 %
+D. Oui, mais uniquement si l’OPCI dépasse 2 % de performance",A,"A. Non, aucune mentionnée dans ce document",True

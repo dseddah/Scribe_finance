@@ -1,0 +1,544 @@
+id,question,answer,prediction,google__gemma-3-27b-it,Qwen__Qwen3-32B,meta-llama__Llama-3.3-70B-Instruct,majority_vote
+1,Quel est le nom du fonds parapluie associé à ce document KIID ?,Aberdeen Standard SICAV I, Aberdeen Standard SICAV I,True,True,True,True
+2,Quel est le nom du produit ou du fonds décrit dans ce KIID ?,World Resources Equity Fund, World Resources Equity Fund,True,True,True,True
+3,Quels sont les frais d’entrée applicables à cet investissement ?,0.05, 5.00%,False,True,True,True
+4,Quels sont les frais de sortie applicables à cet investissement ?,0, 0.00%,True,True,True,True
+5,Quels sont les risques associés à cet investissement concernant l'évaluation et la vente des titres ?,certains titres peuvent devenir difficiles à évaluer ou à vendre à un prix souhaité," Les risques associés à cet investissement concernant l'évaluation et la vente des titres incluent la difficulté à évaluer les titres dans des conditions de marché extrêmes et la possibilité de ne pas pouvoir vendre les titres à un prix souhaité, ce qui pourrait nuire à la capacité du fonds d'honorer les ra",True,True,True,True
+6,Quels sont les risques associés à l'investissement dans des actions et des titres assimilés ?,"Ces titres sont sensibles aux variations des marchés boursiers, qui peuvent être volatils, et varier considérablement sur de courtes périodes."," Les risques associés à l'investissement dans des actions et des titres assimilés incluent la volatilité des marchés boursiers, des variations considérables sur de courtes périodes, et une sensibilité aux fluctuations économiques et politiques.",True,True,True,True
+7,Contre quel risque lié à l'investissement des techniques de couverture sont-elles mises en place ?,risque de change, risque de change,True,True,True,True
+8,Dans quelle devise la performance de ce fonds est-elle mesurée ?,EUR, EUR,True,True,True,True
+9,Dans quelle devise le fond est il libellé?,un compartiment libellé en dollars américains, dollars américains,True,True,True,True
+10,Quel indice de référence est utilisé pour comparer la performance de ce fonds ?,S&P Global Natural Resources (USD), S&P Global Natural Resources (USD),True,True,True,True
+11,Quelle est la date de la dernière mise à jour de ce KIID ?,2021-12-11T00:00:00, 12/11/2021,True,True,True,True
+12,Quelle est la date de lancement de ce fond?,1989, 1989,True,True,True,True
+13,Quelle est la date de lancement de la catégorie d'actions ou de parts?,2005, 2005,True,True,True,True
+14,Comment sait-on qu'il s'agit d'un document de type KIID ?,Informations clés pour l'investisseur," ""conformément à une obligation légale""",False,False,False,False
+15,Quel est l'identifiant du produit financier présente dans ce texte ?,LU0505784883, LU0505784883,True,True,True,True
+16,Quelle est la période de détention recommandée pour cet investissement ?,cinq ans, cinq ans,True,True,True,True
+17,Quelle est la forme juridique de ce fond ?,SICAV," SICAV I, classe d'Actions S Acc",False,False,True,False
+18,Dans quels instruments financiers le fond investit-il?,actions et titres de participation d'entreprises, actions et titres de participation,True,True,True,True
+19,Quels instruments financiers sont utilisés à des fins de couverture ?,dérivés, produits dérivés,True,True,True,True
+20,Est-ce que le Fonds est géré activement ou passivement?,géré activement, Le Fonds est géré activement.,True,True,True,True
+21,Quelle est autorité a agréé le Fonds Aberdeen Standard SICAV I ?,Commission de Surveillance du Secteur Financier (CSSF), La Commission de Surveillance du Secteur Financier (CSSF),True,True,True,True
+22,Quelle est le nom de la société de gestion responsable de ce fonds ?,Aberdeen Standard Investment Luxembourg S.A., Aberdeen Standard Investment Luxembourg S.A.,True,True,True,True
+23,A quels types d'investisseurs pourrait-il ne pas convenir ?,le fonds peut ne pas convenir aux investisseurs qui prévoient retirer leur argent dans les cinq ans., Investisseurs qui prévoient retirer leur argent dans les cinq ans.,True,True,True,True
+24,Dans quel pays ce fond a t-il été agréé ?,Luxembourg, Luxembourg,True,True,True,True
+25,Dans quel but des instruments dérivés sont utilisés ici ?,à des fins de couverture, à des fins de couverture ou pour établir les expositions,False,False,False,False
+26,Quel est le nom complet du produit ou du fonds présenté dans ce KIID,ACATIS GANÉ VALUE EVENT FONDS - Catégorie de parts A, ACATIS GANÉ VALUE EVENT FONDS,True,True,False,True
+27,Quel est le code ISIN de ce fonds ?,DE000A0X7541, DE000A0X7541,True,True,True,True
+28,Quelle est la société de gestion responsable de ce fonds ?,ACATIS Investment Kapitalverwaltungsgesellschaft mbH, ACATIS Investment Kapitalverwaltungsgesellschaft mbH,True,True,True,True
+29,Quel est le code d'identification de titres allemand ?,A0X754, WKN,False,False,False,False
+30,Quel est l'objectif d'investissement principal de ce fonds ?,une plus-value la plus élevée possible, obtenir une plus-value la plus élevée possible,True,True,True,True
+31,S’agit-il d’un fonds à gestion active ou à gestion passive ?,géré activement, S’agit-il d’un fonds à gestion active ?,True,False,True,True
+32,À quel benchmark le fonds se compare-t-il pour évaluer ses résultats ?,"50% ESTR TR (EUR), 50% MSCI World GR (EUR)"," 50% ESTR TR (EUR), 50% MSCI World GR (EUR)",True,True,True,True
+33,Quelle est la catégorie de risque ISRR de ce fonds ?,catégorie 5, Catégorie 5,True,True,True,True
+34,Combien de temps est-il recommandé de conserver cet investissement ?,moyen et à long terme, à moyen et à long terme,True,True,True,True
+35,La performance est calculée dans quel devise ?,Euro, Euro,True,True,True,True
+36,Quand ce fonds a-t-il été mis sur le marché pour la première fois ?,15.12.2008, 15.12.2008,True,True,True,True
+37,Quels frais s’appliquent lors du retrait de l’investissement ?,"0,00 %"," 0,00%",True,True,True,True
+38,Quels frais sont prélevés à l’entrée dans ce fonds ?,"5,00% "," 5,00%",True,True,True,True
+39,Quels sont les frais annuels récurrents facturés par le fonds ?,"1,80 %"," Frais courants: 1,80%",True,True,True,True
+40,"Le fonds applique-t-il des frais de performance, et selon quelle méthode de calcul ?",jusqu'à 20% des rendements générés par le fonds au-delà de la valeur de référence," Oui, le fonds applique des frais de performance, calculés jusqu'à 20% des rendements générés par le fonds au-delà de la valeur de référence.",True,True,True,True
+41,Quelle entité assure la conservation des actifs du fonds ?,Hauck Aufhäuser Lampe Privatbank AG, Hauck Aufhäuser Lampe Privatbank AG,True,True,True,True
+42,Quelle autorité réglementaire a donné son agrément à ce fonds ?,Office fédéral allemand de surveillance du secteur financier (Bundesanstalt für Finanzdienstleistungsaufsicht - BaFin), Bundesanstalt für Finanzdienstleistungsaufsicht - BaFin,True,True,True,True
+43,Quand le présent KIID a-t-il été actualisé pour la dernière fois ?,31.01.2022, 31.01.2022,True,True,True,True
+44,À quelle date cette classe d’actions/parts a-t-elle été lancée ?,15.12.2008, 15.12.2008,True,True,True,True
+45,Dans quel objectif le fonds utilise-t-il des instruments de couverture ?,dans un but de couverture de positions d’actif , pour tâcher d’obtenir une plus-value plus élevée,False,False,False,False
+46,À quelle directive européenne sur les instruments financiers ce fonds est-il soumis ?,règlement (UE) 2019/2088, règlement (UE) 2019/2088,True,True,True,True
+47,"Quelle formulation dans le texte indique explicitement la nature du document ?
+
+",Informations clés pour l’investisseur," ""Ce document fournit des informations essentielles aux investisseurs de ce fonds. Il ne s’agit pas d’un document promotionnel.""",False,False,True,False
+48,Quel est le nom exact du fonds présenté ?,European Opportunities," European Opportunities, un Compartiment de Alken Fund géré par AFFM S.A.",True,True,True,True
+49,"Quel est le nom du fonds parapluie dont le compartiment ""European Opportunities"" fait partie ?",Alken Fund, Alken Fund,True,True,True,True
+50,Quel est le code ISIN permettant d’identifier ce fonds ?,LU0524465977, LU0524465977,True,True,True,True
+51,Quel est l’objectif principal de ce fonds en matière d’investissement ?,croissance de votre capital à long terme, obtenir une croissance de votre capital à long terme,True,True,True,True
+52,Quelle est la durée de placement recommandée pour cet investissement ?,5 ans ou plus, 5 ans ou plus,True,True,True,True
+53,Ce fonds est-il géré activement ou suit-il un indice de manière passive ?,gestion active, géré activement,True,True,True,True
+54,À quel profil d’investisseur ce fonds est-il destiné ?,investisseurs adhérant au principe de durabilité (article 8 du règlement (UE) 2019/2088), investisseurs adhérant au principe de durabilité,True,True,True,True
+55,À quel cadre réglementaire ESG ce fonds est-il associé ?,article 8 du règlement (UE) 2019/2088, article 8 du règlement (UE) 2019/2088,True,True,True,True
+56,Quel indice est utilisé comme référence pour évaluer la performance de ce fonds ?,STOXX Europe 600 Net Return EUR, STOXX Europe 600 Net Return EUR,True,True,True,True
+57,Quels types d’instruments dérivés le fonds peut-il utiliser ?,"contrats à terme standardisés, des options, des contrats à terme de gré à gré et des swaps"," contrats à terme standardisés, options, contrats à terme de gré à gré et swaps",True,True,True,True
+58,Quel est l’impact potentiel des enjeux ESG sur la valeur de l’investissement ?,"problématiques ESG peuvent, le cas échéant, avoir une incidence négative importante sur la valeur de l’investissement", Une incidence négative importante,True,True,True,True
+59,Quel pourcentage de frais est prélevé à l’entrée du produit ?,0.03, 3.00%,True,False,True,True
+60,"A la sortie, quels sont les frais appliqués en pourcentage ? ",0.03, 3.00%,True,False,True,True
+61,Quels sont les frais courants supportés annuellement par l’investisseur ?,0.026000000000000002, 2.60%,True,True,True,True
+62,Comment la Commission de performance est-elle calculée ?,"10% du rendement positif réalisé par le compartiment au-delà de la performance de l’indice MSCI Europe ex-UK Net Return EUR.
+La commission de performance est accumulée quotidiennement et payable annuellement.
+Commission de performance facturée au titre de l’exercice précédent : 0.00%.", 10% du rendement positif réalisé par le compartiment au-delà de la performance de l’indice MSCI Europe ex-UK Net Return EUR.,True,True,True,True
+63,Quelle est la date de création de ce fonds ?,2006, 2006,True,True,True,True
+64,Quel est le nom de l’établissement dépositaire du fonds ?,Pictet & Cie (Europe) S.A., Pictet & Cie (Europe) S.A.,True,True,True,True
+65,Quelle autorité est responsable de l’agrément et de la supervision de ce fonds ?,Commission de Surveillance du Secteur Financier (CSSF), Commission de Surveillance du Secteur Financier (CSSF),True,True,True,True
+66,"À quel type d’investisseur ce compartiment est-il destiné, et quelle est la durée de détention recommandée ?",période de détention recommandée de 5 ans ou plus. Ce Compartiment peut convenir aux investisseurs adhérant au principe de durabilité (article 8 du règlement (UE) 2019/2088)., Ce compartiment est destiné aux investisseurs adhérant au principe de durabilité et ayant une période de détention recommandée de 5 ans ou plus.,True,True,True,True
+67,À quelle date ce document d’informations clés a-t-il été mis à jour pour la dernière fois ?,16/02/2022, 16/02/2022,True,True,True,True
+68,"Comment savoir, à la lecture du document, qu’il s’agit d’un KIID  plutôt que d’un PRIIP ?",Informations clés pour l’investisseur," Le document mentionne explicitement qu'il s'agit d'informations clés pour l’investisseur (ICI) conformément à une obligation légale, ce qui est caractéristique d'un KIID (Key Investor Information Document).",True,True,True,True
+69,Quelle formulation dans le document permet d’identifier qu’il relève de la réglementation PRIIP et non d’un KIID UCITS ?,DOCUMENT D’INFORMATIONS CLÉS," ""conformément à une obligation légale""",False,False,False,False
+70,Quel est le nom du produit ou du fonds décrit dans ce document ?,Allianz Income and Growth, Allianz Income and Growth,True,True,True,True
+71,Sous quel fonds parapluie ce produit est-il structuré ?,Allianz Global Investors Fund, Allianz Global Investors Fund,True,True,True,True
+72,Quel est le code d'identification international de ce fonds ?,LU0766462104, LU0766462104,True,True,True,True
+73,Quelle entité est responsable de la gestion de ce fonds ?,Allianz Global Investors GmbH, Allianz Global Investors GmbH,True,True,True,True
+74,Qui est l'organisme responsable de la régulation de ce produit financier ?,Commission de Surveillance du Secteur Financier (CSSF), Commission de Surveillance du Secteur Financier au Luxembourg,True,True,True,True
+75,Quelle est la structure juridique de ce produit d'investissement ?,OPCVM, OPCVM,True,True,True,True
+76,Quelle est la durée de vie prévue de cet investissement ?,durée indéterminée, durée indéterminée,True,True,True,True
+77,Quels types d'actifs composent principalement ce portefeuille d'investissement ?,Actions et/ou des obligations, Actions et/ou des obligations,True,True,True,True
+78,Dans quelles régions géographiques ce fonds concentre-t-il ses investissements ?,États-Unis et/ou du Canada, États-Unis et/ou du Canada,True,True,True,True
+79,Où puis-je trouver des informations officielles en ligne concernant l'autorité de régulation de ce fonds?,www.cssf.lu, www.cssf.lu,True,True,True,True
+80,Quel est le numéro de téléphone pour obtenir de l'assistance concernant ce Fonds?,/+352 463 463 1. , +352 463 463 1,True,True,True,True
+81,À quelle adresse électronique puis-je adresser mes questions ou réclamations concernant ce fonds?,investorrightsandcomplaints@allianzgi.com, investorrightsandcomplaints@allianzgi.com,True,True,True,True
+82,Où se trouve le siège social de la société de gestion de ce fond?,"Bockenheimer Landstrasse 42-44, D-60323 Francfort-sur-le-Main, Allemagne"," Francfort-sur-le-Main, Allemagne",True,False,True,True
+83,Combien de temps est-il conseillé de conserver cet investissement ?,4 ans, 4 ans,True,True,True,True
+84,Quels sont les frais d'entrée ?,"5,00 %"," 5,00 % du montant que vous payez au moment de l’entrée dans l’investissement.",True,True,True,True
+85,Quel est le pourcentage des frais annuel prélevé pour la gestion de ce fonds?,"1,55 %"," 1,55 %",True,True,True,True
+86,Quels sont les coûts de transations prélevés chaque années ?,"0,07 %"," 0,07 % de la valeur de votre investissement par an",True,True,True,True
+87,Quelle institution financière assure la conservation des actifs de ce fonds ?,State Street Bank International GmbH – Luxembourg Branch, State Street Bank International GmbH – Luxembourg Branch,True,True,True,True
+88,Quand ce document a-t-il été mis à jour pour la dernière fois?,29.12.2022, 29.12.2022,True,True,True,True
+89,Sous quelle forme juridique a été constitué ce Fonds,Fonds Commun de Placement (FCP), Fonds Commun de Placement (FCP) de droit français.,True,True,False,True
+90,Quel est le statut réglementaire du Fonds ?,OPCVM, Fonds Commun de Placement (FCP) de droit français.,False,False,False,False
+91,À quel code ISIN correspond ce produit financier ?,FR0013294709, FR0013294709,True,True,True,True
+92,Quand le fonds a-t-il été effectivement constitué ?,19/12/2017, 19/12/2017,True,True,True,True
+93,Quelle est la durée d’existence prévue ?,99 ans, 99 ans,True,True,True,True
+94,Qui assure la gestion de ce FCP ?,Edmond de Rothschild Asset Management (France), EDMOND DE ROTHSCHILD ASSET MANAGEMENT (FRANCE),True,True,True,True
+95,Quel acteur est chargé de la conservation des actifs ?,CACEIS Bank, CACEIS Bank,True,True,True,True
+96,Quel cabinet a été désigné comme commissaire aux comptes ?,KPMG Audit, KPMG AUDIT,True,True,True,True
+97,À qui a été confiée la centralisation des ordres par délégation ?,CACEIS Bank, CACEIS Bank,True,True,True,True
+98,À quel indice de référence ce fonds se rapporte-t-il de manière permanente ?,Aucun indice de référence ne sera utilisé par BDL, Eonia Capitalisé,False,False,False,False
+99,Les parts du fonds sont-elles nominatives ou au porteur ?,Forme des parts : Au porteur, Au porteur,True,True,True,True
+100,Dans quel système de règlement-livraison les parts du fonds sont-elles inscrites ?,Euroclear France, Euroclear France,True,True,True,True
+101,À quoi correspond l’objectif de gestion du fonds nourricier ?,Performance absolue," L’objectif de gestion de l’OPCVM nourricier est celui de son maître, l’OPCVM BDL Rempart Europe.",False,False,False,False
+102,Quel est le niveau de risque concernant la restitution du capital investi ?,son capital pourra ne pas lui être intégralement restitué, Risque de perte en capital,True,True,True,True
+103,Comment s’exprime l’exposition du fonds au risque actions ?,exposition au risque actions comprise entre -20% et 100%, entre -20% et 100%,True,True,True,True
+104,À combien s’élèvent les frais de gestion maximum de ce fonds ?,"0,65% TTC maximum", 0.65% TTC maximum,True,True,True,True
+105,Quel est le montant de la commission prélevée lors du rachat des parts ?,Néant, Néant,True,True,True,True
+106,Quel est le taux de la commission de surperformance appliqué par le fonds ?,20% au-delà de l’Eonia capitalisé, Néant,False,False,False,False
+107,Quelle est la durée de placement recommandée pour ce fonds ?,3 à 5 ans minimum, 3 à 5 ans minimum,True,True,True,True
+108,En quelle devise le fonds est-il libellé ?,Euro, Euros,True,True,True,True
+109,Quel est le mode d’affectation des résultats ?,Capitalisation, Non précisé dans le contexte fourni.,False,False,False,False
+110,Quel est le code alphanumérique permettant d’identifier au produit financier présenté ?,FR0013294709, FR0013294709,True,True,True,True
+111,Quelle est la dénomination du produit présenté ?,Link BDL Rempart, Link BDL Rempart,True,True,True,True
+112,Quel est le fonds maître auquel est rattaché le FCP nourricier Link BDL Rempart ?,BDL Rempart Europe, BDL Rempart Europe,True,True,True,True
+113,Quelle est la stratégie d’investissement mise en œuvre par le fonds ?,stratégie d’investissements en actions dites « long/short »., La stratégie d’investissement mise en œuvre par le fonds est une stratégie « long/short » en actions.,True,True,True,True
+114,Quels types d’instruments financiers sont mobilisés dans la gestion du fonds ?,produits dérivés, instruments financiers à terme (dérivés),True,True,True,True
+115,Le capital investi est-il intégralement garanti ?,son capital pourra ne pas lui être intégralement restitué, Non,True,True,True,True
+116,Quel risque est associé à la liquidité des titres dans lesquels le fonds peut investir ?,Les marchés des mid-caps ont un volume de titres cotés en bourse réduit, Risque de liquidité,False,False,True,False
+117,Quel est le pourcentage maximal des frais d’entrée appliqués ?,3% maximum, 5% TTC maximum,False,False,False,False
+118,À combien s’élèvent les frais de gestion du fonds ?,0.65% TTC* maximum, 0.65% TTC maximum,True,True,True,True
+119,Quel est le niveau de la commission de performance du fonds ?,20% au-delà de l’Eonia capitalisé, 20% au-delà de l’Eonia capitalisé,True,True,True,True
+120,Quel est le dépositaire désigné pour ce fonds ?,CACEIS Bank, CACEIS Bank,True,True,True,True
+121,Quelle autorité a délivré l’agrément de ce fonds ?,Autorité des Marchés Financiers, Autorité des Marchés Financiers,True,True,True,True
+122,Quelle est la date à laquelle l’AMF a agréé ce fonds ?,14/11/2017, 14/11/2017,True,True,True,True
+123,Quelle est l’adresse à laquelle un investisseur peut contacter la société de gestion ?,"47 rue du Faubourg Saint-Honoré
+75401 Paris Cedex 08"," 47 rue du Faubourg Saint-Honoré, 75401 Paris Cedex 08",True,True,True,True
+124,Par quel canal numérique peut-on obtenir des informations sur le dépositaire ?,www.caceis.com, www.caceis.com,True,True,True,True
+125,Comment contacter la société de gestion par téléphone ?,00 33 1 40 17 25 25, 00 33 1 40 17 25 25,True,True,True,True
+126,A quel public s'adresse ce produit financier ?,"Tous souscripteurs, destiné plus particulièrement à la clientèle privée d’Edmond de Rothschild (France)", clientèle privée d’Edmond de Rothschild (France),True,True,True,True
+127,Quel est le but de l’exposition du fonds à certains produits dérivés ?,à des fins de couverture, à des fins de couverture,True,True,True,True
+128,À quelle date les informations du fonds ont-elles été actualisées pour la dernière fois ?,2020-11-02T00:00:00, 11-02-2020,True,True,True,True
+129,À quelle directive européenne ce fonds est-il conforme ?,2009/65/CE, Directive européenne 2009/65/CE,True,True,True,True
+130,Quelle est la date limite pour transmettre un ordre de souscription ?,J-1 avant 10h* , J-1 avant 10h,True,True,True,True
+131,Quelle société cotée est citée comme opérateur de marché boursier en Europe ?,Euronext, Euronext,True,True,True,True
+132,Quel est le nom du document dans lequel figurent ces informations réglementaires ?,Prospectus, PROSPECTUS,True,True,True,True
+133,Quels sont les frais de gestion appliqués à la part R ?,"2,20%"," 2,20% TTC",True,False,True,True
+134,Quel est le taux de frais de gestion pour la part I ?,"0,90%"," 0,90% TTC",True,False,True,True
+135,Quel est le niveau de commission de surperformance appliqué au fonds ?,15% de la surperformance au-delà de l’EURO STOXX® Net Return EUR, 15% de la surperformance au-delà de l’EURO STOXX® Net Return EUR,True,True,True,True
+136,Quel est l’indice utilisé comme référence pour mesurer la performance du fonds ?,EURO STOXX® Net Return EUR, EURO STOXX® Net Return EUR,True,True,True,True
+137,Quel est le code d’identification de la part M ?,FR0013297066, FR0013297066,True,True,True,True
+138,Quel est le code d’identification de la part I ?,FR0012221992, FR0012221992,True,True,True,True
+139,À quel public la part F est-elle destinée ?,Tous souscripteurs," La part F est destinée à tout investisseur, et, dans le cadre de la souscription ou distribution au sein de l’Union Européenne, qui s'adressent uniquement à : (i) des intermédiaires financiers qui ne sont pas autorisés à recevoir et/ou conserver toutes commissions ou avantages non-moné",False,False,False,False
+140,Quel est le montant minimal requis pour une souscription initiale à la part I ?,1 000 000, EUR 1 000 000,True,True,True,True
+141,À quelle directive européenne sur les instruments financiers ce fonds est-il conforme ?,Directive MIF2, Directive MIF2,True,True,True,True
+142,Quelles restrictions légales s’appliquent aux investisseurs américains ?,“US Person” U.S SEC Regulation S (Part 230 – 17 CFR 2330.903)," Les parts de ce Fonds n’ont pas été enregistrées et ne seront pas enregistrées en vertu de la loi US Securities Act of 1933. Elles ne peuvent pas être offertes ou vendues, directement ou indirectement, aux Etats-Unis ou pour le compte ou au bénéfice d’une «",False,True,True,True
+143,Quelle réglementation fiscale internationale est prise en compte dans la gestion du fonds ?,FATCA, FATCA,True,True,True,True
+144,À quelle date le conseil a-t-il été consulté concernant ce fonds ?,15 mai 2014, 15 mai 2014,True,True,True,True
+145,Quel type de risque est lié à la faible négociabilité des instruments détenus par le fonds ?,risque de liquidité, risque de liquidité,True,True,True,True
+146,À quoi le fonds est-il exposé en cas de modification du niveau ou de la forme des taux d’intérêt ?,variation de la courbe des taux, Risque de taux,False,False,True,False
+147,Quel est le niveau maximal d’exposition du fonds au risque de change ?,Le risque de change est limité à 10% maximum de l’actif du fonds, 10% maximum de l’actif du fonds.,True,True,True,True
+148,À quels types d’actifs le risque de crédit est-il restreint dans ce fonds ?,limité aux titres de créances et instruments du marché monétaires qui pourront composer l’actif net pour 10% maximum, titres de créances et instruments du marché monétaires,True,True,True,True
+149,Quel a été le rendement des parts du fonds en année 4 ?,0.06, 6%,True,True,True,True
+150,Quelle a été la performance de l’indice de référence au cours de l’année 2 ?,-0.05, -5%,True,True,True,True
+151,Quelle institution a délivré l’agrément du dépositaire ?,Autorité de Contrôle Prudentiel et de Résolution, Autorité de Contrôle Prudentiel et de Résolution,True,True,True,True
+152,Société de gestion de portefeuille,Autorité des marchés financiers, Mandarine Gestion,False,False,False,False
+153,À quelle date le document réglementaire a-t-il été mis à jour pour la dernière fois ?,2023-01-01T00:00:00, 01/01/2023,True,True,True,True
+154,Quel est le régime fiscal applicable à ce fonds ?,Eligible au PEA, Le fonds est qualifié d’ « Aktienfonds » au sens de la législation fiscale allemande (§2 Abs. 6 InvStG) et l’investissement dans des « Kapitalbeteiligungen » selon §2 Abs. 8 InvStG sera continuellement supérieur à 50%,False,False,False,False
+155,Quel acteur assure la gestion administrative et financière du fonds ?,Mandarine Gestion, BNP PARIBAS,False,False,False,False
+156,Quel est le type de document dans lequel les informations sont publiées ?,Prospectus, prospectus,True,True,True,True
+157,Quel est le numéro de téléphone pour joindre la société de gestion ?,33.1.801.814.80, +33.1.801.814.80,True,True,True,True
+158,Combien de temps l’investisseur est-il invité à conserver ses parts ?,5 ans, supérieure à 5 ans,False,False,False,False
+159,À quelle Catégorie juridique ce fonds appartient-il ?,OPCVM, Fonds Commun de Placement,False,False,False,False
+160,Quelle est la limite maximale d’investissement du fonds en parts ou actions d’OPCVM ou de FIA français ou européens ?,10% de leur actif en parts ou actions d’OPCVM / de FIA français ou européens., 10%,True,True,True,True
+161,Quels instruments financiers classiques sont intégrés dans la stratégie d’investissement ?,"actions, obligations et valeurs assimilés"," Les actions, obligations et valeurs assimilées",True,True,True,True
+162,Quel type d’instrument est utilisé pour gérer ses besoins de trésorerie à court terme ?,T.C.N., Les T.C.N.,True,True,True,True
+163,À quel indice boursier la performance du fonds peut-elle être comparée ?,EURO STOXX® Net Return EUR, EURO STOXX® Net Return EUR,True,True,True,True
+164,Combien de temps ce fonds est-il juridiquement constitué pour exister ?,99 ans, 99 ans,True,True,True,True
+165,Quand ce fonds a-t-il été lancé ?,2014-06-11T00:00:00, 06 novembre 2014,False,False,False,False
+166,Quel est le nom du dépositaire en charge de la garde des actifs de l’OPCVM ?,BNP Paribas, BNP PARIBAS,True,True,True,True
+167,Quel cabinet est désigné en tant que commissaire aux comptes du fonds ?,DELOITTE & ASSOCIES, DELOITTE & ASSOCIES,True,True,True,True
+168,Quelle est la finalité de la stratégie de gestion du fonds ?,Le Fonds a pour objectif de réaliser une performance nette de frais supérieure à celle de l’indice EURO STOXX® Net Return EUR ," La finalité de la stratégie de gestion du fonds est de réaliser une performance nette de frais supérieure à celle de l’indice EURO STOXX® Net Return EUR sur la durée de placement recommandée en sélectionnant des entreprises de la zone euro via une stratégie de « stockpicking », tout en intégrant",True,True,True,True
+169,Quel pourcentage minimum de l’actif du fonds est dédié à l’exposition actions ?,Le Fonds est exposé au minimum à hauteur de 60% de son actif, 60%,True,True,True,True
+170,Comment les revenus générés par le fonds sont-ils traités ?,Capitalisation, Capitalisation,True,True,True,True
+171,Quel est le style de gestion appliqué au fonds ?,Le Fonds est géré activement, Le fonds utilise une stratégie de « stockpicking » avec une approche « Best-in-Universe » pour la sélection des entreprises en tenant compte des critères ESG.,False,False,True,False
+172,Quel est la forme légale de ce produit d’investissement ?,OPCVM, Fonds Commun de Placement,False,False,False,False
+173,Quel est le statut réglementaire exact de cet OPCVM ?,Fonds Commun de Placement, OPCVM de droit français relevant de la directive 2014/91/UE,False,False,False,False
+174,Quelle adresse postale utiliser pour contacter le centralisateur ?,"16, Boulevard des Italiens- 75009 PARIS"," 16, Boulevard des Italiens- 75009 PARIS",True,True,True,True
+175,Quelle est l’adresse e-mail à utiliser pour contacter le service client de la société de gestion ?,serviceclient@mandarine-gestion.com, serviceclient@mandarine-gestion.com,True,True,True,True
+176,Quel type d’instruments dérivés peut être utilisé par le fonds ?,Instruments financiers à terme, instruments financiers à terme,True,True,True,True
+177,Quel établissement assure la centralisation des ordres pour ce fonds en France ?,CACEIS Bank, CACEIS Bank,True,True,True,True
+178,Quelle est la date de la dernière actualisation de l’addendum ?,9 octobre 2009, 9 juin 2009,False,False,False,False
+179,À quelle directive européenne le produit se conforme-t-il ?,85/611/CEE, directive européenne n° 85/611/CEE,True,True,True,True
+180,Quel type de document complète le prospectus de la SICAV pour le public français ?,Addendum , addendum,True,True,True,True
+181,Quel organisme français a délivré l’agrément pour les compartiments de la SICAV ?,Autorité des marchés financiers, Autorité des marchés financiers (AMF),True,True,True,True
+182,Où se trouve le bureau de CACEIS Bank pour ce fonds ?,"1, place Valhubert - 75013 Paris"," 1, place Valhubert - 75013 Paris",True,True,True,True
+183,À quelle forme légale appartient la BLACKROCK GLOBAL FUNDS SICAV ?,OPCVM, SICAV,False,False,True,False
+184,À quelle date le compartiment Global Corporate Bond Fund a-t-il été autorisé à la commercialisation en France ?,21 septembre 2007, 21 septembre 2007,True,True,True,True
+185,Quand le compartiment US Government Mortgage Fund a-t-il reçu son autorisation ?,9 avril 2002, 9 avril 2002,True,True,True,True
+186,Quel est le statut juridique de cet OPCVM : FCP ou SICAV ?,SICAV, SICAV,True,True,True,True
+187,Quel est le nom complet du fonds décrit dans ce document ?,BLACKROCK GLOBAL FUNDS SICAV, BLACKROCK GLOBAL FUNDS SICAV,True,True,True,True
+188,Quel est le pourcentage maximum des frais d’entrée appliqués à la Part P?,"7,25 % maximum", 7.25 %,True,True,True,True
+189,À combien s’élèvent les frais courants prélevés annuellement ?,"6,4 % TTC de l’actif net"," 6,4 % TTC de l’actif net",True,True,True,True
+190,Des frais de sortie sont-ils appliqués à ce fonds ?,-, Néant,True,True,True,True
+191,Quels sont les frais liés à l’exploitation immobilière de la Part ?,"3,8 % TTC de l’actif net (3% TTC sur la valeur globale des actifs immobiliers gérés)"," 3,8 % TTC de l’actif net (3% TTC sur la valeur globale des actifs immobiliers gérés)",True,True,True,True
+192,Quel risque est associé au recours à l’endettement dans ce fonds ?,risques de perte pouvant entraîner une baisse de la valeur liquidative, Risque lié au recours à l’endettement,False,False,True,False
+193,Quel est le niveau de risque (ISRR) attribué à ce fonds ?,niveau 4, 4,True,True,True,True
+194,Quelle est la date de dernière mise à jour des informations de ce document ?,9 juin 2021, 9 juin 2021,True,True,True,True
+195,À quelle date ce fonds a-t-il été lancé ?,31 octobre 2019, 31 octobre 2019,True,True,True,True
+196,En quelle devise les instruments financiers du fonds sont-ils libellés ?,euro, euro,True,True,True,True
+197,Quelle partie du texte permet de déduire qu’il s’agit d’un document de type KIID (Key Investor Information Document) ?,DOCUMENT D’INFORMATION CLÉ POUR L’INVESTISSEUR," ""Les informations qu’il contient vous sont fournies conformément à une obligation légale, afin de vous aider à comprendre en quoi consiste un investissement dans ce support et quels risques y sont associés. Il vous est conseillé de le lire pour décider en connaissance de cause d’investir ou non.""",False,False,False,False
+198,Quel est le code identifiant unique de ce fonds ?,FR0013442845, FR0013442845,True,True,True,True
+199,Quelle autorité d'agrément est cité dans ce texte ?,AMF, Autorité des Marchés Financiers,True,True,True,True
+200,Quel est l'horizon d'investissement pour ce fonds ?,8 ans, 8 ans,True,True,True,True
+201,Sous quelle forme juridique l’OPCI ALTIXIA VALEUR est-il constitué ?,Société à prépondérance immobilière à capital variable (SPPICAV), SAS,False,False,False,False
+202,Quelle société assure la gestion de ce fonds ?,ALTIXIA REIM, ALTIXIA REIM,True,True,True,True
+203,Quel établissement joue le rôle de dépositaire pour ce fonds ?,Société Générale, Société Générale,True,True,True,True
+204,Quel texte réglementaire encadre juridiquement et financièrement l'OPCI ?,Code monétaire et financier, Code monétaire et financier,True,True,True,True
+205,Quelle est la nature des parts proposées aux investisseurs ?,Action de catégorie « P », Action de catégorie « P »,True,True,True,True
+206,Sur quel passage du document peut-on s’appuyer pour affirmer que la gestion du fonds est active ?,"La gestion pourra utiliser des instruments financiers à terme en vue de couvrir les actifs contre les risques de taux d’intérêts, devises et actions, et, dans la limite de 20 % de l’actif de la poche financière, en exposition afin de réaliser son objectif de gestion"," ""La gestion pourra utiliser des instruments financiers à terme en vue de couvrir les actifs contre les risques de taux d’intérêts, devises et actions, et, dans la limite de 20 % de l’actif de la poche financière, en exposition afin de réaliser son objectif de gestion.""",True,True,True,True
+207,Quelle est l’adresse du dépositaire de ce fonds ?,29 bd Haussmann – 75009 PARIS," Société Générale, 29 bd Haussmann – 75009 PARIS",True,True,False,True
+208,Où peut-on consulter le prospectus complet de l’OPCI ALTIXIA VALEUR pour obtenir des informations complémentaires ?,www.altixia.fr, www.altixia.fr,True,True,True,True
+209,Quel est l’horaire limite pour la réception des ordres de souscription ou de rachat ?,au plus tard à 12h le jour ouvré précèdent la Date d’établissement de la Valeur Liquidative, 12h le jour ouvré précèdent la Date d’établissement de la Valeur Liquidative,True,True,True,True
+210,Quel est le nom du fonds concerné par ce document ?,ALTIXIA VALEUR, ALTIXIA VALEUR,True,True,True,True
+211,Quelle est la dénomination exacte du fonds mentionné dans ce document ?,Artisan Global Value Fund, Artisan Global Value Fund,True,True,True,True
+212,À quel fonds parapluie le compartiment Artisan Global Value Fund est-il rattaché ?,Artisan Partners Global Funds plc, Artisan Partners Global Funds plc,True,True,True,True
+213,Quelle est la catégorie d’actions proposée par ce fonds ?,Actions de Catégorie A, Actions de Catégorie A Dollar US Capitalisation,False,False,False,False
+214,Quel est le mode d’affectation des revenus pour ce fonds ?,Capitalisation, Les revenus et dividendes du Fonds seront réinvestis et intégrés à la valeur de vos actions.,True,True,True,True
+215,Quel est le code d’identification international attribué à ce fonds ?,IE00B8Q6N977, IE00B8Q6N977,True,True,True,True
+216,Quelle est l’adresse de correspondance mentionnée dans le document ?,"200 Capital Dock, 79 Sir John Rogerson’s Quay, Dublin 2, D02 RK57, Irlande"," c/o J.P. Morgan Administration Services (Ireland) Ltd, 200 Capital Dock, 79 Sir John Rogerson’s Quay, Dublin 2, D02 RK57, Irlande",True,False,False,False
+217,Quel est le numéro de téléphone pour contacter l'initiateur du PRIIP ?,353 1 612 3155, +353 1 612 3155,True,True,True,True
+218,Quelle société assure la gestion administrative de ce compartiment ?,KBA Consulting Management Limited, J.P. Morgan Administration Services (Ireland) Ltd,False,False,False,False
+219,Quel acteur est mentionné comme initiateur du produit d’investissement packagé (PRIIP) ?,Artisan Partners Limited Partnership, Artisan Partners Limited Partnership,True,True,True,True
+220,Quelle autorité de régulation a agréé la société de gestion ?,Central Bank of Ireland (CBI), Central Bank of Ireland (CBI),True,True,True,True
+221,À quelle date ce document d'informations clés a-t-il été mis à jour ?,30 septembre 2022, 30 septembre 2022,True,True,True,True
+222,Quel est l’objectif de gestion principal poursuivi par ce fonds ?,Générer une plus-value de capital à long terme, Générer une plus-value de capital à long terme en investissant principalement dans les actions d’entreprises cotées et dans d’autres types d’investissements liés à des titres de capital.,True,True,True,True
+223,Quel niveau de risque synthétique est attribué à ce produit sur l’échelle de 1 à 7 ?,risque 4 sur 7, 4 sur 7,True,True,True,True
+224,Comment est qualifié le niveau de risque de marché associé à ce fonds ?,niveau moyen, Classe de risque 4 sur 7,False,False,False,False
+225,Combien d’années l’investisseur est-il invité à conserver ce fonds pour limiter les risques liés à une sortie anticipée ?,5 années, 5 années,True,True,True,True
+226,Quel est le pourcentage des frais de gestion annuels appliqués à ce produit ?,"1,8% de la valeur de votre investissement par an"," 1,8%",True,True,True,True
+227,Quelle part de votre investissement annuel est prélevée sous forme de frais de transaction ?,"0,2% de la valeur de votre investissement par an"," 0,2%",True,True,True,True
+228,Quel est le montant des frais de sortie appliqués après un an de détention ?,0, 0 USD,True,True,True,True
+229,Quelle autorité a agréé l’initiateur du PRIIP mentionné dans ce document ?,Central Bank of Ireland (CBI), Central Bank of Ireland (CBI),True,True,True,True
+230,Ce produit est-il structuré sous forme de fonds à compartiments multiples ?,Fonds ouvert à compartiments multiples, Oui,True,True,True,True
+231,Quelle est la durée de vie prévue pour ce fonds ?,-, Cet investissement n’a pas de date d’échéance.,True,True,True,True
+232,Quel risque spécifique est mentionné en lien avec la devise d’investissement ?,Attention au risque de change. Les sommes qui vous seront versées le seront dans une autre monnaie, Risque de change,True,True,True,True
+233,Le fonds applique-t-il une commission de performance ?,Aucune, Non,True,True,True,True
+234,Dans quelle devise ce fonds est-il libellé ?,USD, Dollar US,True,True,True,True
+235,Quel établissement assure le rôle de dépositaire pour ce fonds ?,J.P. Morgan SE, J.P. Morgan SE,True,True,True,True
+236,Quel type de document réglementaire ce texte représente-t-il ?,PRIIP, Document d’informations clés,True,False,True,True
+237,Comment le fonds peut-il limiter les risques sur ses actifs ?,il peut recourir à des techniques d’investissement visant à protéger la valeur du Fonds, Le Fonds peut investir de manière indirecte dans des actions par le biais d’instruments dérivés et recourir à des techniques d’investissement visant à protéger la valeur du Fonds.,True,True,True,True
+238,À quel type d’investisseur ce fonds est-il destiné ?,"L’investisseur type du Fonds est un investisseur institutionnel ou professionnel, c’est-à-dire une entreprise, un fonds de pension, une compagnie d’assurance, un organisme du secteur public tel qu’une agence gouvernementale ou supranationale ou une autorité locale, une banque, une autre société d’investissement ou tout autre intermédiaire. Il peut également s’agir de particuliers fortunés et de conseillers et cabinets de conseil en gestion du patrimoine privé"," investisseur institutionnel ou professionnel, particuliers fortunés et conseillers en gestion du patrimoine privé.",True,True,True,True
+239,Quel est le type de produit financier auquel appartient ce fonds ?,Fonds ouvert, Fonds ouvert,True,True,True,True
+240,Quel code permet d’identifier ce fonds de manière unique au niveau international ?,LU0975848937, LU0975848937,True,True,True,True
+241,Quelle entité assure la gestion de ce produit d’investissement ?,Robeco Institutional Asset Management B.V., Robeco Institutional Asset Management B.V.,True,True,True,True
+242,Quelle autorité supervise et régule Robeco Institutional Asset Management B.V. ?,Autoriteit Financiële Markten, Autoriteit Financiële Markten,True,True,True,True
+243,"Quel est l’objectif de gestion poursuivi par ce fonds ?
+
+",Le fonds vise à enregistrer une surperformance en prenant des positions qui dévient de l'indice de référence," Le fonds Robeco BP US Select Opportunities Equities D EUR vise une performance supérieure à l'indice en investissant dans des actions à moyenne capitalisation aux États-Unis, sélectionnées par une analyse fondamentale.",True,False,False,False
+244,Quel est l’indice de référence utilisé pour comparer les performances de ce fonds ?,"Russell Mid Cap Value index (Gross Total Return, EUR)"," Russell Mid Cap Value index (Gross Total Return, EUR)",True,True,True,True
+245,À quel article du règlement SFDR ce fonds se conforme-t-il en matière de durabilité ?,8, Article 8,True,True,True,True
+246,Quelle est la durée de détention recommandée pour ce fonds ?,5 à 7 ans, 5 années,False,False,True,False
+247,Ce fonds a-t-il une date d’échéance fixée ?,Ce fonds n'a pas de date d'échéance, Non,True,True,True,True
+248,Quel est le niveau de risque attribué à ce produit ?,niveau de 5 sur 7, 5 sur 7,True,True,True,True
+249,À quel type de risque spécifique ce fonds est-il exposé en raison de la devise des investissements ?,Risque de change, Risque de change,True,True,True,True
+250,Quel est le pourcentage des frais de gestion prélevés sur ce produit ?,"1,71%"," 1,71%",True,True,True,True
+251,Quel est le pourcentage maximal pouvant être prélevé à l’entrée lors d’un investissement dans ce fonds ?,"5,00% Maximum"," 5,00%",True,True,True,True
+252,Quel pourcentage de l’investissement est consacré aux frais de transaction ?,"0,45%"," 0,45%",True,True,True,True
+253,Quelle somme un investisseur pourrait-il récupérer dans le scénario défavorable après 1 an ?,"7640,00"," €7640,00",True,True,True,True
+254,Quel est le montant estimé dans le scénario modéré après 5 années ?,"14960,50"," €14960,50",True,True,True,True
+255,Quelle est la performance attendue dans un scénario favorable sur 5 ans ?,"21607,77"," 8,39%",False,False,False,False
+256,Quel est le dépositaire du fonds ?,"J.P. Morgan SE, Luxembourg Branch"," J.P. Morgan SE, Luxembourg Branch",True,True,True,True
+257,Quelle est l’adresse de contact de Robeco pour toute réclamation ?,"Weena 850, 3014 DA Rotterdam, Pays-Bas"," Weena 850, 3014 DA Rotterdam, Pays-Bas",True,True,True,True
+258,Quelle est l’adresse e-mail à utiliser pour déposer une réclamation auprès de Robeco ?,complaints@robeco.nl, complaints@robeco.nl,True,True,True,True
+259,Quel est le nom du produit de placement ?,Robeco BP US Select Opportunities Equities D EUR, Robeco BP US Select Opportunities Equities D EUR,True,True,True,True
+260,Sous quelle forme statutaire est constitué ce fonds ?,SICAV, SICAV,True,True,True,True
+261,La gestion de ce fonds est-elle active ou passive ?,géré de manière active, Active,True,True,True,True
+262,À quel fonds parapluie ce produit est-il rattaché ?,Robeco Capital Growth Funds, SICAV Robeco Capital Growth Funds,True,True,True,True
+263,Comment sont traitées les sommes distribuables dans ce fonds ?,Capitalisation, Affectation des résultats: Capitalisation,True,True,True,True
+264,Quel est le principal risque associé à ce fonds ?,Soyez conscients du risque de change, Risque de change,True,True,True,True
+265,Quel est le pourcentage des frais d’entrée appliqués à ce fonds ?,"5,00%"," 5,00%",True,True,True,True
+266,Des frais de sortie sont-ils prélevés lorsque l’on revend ses produits d'investissement ?,"0,00%"," Non, il n'y a pas de frais de sortie.",True,True,True,True
+267,Le fonds applique-t-il une commission de performance ?,There is no performance fee for this product," Non, il n'y a pas de frais de performance pour ce produit.",True,True,True,True
+268,À quelle date ce fonds a-t-il été lancé ?,2023-01-01T00:00:00, 01/01/2023,True,True,True,True
+269,Quel est le dépositaire de ce fonds ?,"J.P. Morgan SE, Luxembourg Branch", J.P. Morgan SE,False,False,True,False
+270,Quelle entité assure la gestion du fonds ?,Robeco Institutional Asset Management B.V., Robeco Institutional Asset Management B.V.,True,True,True,True
+271,Quelle est la devise de référence utilisée pour ce fonds ?,EUR, EUR,True,True,True,True
+272,En quelle devise les investissements dans ce fonds sont-ils effectués ?,USD, dollars US,True,True,True,True
+273,Comment s'appelle ce type de document ?,PRIIPs, Document d’information clé,True,False,True,True
+274,Quel est le type de produit présenté dans ce document d’information clé ?,Action du compartiment US Blue Chip Equity Fund, action,False,False,True,False
+275,Quel est le nom du fonds présenté par ce document ?,US Blue Chip Equity Fund, US Blue Chip Equity Fund,True,True,True,True
+276,Quelle est la date d’échéance de ce fonds ?,-, Ce fonds n'est assorti d'aucune date d'échéance.,True,True,True,True
+277,Quel est l’objectif principal du fonds ?,augmenter la valeur de ses actions à long terme en accroissant la valeur de ses placements, D'augmenter la valeur de ses actions à long terme en accroissant la valeur de ses placements.,True,True,True,True
+278,Le fonds est-il géré de manière active ou passive ?,le fonds fait l'objet d'une gestion active et investit principalement dans un portefeuille diversifié composé d'actions de grandes et moyennes capitalisations « blue chip » situées aux États-Unis, Le fonds est géré de manière active.,True,True,True,True
+279,Quel indice est utilisé à titre de comparaison de performance ?,S&P 500 Index Net 30% Withholding Tax, S&P 500 Index Net 30% Withholding Tax,True,True,True,True
+280,Quelle est la devise de référence?,USD, USD,True,True,True,True
+281,À quel type d’investisseur ce produit est-il destiné ?,qui ont l'intention d'investir à moyen ou long terme," investisseurs qui possèdent tout niveau de connaissances et/ou d'expérience, cherchent à accroître leur capital et qui ont l'intention d'investir à moyen ou long terme.",True,True,True,True
+282,Quel est l’indicateur synthétique de risque (ISRR) attribué à ce produit ?,6 sur 7, 6 sur 7,True,True,True,True
+283,Quels types de risque supplémentaires sont mentionnés pour ce produit ?,Tenez compte du risque de change, Risque de change,True,True,True,True
+284,Quelle est la part des frais de gestion annuels appliqués à ce fonds ?,"1,62 %"," 1,62 %",True,True,True,True
+285,À combien s’élèvent les frais de transaction annuels estimés ?,"0,19 % par an"," 0,19 % de la valeur de votre investissement par an.",True,True,True,True
+286,Quel est le pourcentage maximal des frais d’entrée prélevés,5 %, 5 %,True,True,True,True
+287,Des frais sont-ils appliqués lors de la sortie de ce fonds ?,"0,00 %"," Non, aucuns frais de sortie ne sont appliqués par nos fonds en vertu du prospectus.",True,True,True,True
+288,Quelle société est responsable de la gestion de ce fonds ?,T. Rowe Price (Luxembourg) Management S.à r.l., T. Rowe Price (Luxembourg) Management S.à r.l.,True,True,True,True
+289,Quel établissement assure la fonction de dépositaire pour ce fonds ?,"J.P. Morgan SE, succursale du Luxembourg"," J.P. Morgan SE, succursale du Luxembourg",True,True,True,True
+290,À quel fonds parapluie le compartiment présenté appartient-il ?,T. Rowe Price Funds SICAV, T. Rowe Price Funds SICAV,True,True,True,True
+291,Quelle est la durée de placement recommandée pour ce produit ?,5 ans, 5 ans,True,True,True,True
+292,Quel est le montant de la commission de performance ?,"0,00 %"," 0,00 %",True,True,True,True
+293,Quel a été le rendement annuel moyen du fonds sur les cinq dernières années ?,"15,94 %"," 15,94%",True,True,True,True
+294,Quelle autorité a agréé la société de gestion T. Rowe Price (Luxembourg) Management S.à r.l. ?,CSSF, Commission de Surveillance du Secteur Financier (« CSSF »),True,True,True,True
+295,Pourquoi le fonds a-t-il recours à des instruments dérivés ?,Le fonds pourra utiliser des instruments dérivés aux fins de couverture et de gestion efficace du portefeuille, aux fins de couverture et de gestion efficace du portefeuille.,True,True,True,True
+296,"Quelle est l’adresse à utiliser pour déposer une réclamation concernant ce fonds ?
+
+","35, Boulevard du Prince Henri, L-1724 Luxembourg, Grand-Duché de Luxembourg"," T. Rowe Price (Luxembourg) Management S.à r.l, à l'attention du Responsable du traitement des plaintes, 35, Boulevard du Prince Henri, L-1724 Luxembourg, Grand-Duché de Luxembourg.",True,True,True,True
+297,Quel numéro de téléphone peut-on contacter pour obtenir plus d’informations sur le fonds ?,352 4626 85162, +352 4626 85162,True,True,True,True
+298,De quel type de document de 3 pages s'agit-il ?,PRIIP, Document d'Informations Clés,True,True,True,True
+299,Quel est le type de produit présenté dans le document ?,"Catégorie AU (USD Actions de capitalisation) LU0061474960, un compartiment de Threadneedle (Lux)", Fonds d'investissement,True,True,True,True
+300,Quel est le nom du compartiment ?,THREADNEEDLE (LUX) - GLOBAL FOCUS, Threadneedle (Lux) - Global Focus,True,True,True,True
+301,À quelle SICAV ce compartiment est-il rattaché en tant que fonds parapluie ?,Threadneedle (Lux) (« la SICAV »), Threadneedle (Lux),True,True,True,True
+302,Quel est l’objectif principal du fonds ?,Le Fonds vise à accroître la valeur de votre investissement à long terme, accroître la valeur de votre investissement à long terme.,True,True,True,True
+303,Quelle est la nature des parts émises par ce fonds ?,AU, des actions,False,False,False,False
+304,Comment sont affectés les revenus générés par le fonds ?,capitalisation, Les revenus provenant des investissements réalisés par le Fonds seront réintégrés dans la valeur des parts.,True,True,True,True
+305,Quel est le pourcentage des frais courants prélevés annuellement ?,"1,80%"," 1,80%",True,True,True,True
+306,Quel est le pourcentage maximum des frais d’entrée ?,"5,00%"," 5,00%",True,True,True,True
+307,Quel est le montant des frais de sortie pour ce fonds ?,"0,00%"," 0,00%",True,True,True,True
+308,Quels sont les frais prélevés en cas de transfert depuis un autre fonds ?,"0,75%"," 0,75%",True,True,True,True
+309,Quel est l’indicateur synthétique de risque (ISRR) attribué à ce produit ?,catégorie 6, 6,True,True,True,True
+310,Quel impact les fluctuations des taux de change peuvent-elles avoir sur la valeur de l’investissement ?,les modifications des taux de change peuvent affecter la valeur des investissements, Les modifications des taux de change peuvent affecter la valeur des investissements.,True,True,True,True
+311,En quoi le caractère concentré du portefeuille d’investissement de ce fonds constitue-t-il un facteur de risque spécifique ?,"Le Fonds présente un portefeuille ciblé (il détient un nombre limité d'investissements et/ou un univers d'investissement limité) et si un ou plusieurs de ces investissements déclinent ou subissent un préjudice, ceci peut avoir un effet prononcé sur la valeur du Fonds"," Le caractère concentré du portefeuille d’investissement de ce fonds constitue un facteur de risque spécifique parce que si un ou plusieurs de ces investissements déclinent ou subissent un préjudice, ceci peut avoir un effet prononcé sur la valeur du Fonds.",True,True,True,True
+312,À quelle date la catégorie d'actions AU (USD) a-t-elle été lancée ?,31/10/1995, 31/10/1995,True,True,True,True
+313,Quelle est la date de lancement initiale du fonds THREADNEEDLE (LUX) – GLOBAL FOCUS ?,31/03/1993, 31/03/1993,True,True,True,True
+314,Quelle est la date de mise à jour des informations fournies dans ce document ?,2020-10-07T00:00:00, 10/07/2020,True,True,True,True
+315,Quelle est la date de clôture de l’exercice comptable utilisée pour calculer les frais courants ?,31/03/19, 31/03/19,True,True,True,True
+316,En quelle devise les performances du fonds sont-elles exprimées ?,USD, USD,True,True,True,True
+317,"Le type de document réglementaire présenté ici est un Kiid, quel extrait nous le confirme ?",INFORMATIONS CLÉS POUR L'INVESTISSEUR," ""Les informations qu’il contient vous sont fournies conformément à une obligation légale, afin de vous aider à comprendre en quoi consiste un investissement dans ce fonds et quels risques y sont associés.""",False,False,False,False
+318,Quel est le code ISIN de la catégorie d’actions AU (USD) du fonds ?,LU0061474960, LU0061474960,True,True,True,True
+319,Quel indice de référence est utilisé pour évaluer la performance du fonds ?,MSCI All Countries World, MSCI All Countries World,True,True,True,True
+320,Quel est l’objectif principal du fonds selon le document ?,Accroître la valeur de l’investissement à long terme, accroître la valeur de votre investissement à long terme,True,True,True,True
+321,Quelle est la répartition géographique visée par les investissements du fonds ?,Le Fonds investit au moins deux tiers de ses actifs dans des actions de sociétés du monde entier. Le Fonds peut investir dans des marchés émergents et développés.," Le Fonds investit au moins deux tiers de ses actifs dans des actions de sociétés du monde entier, y compris dans des marchés émergents et développés.",True,True,True,True
+322,Quelle est la devise de référence du fonds ?,USD, USD,True,True,True,True
+323,Quel est le montant des frais de transaction ?,-," 0,75%",False,False,False,False
+324,Quelle société est en charge de la gestion du fonds ?,Threadneedle Management Luxembourg S.A., Threadneedle Management Luxembourg S.A.,True,True,True,True
+325,Quel est le dépositaire du fonds ?,"Citibank Europe plc, Luxembourg branch"," Citibank Europe plc, Luxembourg branch",True,True,True,True
+326,Quel est le style de gestion adopté par le fonds ?,Gestion active, activement géré,True,True,True,True
+327,"Ce fonds est-il prévu pour un investissement à court, moyen ou long terme ?",long terme, long terme,True,True,True,True
+328,Quelle autorité supervise et agrée la société de gestion ?,CSSF, CSSF,True,True,True,True
+329,Dans quel pays ce fonds at-il été agréé ?,Luxembourg, Luxembourg,True,True,True,True
+330,Quelle est la forme juridique du fonds ?,SICAV, SICAV,True,True,True,True
+331,Quelle entreprise fournit des données sur les performances passées du fonds en ligne ?,Morningstar, Morningstar,True,True,True,True
+332,À quelle catégorie réglementaire appartient ce fonds ?,OPCVM, catégorie 6,False,False,False,False
+333,Quel est le type de produit financier représenté par le Franklin Income Fund ?,Action du compartiment Franklin Income Fund, action du compartiment Franklin Income Fund,True,True,True,True
+334,Quel est le sous fonds présenté ici ?,Franklin Income Fund, Franklin Income Fund,True,True,True,True
+335,Quel est le nom du fonds auquel appartient le compartiment présenté ?,Franklin Templeton Investment Funds, Franklin Income Fund,False,False,False,False
+336,Sous quelle forme juridique est constitué le Franklin Income Fund ?,SICAV, Société d'investissement à capital variable (SICAV) ayant le statut d'OPCVM,True,True,True,True
+337,Quel est le statut réglementaire de Franklin Templeton Investment Funds ?,OPCVM, OPCVM,True,True,True,True
+338,Quel est le code ISIN du Franklin Income Fund ?,LU0098860793, LU0098860793,True,True,True,True
+339,Dans quel pays le document financier (PRIIP) a t-il été agréé ?,Luxembourg, Luxembourg,True,True,True,True
+340,Quelle est la durée de vie du fonds Franklin Income Fund ?,Néant, Le Fonds n'a pas de date d'échéance.,True,True,True,True
+341,Quel est l'objectif principal poursuivi par le fonds ?,"Le Fonds a pour objectif de s'assurer des revenus et, en deuxième lieu, d'augmenter la valeur de ses placements à moyen ou long terme", maximiser leur revenu,False,False,True,False
+342,Quel est l’indice de référence utilisé pour comparer les performances du Franklin Income Fund ?,50 % MSCI USA High Dividend Yield + 25 % Bloomberg Barclays High Yield Very Liquid + 25 % Bloomberg Barclays US Aggregate, 50 % MSCI USA High Dividend Yield + 25 % Bloomberg Barclays High Yield Very Liquid + 25 % Bloomberg Barclays US Aggregate,True,True,True,True
+343,Ce fonds est-il géré de manière passive ou active ?,active, active,True,True,True,True
+344,Quelle est la durée de placement recommandée pour ce produit ?,3 ans, 3 années,True,True,True,True
+345,Quelle est la devise de référence du fonds ?,USD, USD,True,True,True,True
+346,Quel est le niveau de risque synthétique (ISRR) attribué à ce fonds sur une échelle de 1 à 7 ?,3 sur 7, 3,True,True,True,True
+347,Quel type de risque lié aux devises est mentionné dans le document ?,Soyez conscient du risque de change, Risque de change,True,True,True,True
+348,Quel type de risque est lié à la capacité de l’émetteur à rembourser sa dette ?,Risque de crédit, Risque de crédit,True,True,True,True
+349,"Dans la section relative aux risques, pour quelle raison le fonds utilise-t-il des instruments dérivés ?",à des fins de couverture," à des fins de couverture, de gestion efficace de portefeuille et/ou d'investissement",True,False,False,False
+350,Quel est le nom du dépositaire du fonds dans ce PRIIP ?,"J.P. Morgan SE, succursale de Luxembourg"," J.P. Morgan SE, succursale de Luxembourg",True,True,True,True
+351,Quelle autorité réglementaire supervise la société de gestion ?,Commission de Surveillance du Secteur Financier, Commission de Surveillance du Secteur Financier (CSSF),True,True,True,True
+352,Quelle société assure la gestion du fonds Franklin Income Fund ?,Franklin Templeton International Services S.à r.l., Franklin Templeton International Services S.à r.l.,True,True,True,True
+353,"Dans le scénario défavorable sur une durée de 3 ans avec un investissement de 10 000 USD, quel montant l’investisseur pourrait-il récupérer ?",8300 USD, 4430 USD,False,False,False,False
+354,"Dans le scénario favorable sur une durée de trois ans avec un investissement de 10000 USD, quel montant l'investisseur peut-il espérer obtenir sur son investissement ?",12380 USD, 12380 USD,True,True,True,True
+355,Quel est le numéro de téléphone pour obtenir des informations sur le Franklin Income Fund ?,352) 46 66 67-1, (+352) 46 66 67-1,True,True,True,True
+356,Quelle est l’adresse email de contact du service client ?,lucs@franklintempleton.com, lucs@franklintempleton.com,True,True,True,True
+357,Quelle est l’adresse postale de Franklin Templeton International Services S.à r.l. ?,"8A, rue Albert Borschette, L-1246 Luxembourg"," 8A, rue Albert Borschette L-1246 Luxembourg",True,True,True,True
+358,Quel est le site internet officiel où l’on peut consulter les informations sur le fonds ?,www.franklintempleton.lu, www.franklintempleton.lu,True,True,True,True
+359,Quel est le pourcentage des frais d’entrée appliqués lors de la souscription au fonds MAM Entreprises Familiales ?,"2,00%"," 2,00%",True,True,True,True
+360,Quel est le montant des frais de sortie lors du rachat des parts de ce fonds ?,"1,00%"," 1,00%",True,True,True,True
+361,Quel est le pourcentage des frais courants prélevés annuellement sur l’actif net ?,"3,49%"," 3,49%",True,True,True,True
+362,Quelle est la commission de performance appliquée sur la surperformance du fonds par rapport à son indice de référence ?,10% TTC maximum de la surperformance du FCP au-delà de l'indice de référence, 10% TTC maximum,True,True,True,True
+363,Quel type de risque peut apparaître lorsque les volumes d’échange sur les marchés financiers sont très faibles ?,Risque de liquidité, Risque de liquidité,True,True,True,True
+364,Quel est le niveau de risque ISRR  du produit ?,6, 6,True,True,True,True
+365,Quel est l’indice de référence utilisé par le fonds MAM Entreprises Familiales ?,CAC ALL TRADABLE, CAC ALL TRADABLE,True,True,True,True
+366,Quelle est la date de création de ce fonds ?,18/10/2002, 18/10/2002,True,True,True,True
+367,Quelle restriction légale est imposée concernant les investisseurs ou entités américaines ?,"Ces parts ne doivent ni être offertes, vendues ou transférées aux Etats Unis (y compris dans ses territoires et possessions et toute région soumise à son autorité judiciaire) ni bénéficier, directement ou indirectement, à une US Person (au sens du règlement S du Securities Act de 1933 - définition disponible sur le site internet www.meeschaertassetmanagement.com)"," Les parts ne doivent ni être offertes, vendues ou transférées aux Etats Unis (y compris dans ses territoires et possessions et toute région soumise à son autorité judiciaire) ni bénéficier, directement ou indirectement, à une US Person.",True,True,True,True
+368,Quelle est la devise de référence du fonds ?,EUR, EUR,True,True,True,True
+369,Quelle plateforme d’analyse financière est citée dans cet extrait de document ?,Bloomberg, Bloomberg,True,True,True,True
+370,Quel est le ticker Bloomberg utilisé pour l’indice de référence du fonds MAM Entreprises Familiales ?,SBF250NT, SBF250NT,True,True,True,True
+371,Quel élément textuel de ce document réglementaire destiné à informer l’investisseur sur ce produit m'informe que ce document est un KIID (et pas un PRIIP) ?,INFORMATIONS CLES POUR L'INVESTISSEUR," ""Les informations qu’il contient vous sont fournies conformément à une obligation légale, afin de vous aider à comprendre en quoi consiste un investissement dans ce fonds et quels risques y sont associés.""",False,False,False,False
+372,Quel est le numéro ISIN associé à la part C du fonds ?,FR0000988933, FR0000988933,True,True,True,True
+373,Combien de temps est-il conseillé de conserver son investissement dans ce fonds ?,5 ans, 5 ans,True,True,True,True
+374,"Sous quelle forme juridique est structuré le fonds ?
+
+",FCP, OPCVM,False,False,False,False
+375,Quel est le statut réglementaire de ce produit ?,OPCVM, OPCVM,True,True,True,True
+376,Quel est l’objectif de gestion principal poursuivi par le fonds ?,croissance du capital à moyen ou long terme, offrir une croissance du capital à moyen ou long terme par le biais d’un portefeuille investi en actions d’entreprises des pays de l'Union Européenne.,True,False,True,True
+377,Quelle entité prend en charge la gestion active de ce fonds ?,Meeschaert Asset Management, Meeschaert Asset Management,True,True,True,True
+378,Quelle instance publique est responsable de l'agrément de l'OPCVM ?,Autorité des Marchés Financiers, Autorité des Marchés Financiers,True,True,True,True
+379,Dans quel pays Européen la société de gestion Meeschaert Asset Management a t-elle été agréé ?,France, France,True,True,True,True
+380,Quelle autorité a délivré l’agrément à la société de gestion Meeschaert Asset Management ?,Autorité des Marchés Financiers, Autorité des Marchés Financiers,True,True,True,True
+381,Quel identifiant officiel a été attribué à Meeschaert Asset Management par l’autorité de régulation ?,GP-040 00025, GP-040 00025,True,True,True,True
+382,À qui ce fonds est-il déconseillé du fait de sa durée de détention recommandée ?,Ce fonds pourrait ne pas convenir aux investisseurs qui prévoient de retirer leur apport avant 5 ans., investisseurs qui prévoient de retirer leur apport avant 5 ans,True,True,True,True
+383,Où envoyer une correspondance à Meeschaert Asset Management ?,Tour Maine Montparnasse 33 avenue du Maine 75755 Paris Cedex 15, Tour Maine Montparnasse 33 avenue du Maine 75755 Paris Cedex 15,True,True,True,True
+384,"Quel est le nom du fonds présenté dans ce document réglementaire ?
+
+",MAM ENTREPRISES FAMILIALES, MAM ENTREPRISES FAMILIALES,True,True,True,True
+385,Ce fonds fait-il partie d’un fonds parapluie ?,-, Non,True,True,False,True
+386,"Il s'agit d'un KIID car il est écrit "" ""?",INFORMATIONS CLES POUR L'INVESTISSEUR, non,False,False,False,False
+387,Quelle stratégie peut être utilisée par le gérant pour protéger le portefeuille contre les variations du marché ?,le gérant pourra prendre des positions en vue de couvrir le portefeuille contre les risques actions et de change et/ou de reconstituer une exposition synthétique," Dans les limites de 100 % de l’actif, le gérant pourra prendre des positions en vue de couvrir le portefeuille contre les risques actions et de change et/ou de reconstituer une exposition synthétique.",True,True,True,True
+388,"À quelle date les informations clés pour l’investisseur ont-elles été mises à jour pour la dernière fois ?
+
+",27/08/2021, 27/08/2021,True,True,True,True
+389,Quel établissement agit en tant que dépositaire pour le fonds ?,CACEIS BANK, CACEIS BANK,True,True,True,True
+390,Sous quelle dénomination est enregistré le fonds ?,Goldman Sachs Global Millennials Equity Portfolio, Goldman Sachs Funds,False,False,False,False
+391,"Comment s’appelle la structure globale regroupant plusieurs compartiments, dont celui présenté ici ?",Goldman Sachs Funds, Goldman Sachs Funds,True,True,True,True
+392,Ce fonds relève-t-il d’une société d’investissement à capital variable ou d’un autre cadre juridique ?,Société d'investissement à capital variable, Ce fonds relève d’une société d’investissement à capital variable.,True,True,True,True
+393,Ce produit est-il un fonds autonome ou un compartiment d’une structure plus large ?,compartiment de Goldman Sachs Funds, Ce produit est un compartiment d’une structure plus large.,True,True,True,True
+394,Quelle institution luxembourgeoise encadre ce produit d’investissement ?,Commission de Surveillance du Secteur Financier, Commission de Surveillance du Secteur Financier,True,True,True,True
+395,Où le produit a-t-il obtenu son agrément ?,Luxembourg, Luxembourg,True,True,True,True
+396,"Quel État membre européen a validé l’agrément de la société de gestion ?
+
+",Irlande, Irlande,True,True,True,True
+397,Quelle est l’autorité réglementaire compétente pour cette société de gestion agréée en Irlande ?,Banque centrale d'Irlande, Banque centrale d'Irlande,True,True,True,True
+398,"Comment peut-on identifier que ce document est un KIID (Document d’Informations Clés pour l’Investisseur), même si ce terme n’est pas mentionné explicitement ?",Informations clés pour l'investisseur, Le document mentionne qu'il fournit des informations essentielles aux investisseurs et qu'il ne s'agit pas d'un document promotionnel. Il indique également que les informations sont fournies conformément à une obligation légale pour aider à comprendre les aspects de l'investissement et les risques associés.,True,False,True,True
+399,Qui gère activement le Global Millennials Equity Portfolio ?,Goldman Sachs Asset Management Fund Services Limited, Goldman Sachs Asset Management Fund Services Limited,True,True,True,True
+400,"Quel est le nom de la banque dépositaire associée à ce fonds au Luxembourg ?
+
+",State Street Bank International GmbH Luxembourg Branch, State Street Bank International GmbH Luxembourg Branch,True,True,True,True
+401,En quelle devise est libellé le fonds ?,USD, USD,True,True,True,True
+402,Quelle est la devise spécifique utilisée pour la catégorie d’actions présentée dans le document ?,EUR, EUR,True,True,True,True
+403,Le portefeuille suit-il un indice de manière à le répliquer ou est-il activement piloté par les gérants ?,géré activement, Le Portefeuille est géré activement par les gérants.,True,True,True,True
+404,"Quel indice de référence est utilisé à titre indicatif pour ce portefeuille ?
+
+",MSCI All Country World Growth Index (Total Return Net) (EUR), MSCI All Country World Growth Index (Total Return Net) (EUR),True,True,True,True
+405,À quoi sert l’indice MSCI All Country World Growth Index dans la gestion du fonds Goldman Sachs Global Millennials Equity Portfolio ?,Le Portefeuille est géré activement et fait référence à MSCI All Country World Growth Index (Total Return Net) (EUR) (l'« Indicateur ») aux fins de la fixation de seuils de risque internes discrétionnaires qui peuvent présenter des écarts par rapport à l'Indicateur, L'indice MSCI All Country World Growth Index sert de référence pour fixer des seuils de risque internes discrétionnaires dans la gestion du fonds Goldman Sachs Global Millennials Equity Portfolio.,True,True,True,True
+406,À quelle date la part E de ce compartiment a-t-elle été introduite sur le marché ?,janvier 2016, janvier 2016,True,True,True,True
+407,Quelle est la date de la dernière actualisation des informations clés pour l’investisseur ?,2022-08-02T00:00:00, 08/02/2022,True,True,True,True
+408,Dans quelle catégorie de risque se situe ce produit d’investissement selon l’indicateur synthétique ?,catégorie 6, catégorie 6,True,True,True,True
+409,"Combien peut coûter l’accès initial au portefeuille en termes de frais d’entrée ?
+
+",0.04, 4.00%,True,True,True,True
+410,Ce portefeuille impose-t-il des frais de sortie aux investisseurs ?,Aucun, Aucun,True,True,True,True
+411,Quel pourcentage est prélevé chaque année pour couvrir les frais de fonctionnement du fonds ?,0.0241, 2.41%,True,True,True,True
+412,Existe-t-il une commission de performance pour ce produit d’investissement ?,Aucun, Aucun,True,True,True,True
+413,Quel risque survient lorsque le portefeuille ne trouve pas facilement d’acheteur pour ses actifs ?,Risque de liquidité, Risque de liquidité,True,True,True,True
+414,Quels sont les risques liés aux instruments dérivés pour cet investissement ?,Risque lié aux instruments dérivés - les instruments dérivés sont très sensibles aux fluctuations de valeur des actifs sous-jacents auxquels ils sont adossés. Certains instruments dérivés peuvent entraîner des pertes supérieures au montant initialement investi., Les instruments dérivés sont très sensibles aux fluctuations de valeur des actifs sous-jacents auxquels ils sont adossés. Certains instruments dérivés peuvent entraîner des pertes supérieures au montant initialement investi.,True,True,True,True
+415,Quel est l’identifiant international attribué à cette catégorie d’actions ?,LU1341142237, MSCI All Country World Growth Index (Total Return Net) (EUR),False,False,False,False
+416,Quel but d’investissement ce fonds cherche-t-il à atteindre sur le long terme ?,Le Portefeuille cherche à assurer la croissance du capital à long terme, assurer la croissance du capital à long terme,True,True,True,True
+417,Le produit présenté correspond-il à un fonds autonome ou à un compartiment au sein d’un fonds plus large ?,Un Compartiment de Eastspring Investments - Classe C - LU0149984386, Le produit présenté correspond à un compartiment au sein d’un fonds plus large.,True,True,True,True
+418,Sous quelle dénomination officielle est commercialisé le fonds ?,US Investment Grade Bond Fund, US Investment Grade Bond Fund,True,True,True,True
+419,À quel fonds parapluie appartient le compartiment US Investment Grade Bond Fund ?,Eastspring Investments, Eastspring Investments - Classe C - LU0149984386,True,False,True,True
+420,À quel type de structure d’investissement (juridiquement parlant) appartient ce fonds ?,SICAV, société d'investissement à capital variable (SICAV),True,True,True,True
+421,"Ce produit est-il un FIA, un OPCVM ou un autre type de véhicule d’investissement réglementé ?
+
+",OPCVM, OPCVM,True,True,True,True
+422,Pendant combien de temps est-il conseillé aux investisseurs de conserver ses parts dans ce produit ?,au moins 5 ans, 5 ans,True,True,False,True
+423,"Le compartiment a-t-il une date d’échéance prédéfinie ?
+
+",Le Compartiment est constitué pour une durée illimitée et n'a donc pas de date d'échéance," Non, le compartiment n'a pas de date d’échéance prédéfinie.",True,True,True,True
+424,"Que vise le fonds en termes de résultats pour l’investisseur à long terme ?
+
+",vise à dégager des revenus réguliers et à accroître la valeur de votre investissement sur le long terme, surperformer l'indice ICE BofA U.S. Corporates BBB3-A3 Rated,False,False,False,False
+425,À quel benchmark le compartiment compare-t-il sa performance ?,ICE BofA U.S. Corporates BBB3-A3 Rated, ICE BofA U.S. Corporates BBB3-A3 Rated,True,True,True,True
+426,Le US Investment Grade Bond Fund cherche-t-il à répliquer ou à surperformer son indice de référence ?,Ce Compartiment vise à surperformer l'indice ICE BofA U.S. Corporates BBB3-A3 Rated (l'« Indice de référence »), surperformer,True,True,True,True
+427,Quelle est la monnaie de base utilisée pour la gestion du fonds ?,USD, USD,True,True,True,True
+428,"Les actifs du fonds sont-ils libellés en euros, en dollars ou dans une autre devise ?",dollars américains, Les actifs du fonds sont libellés en dollars américains.,True,True,True,True
+429,Comment est classé ce fonds en termes de risque relatif selon l’indicateur réglementaire de 1 à 7 ?,3 sur 7, Classe de risque 3 sur 7,True,True,True,True
+430,À combien s’élèvent les frais que vous payez en souscrivant à ce produit ?,0.03, 3.00% du montant que vous payez au moment de l'entrée dans cet investissement.,False,False,True,False
+431,Quel est le pourcentage annuel des frais de gestion pour ce fonds ?,0.006, 0.60%,False,True,True,True
+432,Ce produit facture-t-il des frais lors du rachat de vos parts ?,0, Non,True,True,True,True
+433,Qui assure la fonction de dépositaire pour le US Investment Grade Bond Fund ?,"The Bank of New York SA/NV, Luxembourg branch"," The Bank of New York SA/NV, Luxembourg branch",True,True,True,True
+434,Qui est le gestionnaire du compartiment présenté ?,Eastspring Investments (Luxembourg) S.A., Eastspring Investments (Luxembourg) S.A.,True,True,True,True
+435,Quel organisme luxembourgeois est chargé de l’agrément de la société de gestion Eastspring Investments (Luxembourg) S.A. ?,Commission de Surveillance du Secteur Financier, Commission de Surveillance du Secteur Financier du Luxembourg,True,True,True,True
+436,Où trouver les informations complémentaires sur ce compartiment en ligne ?,https://www.eastspring.lu, https://www.eastspring.lu,True,True,True,True
+437,Quand le PRIIP a-t-il été officiellement mis à disposition ?,01 Janvier 2023, 01 Janvier 2023,True,True,True,True
+438,"Quelle est l’adresse email à utiliser pour contacter le responsable des réclamations ?
+
+",oliver.hermesdorf@eastspring.com, oliver.hermesdorf@eastspring.com,True,True,True,True
+439,"Quel est le numéro de téléphone général du gestionnaire du compartiment ?
+
+",352 22 99 99 5763, +352 22 99 99 5763,True,True,True,True
+440,"Quel numéro appeler pour joindre directement le responsable des réclamations ?
+
+",352 22 99 99 5764, +352 22 99 99 5764,True,True,True,True
+441,À quel article du règlement SFDR ce fonds est-il conforme ?,Le Compartiment est considéré comme un fonds relevant de l'Article 8, Article 8,True,True,True,True
+442,Les ordres d'achat ou de vente d'actions sont-ils limités à certains jours ou possibles en continu ?,à tout moment, Les ordres d'achat ou de vente d'actions peuvent être passés à tout moment.,True,True,True,True
+443,"Comment qualifie-t-on ce type de document d'information destiné aux investisseurs de détail ?
+
+",PRIIP, PRIIP (Packaged Retail and Insurance-based Investment Product),True,True,True,True
+444,Quel est le code ISIN correspondant à la part I du fonds La Française Protectaux ?,FR0010107953, FR0010107953,True,True,True,True
+445,Comment est identifié la part R de ce fonds sur les marchés financier ?,FR0010996736, FR0010996736,True,True,True,True
+446,Comment s’intitule précisément la part I du fonds présenté dans le prospectus ?,La Française Protectaux - Part I, La Française Protectaux (Part I),True,True,True,True
+447,Sous quelle dénomination est référencée la part R dans le document réglementaire ?,La Française Protectaux - Part R, La Française Protectaux (Part R),True,True,True,True
+448,Est-ce un FCP ou une SICAV ?,Fonds Commun de Placement, FCP,True,True,True,True
+449,Combien de temps est-il conseillé de conserver un investissement dans La Française Protectaux – Part I ?,2 ans, 2 ans,True,True,True,True
+450,Quelle est la durée légale de vie du fonds La Française Protectaux (Part I) ?,99 ans, 99 ans,True,True,True,True
+451,Ce fonds est-il ouvert à tous les investisseurs ou uniquement à une catégorie spécifique ?,Réservée aux clients professionnels au sens de la MIF, uniquement à une catégorie spécifique,True,True,True,True
+452,,"Le fonds a pour objectif d’obtenir, sur la période de placement recommandée de deux ans, une performance nette de frais supérieure à celle de son indicateur de référence l’indice Solactive bund daily inverse index SODI1BUN Index (code bloomberg : BUNS FP)", Fonds Commun de Placement (FCP) de droit français,False,False,False,False
+453,,Solactive bund daily inverse index SODI1BUN Index (code bloomberg : BUNS FP)," La Française Protectaux (Part I) est un Fonds Commun de Placement (FCP) de droit français initié par La Française Asset Management. Son objectif est d'obtenir une performance nette de frais supérieure à celle de son indicateur de référence, l’indice Solactive bund daily inverse index SODI1",True,False,True,True
+454,,"Le fonds a pour objectif d’obtenir, sur la période de placement recommandée de deux ans, une performance nette de frais supérieure à celle de son indicateur de référence l’indice Solactive bund daily inverse index SODI1BUN Index (code bloomberg : BUNS FP)"," La Française Protectaux (Part I) est un Fonds Commun de Placement (FCP) de droit français initié par La Française Asset Management. Son objectif est d'obtenir une performance nette de frais supérieure à celle de son indicateur de référence, l’indice Solactive bund daily inverse index SODI1",True,False,True,True
+455,,BUNS FP," La Française Protectaux (Part I) est un Fonds Commun de Placement (FCP) de droit français initié par La Française Asset Management. Son objectif est d'obtenir une performance nette de frais supérieure à celle de son indicateur de référence, l’indice Solactive bund daily inverse index SODI1",False,False,False,False
+456,Quelle est la devise du fonds ?,Structurellement investi en obligations libellées en euros et émises ou garanties par l’État français ou un Etat dont la notation est AAA (selon Standard & Poor’s ou équivalent selon l’analyse de la société de gestion) ou Aaa (selon Moody’s ou équivalent selon l’analyse de la société de gestion), euros,True,True,True,True
+457,"On peut déduire quelle est la devise d'investissement dans ce document, de quoi s'agit-il ?",€, euros,True,True,True,True
+458,Où se situe ce produit sur l’échelle de risque de 1 à 7 ?,3 sur 7, 3,True,True,True,True
+459,Quel pourcentage de frais maximum peut être prélevé au moment de la souscription ?,"2,00 % maximum du montant que vous payez au moment de l’entrée dans l’investissement, n'incluant pas les coûts de distribution"," 2,00 %",True,True,True,True
+460,"L’investisseur supporte-t-il un coût au moment de revendre ses parts ?
+
+",Nous ne facturons pas de coût de sortie pour ce produit, Non,True,True,True,True
+461,À combien s’élèvent les frais de gestion annuels maximum de la part I ?,"0,54 % maximum de la valeur de votre investissement par an"," 52,92 €",False,False,False,False
+462,Qui supervise juridiquement la société en charge de la gestion du fonds ?,Autorité des Marchés Financiers, Autorité des Marchés Financiers,True,True,True,True
+463,Par quel régulateur ce fonds a-t-il été autorisé à opérer ?,Autorité des Marchés Financiers, Autorité des marchés financiers,True,True,True,True
+464,Où peut-on consulter les documents réglementaires du fonds en ligne ?,www.la-francaise.com, www.la-francaise.com,True,True,True,True
+465,À quelle date le document d’informations clés a-t-il été établi ?,2023-02-01T00:00:00, 02/01/2023,True,True,True,True
+466,Depuis quelle date le fonds La Française Protectaux est-il agréé ?,2002-03-12T00:00:00, 03/12/2002,True,True,True,True
+467,Quand les ordres de rachat sont-ils centralisés pour ce fonds ?,centralisées chaque jour de bourse (J) avant 11h00, chaque jour de bourse avant 11h00,True,True,True,True
+468,Quel est le niveau minimal exigé par le fonds selon l’échelle de Standard & Poor’s ?,AAA, AAA,True,True,True,True
+469,Quelle notation Moody’s est exigée pour les titres dans lesquels le fonds investit ?,Aaa, Aaa,True,True,True,True
+470,À quelle agence de notation correspond la classification AAA utilisée pour sélectionner les titres ?,Standard & Poor’s, Standard & Poor’s,True,True,True,True
+471,Quelle fourchette de sensibilité est ciblée pour la part I du fonds ?,entre -10 et 2, -10 à 2,True,True,True,True
+472,Quelle méthode de calcul est utilisée pour évaluer le risque global du fonds ?,méthode de calcul de l'engagement, La méthode de calcul de l'engagement.,True,True,True,True
+473,Quel code encadre légalement le fonctionnement de ce fonds en France ?,Code Monétaire et Financier, Code Monétaire et Financier,True,True,True,True
+474,Quelle méthode est utilisée pour comptabiliser les revenus du fonds ?,méthode des intérêts encaissés, La méthode des intérêts encaissés.,True,True,True,True
+475,La part I du fonds est-elle accessible à tous les investisseurs ?,Réservée aux clients professionnels au sens de la MIF," Non, la part I du fonds La Française Protectaux est réservée aux clients professionnels au sens de la MIF.",True,True,True,True
+476,Quel est le nom complet du fonds présenté dans ce document ?,SELECTION ACTION RENDEMENT, SELECTION ACTION RENDEMENT,True,True,True,True
+477,Quelle est la forme juridique du fonds Sélection Action Rendement ?,FONDS COMMUN DE PLACEMENT, Fonds commun de placement (FCP) de droit français.,True,True,True,True
+478,"Selon la réglementation, à quelle catégorie juridique appartient ce produit, OPCVM ou FIA ?",OPCVM, OPCVM,True,True,True,True
+479,"Depuis quand ce fonds est-il disponible pour les investisseurs ?
+
+",11 juin 2004, Depuis le 11 juin 2004,True,True,True,True
+480,Quelle est la durée légale de vie du fonds ?,99 ans, 99 ans,True,True,True,True
+481,Quel est le code ISIN attribué à la part C du fonds ?,FR0010083634, FR0010083634,True,True,True,True
+482,Les revenus générés par la part C sont-ils distribués ou capitalisés ?,Capitalisation, Capitalisation,True,True,True,True
+483,En quelle devise est libellée la part C du fonds ?,Euro, Euro,True,True,True,True
+484,"Quel est le public cible de la part C ?
+",Tous souscripteurs, Tous souscripteurs,True,True,True,True
+485,Quelle est la valeur liquidative initiale de la part C ?,1000, 1000,True,True,True,True
+486,,1 part," The Fonds commun de placement de droit français ""SELECTION ACTION RENDEMENT"" was created on June 11, 2004, and has a duration of 99 years.",False,False,False,False
+487,Quel est le montant minimum pour une souscription complémentaire à la part C ?,1 dix-millième de part, 1 dix-millième de part,True,True,True,True
+488,Quel est le code ISIN de la part I du fonds Sélection Action Rendement ?,FR0013447018, FR0013447018,True,True,True,True
+489,La part I du fonds Sélection Action Rendement fonctionne-t-elle en capitalisation ou en distribution ?,Capitalisation, Capitalisation,True,True,True,True
+490,Quelle est la devise de la part I du fonds ?,Euro, Euro,True,True,True,True
+491,A quel type de public s'adresse principalement la part I du fonds ?,Tous souscripteurs et plus particulièrement les investisseurs institutionnels, investisseurs institutionnels,True,True,True,True
+492,A combien s'élevait la valeur liquidative de départ de la part I ?,10000, 10000,True,True,True,True
+493,Quel est le montant minimum à investir pour une première souscription à la part I ?,5000000, 5000000 d'euros,True,True,True,True
+494,Quel est le montant minimal pour une souscription supplémentaire à la part I ?,1 dix-millième de part, 1 dix-millième de part,True,True,True,True
+495,Comment est identifiée la part S sur les marchés financiers ?,FR0013472107, FR0013472107,True,True,True,True
+496,La part S fonctionne-t-elle en capitalisation ou en distribution ?,Capitalisation, Capitalisation,True,True,True,True
+497,En quelle devise est libellée la part S ?,Euro, Euro,True,True,True,True
+498,Quel est le profil des souscripteurs pour la part S ?,Tous souscripteurs et plus particulièrement les investisseurs institutionnels, Tous souscripteurs et plus particulièrement les investisseurs institutionnels,True,True,True,True
+499,Quelle est a valeur liquidative d'origine de la part S ?,10000, 10000,True,True,True,True
+500,Quel est le montant de souscription initiale exigé pour accéder à la part S ?,25000000 d'euros, 25000000 d'euros,True,True,True,True
+501,Combien peut-on investir (en part )au minimum après une première souscription à la part S ?,1 dix-millième de part, 1 dix-millième de part,True,True,True,True

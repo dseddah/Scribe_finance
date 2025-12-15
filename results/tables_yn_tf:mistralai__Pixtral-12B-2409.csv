@@ -1,0 +1,121 @@
+id,question,answer,prediction,google__gemma-3-27b-it,Qwen__Qwen3-32B,meta-llama__Llama-3.3-70B-Instruct,majority_vote
+1,Est-ce qu'il faut souscrire à au moins 6800 parts pour commencer sur le marché principal ?,Oui, Non,False,False,False,False
+2,C’est accessible à n’importe quel investisseur ce produit-là ?,Oui, Oui,True,True,True,True
+3,"VL de départ > 100 euros, c’est le cas ?",Oui, Oui,True,True,True,True
+4,Vrai ou faux : la VL initiale dépasse les 100 €,Oui, Faux,False,False,False,False
+5,Est-ce que les gains sont toujours réinvestis automatiquement (capitalisation only) ?,Non, Oui,False,False,False,False
+6,"Le montant prélevé à l’entrée, sans être affecté au fonds, correspond-il à 3 % ?",Oui, Oui,True,True,True,True
+7,Est-ce qu’il y a un % de frais d’entrée qui va au fonds directement ?,Non, Non,True,True,True,True
+8,Faut-il payer 3% de prélèvement non reversé au fonds quand on sort ?,Oui, Non.,False,False,False,False
+9,Le fonds récupère t-il un peu des frais de sortie ou pas ?,Non, Non,True,True,True,True
+10,Les frais sont-ils calculés en multipliant la VL par le nb de parts ?,Oui, Oui.,True,True,True,True
+11,Cette classe d’actions a-t-elle des exit fees ?,Non, Non,True,True,True,True
+12,"Sortir de cet OPCI, ça coûte quelque chose ou c’est gratuit ?",Non, ça coûte quelque chose.,False,False,False,False
+13,Frais d’exploitation des biens = inclus dans les frais courants ? (V/F),Vrai, V,True,True,True,True
+14,"Les frais dépassent 3 % de l’actif net, c’est vrai ou c’est du fake ?",Faux, Fake,True,True,True,True
+15,La perf fee est prise chaque année peu importe les résultats ? Vrai ou faux ?,Faux, Vrai,False,False,False,False
+16,Les frais changent-ils selon les années ?,Oui, oui,True,True,True,True
+17,Ce fonds-là prend une perf fee ?,Oui, Oui,True,True,True,True
+18,Est-ce que les frais réguliers peuvent fluctuer ?,Oui, non,False,False,False,False
+19,On y trouve autre chose que le risque dans ce tableau ou pas ?,Non, non,True,True,True,True
+20,Est-ce que ça coûte quelque chose pour quitter le fonds ?,Non, Non.,True,True,True,True
+21,Ce FCPE-là il prend une perf fee ou pas ?,Non, non.,True,True,True,True
+22,Chaque part a bien un code officiel (AMF) attribué ?,Oui, Oui,True,True,True,True
+23,Y en a-t-il qui distribuent le résultat plutôt que le capitalisent ?,Non, Non.,True,True,True,True
+24,F/V : Les parts E et F ont un code AMF mais pas d’ISIN ?,Vrai, Oui,True,True,True,True
+25,On te fait payer à l’entrée ou à la sortie là-dessus ?,Non, Sans objet,False,False,True,False
+26,True or False: max gestion fees pour Amundi ESR PER = 1.10 % ?,Faux, False,True,True,True,True
+27,V/F : C’est l’employeur qui couvre les coûts d’ESR - PER CA ?,Faux, Vrai,False,False,False,False
+28,Est-ce qu’on te colle une commission de surperformance si RETRAITE-C dépasse ses objectifs ?,Oui, Oui,True,True,True,True
+29,Peuvent-ils ajouter des frais de sortie plus tard ?,Oui, Non.,False,False,False,False
+30,Tout le monde peut acheter l’action F ou c’est limité ?,Non, Tout le monde.,False,False,False,False
+31,"VL de base pour F = 100 euros, c’est bien ça ?",Oui, Non.,False,False,False,False
+32,Elle est en euro cette action F ? Ou autre devise ?,Oui, Non,False,False,False,False
+33,Faut en prendre au moins 10 pour l’action F au début ?,Non, Non,True,True,True,True
+34,L’affectation des revenus de F peut-elle inclure une distribution ?,Oui, Non,False,False,False,False
+35,Est-il exact que l’action F est ouverte à des entités institutionnelles extérieures à La Française ? (Vrai/Faux),Faux, Vrai,False,False,False,False
+36,"Vrai ou Faux : L’affectation des plus-values… capitalisation, distribution ou report ?",Vrai, capitalisation,False,False,False,False
+37,"True/False : F est en USD, pas en EUR ?",Faux, False,True,True,True,True
+38,1 seule action F c'est le minimum ? Vrai ou faux ?,Vrai, Vrai,True,True,True,True
+39,Est-il vrai que l’action F ne prévoit aucune option autre que la capitalisation pour les revenus générés ?,Faux, Oui,False,False,False,False
+40,R C EUR : C'est pour tous les types d'investisseurs ?,Oui, Non,False,False,False,False
+41,T C EUR = Permet-t-elle le versement de revenus aux investisseurs ?,Non, Non,True,True,True,True
+42,"Concernant les actions, est-il admis que ces dernières soient divisés en parts inférieures ?",Oui, Oui,True,True,True,True
+43,Exposition au risque de taux de conversion monétaire pour le portefeuille ?,Oui, Oui,True,True,True,True
+44,"Hormis les charges directes, y a-t-il des frais non directs maximum facturés à l'OPCVM ?",Non, Oui,False,False,False,False
+45,"Est-ce que chaque transaction, quelle qu'elle soit, entraîne systématiquement des frais transactionnels ?",Oui, Non,False,False,False,False
+46,"Sensibilité aux fluctuations monétaires non-USD pour le portefeuille, oui ou non ?",Oui, Oui,True,True,True,True
+47,"Vrai ou Faux : Est-il exact que ce fonds, dont nous discutons ici, peut être totalement exposé au risque de change en devises autres que le dollar américain ?",Vrai, Faux,False,False,False,False
+48,"Lors de la souscription ou du rachat des parts de ce dispositif d'investissement, des prélèvements initiaux ou terminaux sont-ils exigés ?",Non, Non.,True,True,True,True
+49,"Vrai ou Faux : La structure de gestion de ce même fonds, dont nous analysons les caractéristiques maintenant, prélève-t-elle une rémunération additionnelle si la performance enregistrée dépasse un seuil prédéfini ?",Faux, Vrai,False,False,False,False
+50,"Vrai ou Faux : Les frais d'entrée, ça peut monter jusqu'à deux %?",Vrai, Vrai,True,True,True,True
+51,Est-il exact d'affirmer que les charges récurrentes associées à la gestion de ce portefeuille d'investissement s'établissent à un pour cent ?,Faux, Non,True,True,True,True
+52,Le gestionnaire de ce véhicule de placement est en droit de percevoir une rétribution additionnelle conditionnée par l'atteinte ou le dépassement d'objectifs de rendement spécifiques ?,Faux, Oui,False,False,False,False
+53,Est-il avéré que les prélèvements occasionnés lors du rachat des parts de cet investissement peuvent s'élever jusqu'à une proportion maximale d'un pour cent ?,Vrai, Oui,True,True,True,True
+54,"Ces coûts d'accès, relatifs à l'investissement, sont de manière universelle imposés, nonobstant le fait que l'opération d'acquisition ait lieu sur une place boursière ?",Faux, Non,True,True,True,True
+55,"Les frais habituels sont-ils, genre, demandés tous les ans ? Oui ou Non ?",Oui, Oui,True,True,True,True
+56,"Vrai / Faux Dans l'hypothèse où les titres de cette structure sont négociés en bourse, des coûts d'acquisition initiaux sont exigibles ?",Non, Vrai,False,False,False,False
+57,"Les frais de sortie peuvent-ils être, euh, nuls dans certaines situations ?",Oui, Oui,True,True,True,True
+58,Des prélèvements sont-ils exigibles lorsque l'on se retire du placement étudié ici ?,Oui, Non.,False,False,False,False
+59,"D'après ce document, une rétribution basée sur les résultats est-elle appliquée pour ce fonds ?",Oui, Oui,True,True,True,True
+60,Des frais de surperformance ont-ils été appliqués durant la dernière période de référence présentée ici?,Non, Non,True,True,True,True
+61,Des frais de sortie sont-ils imposés si l'on quitte ce produit ?,Non, Non.,True,True,True,True
+62,A-t-on instauré un nouveau cycle d'observation spécifique au cours de cette Année 2 mentionnée ?,Oui, Oui,True,True,True,True
+63,A-t-on inauguré un cycle d'évaluation inédit durant cette Année 4 dont nous examinons les données actuellement ?,Non, Oui,False,False,False,False
+64,"L'entité chargée des transferts de parts est localisée là-bas, à Dublin.",Vrai, International Financial Data Services (Irlande) Limited,False,False,False,False
+65,"Vrai ou Faux : Le gardien des actifs de ce fonds se trouve bien ici, à Londres.",Faux, Faux,True,True,True,True
+66,"Janus Henderson Investors UK Limited, cette entité que nous avons sous les yeux, figure-t-elle parmi les chargé de commercialisation et de vente des parts de ce fonds ?",Oui, Oui,True,True,True,True
+67,L'instigateur de ce fonds est-il identique à la structure qui en assure le conseil en investissement à l'heure actuelle ?,Oui, Oui.,True,True,True,True
+68,Est-il possible de réaliser un investissement supplémentaire (plus tard) dans cette Catégorie I ?,Non, Non.,True,True,True,True
+69,"Existe-t-il un écart entre les seuils d'investissement minimaux exprimés en USD et en EUR, pour cette Catégorie Z que nous observons ici ?",Oui, Non,False,False,False,False
+70,"L'acquisition de parts de la Catégorie A est-elle envisageable en livres sterling, avec un apport initial de 2 500 GBP, et ce, dès maintenant ?",Oui, Non,False,False,False,False
+71,"Le positionnement initial en Catégorie G requiert-il un capital de départ excédant 10 000 000 EUR, dans le cas présent ?",Oui, Non,False,False,False,False
+72,"La Catégorie Y, cette catégorie à laquelle nous allons nous intéresser maintenant , sa souscription est-elle permise en dollar américain ?",Non, Non.,True,True,True,True
+73,"L'affectation de capitaux à la Catégorie Z, une démarche parfois ardue pour les investisseurs, est-elle réalisable en euros, avec un versement de départ s'élevant à un million de ces mêmes unités monétaires ?",Non, Non,True,True,True,True
+74,"Est il vrai que concernant la catégorie S libellée en dollars américains, son seuil de souscription initial est plus élevé que celui requis pour la Catégorie  I ?",Vrai, Oui,True,True,True,True
+75,"Vrai ou Faux : Le capital de départ minimal exigé pour l'accès à la Catégorie E s'élève-t-il invariablement à 2 500 unités monétaires, et ce, quelle que soit la devise de libellé des parts de ce fonds  (EUR ou USD) ?",Faux, Vrai,False,False,False,False
+76,"Au sein du tableau que nous analysons actuellement, y a-t-il, par hasard, des titres dont la valeur nominale est exprimée dans une unité monétaire d'un pays du continent asiatique ?",Oui, Oui,True,True,True,True
+77,"Parmi les diverses éléments de ce tableau d'investissement que nous avons ici sous les yeux se distingue-t-il des groupements d'actions dont la dénomination monétaire intrinsèque serait celle du Réal brésilien (dont le sigle, fort connu, est BRL) ?",Oui, Oui,True,True,True,True
+78,"Ce dispositif de placement, dont nous examinons les spécificités en ce moment, intègre-t-il (et c'est une question cruciale, n'est-ce pas ?) dans ses processus d'évaluation et de décision les répercussions les plus significatives, celles qui sont défavorables sur les déterminants environnementaux, sociaux et de gouvernance (ESG, pour les initiés) ?",Oui, Oui,True,True,True,True
+79,"Concernant la Catégorie I, est-elle assujettie à des charges de gestion d'ordre administratif provenant d'entités tierces, extérieures à la structure principale ?",Non, Non,True,True,True,True
+80,"Des frais indirects toutes taxes comprises , sont-ils applicables à ce véhicule d'investissement ? ",Non, Non,True,True,True,True
+81,"Des rétributions liées aux opérations, ces fameuses ""commissions de mouvement"", peuvent-elles être effectivement soustraites du capital investi ici, à chaque acte transactionnel ?",Non, Non,True,True,True,True
+82,"Pour ce qui est des instruments de dette émis par le secteur privé , leur valorisation est-elle inférieure, c'est-à-dire plus ""décotée"", comme on dit dans le jargon, comparée à celle des obligations émises par les émetteurs du secteur public, d'après les informations fournies ?",Oui, Oui,True,True,True,True
+83,Est-il possible d'avoir une décote nulle sur des titres autres que les espèces ?,Oui, Non,False,False,False,False
+84,La classe R impose-t-elle des frais de sortie ?,Non, Non,True,True,True,True
+85,Est-ce que la valorisation de l’inventaire est réalisée 1 fois/semaine ?,Faux, Non,True,True,True,True
+86,Vrai / Faux : Le règlement des opérations de souscription et de rachat intervient à J+3 après la date de transaction.,Vrai, Vrai,True,True,True,True
+87,"Existe t-il d’autres classes que la ""Classique"" en EUR (ISIN LU0151324422) avec un taux de provisionnement de 20% ?",Non, Oui,False,False,False,False
+88,"La classe R-H (ISIN LU2069305865) emploie-t-elle une méthodologie spécifique comme celle du ""High Water Mark"" ?",Oui, Non,False,False,False,False
+89,Toutes les classes d’actions ont-elles un taux de provisionnement précisé ?,Oui, Non.,False,False,False,False
+90,Le cadre d'investissement de l'OPCVM permet-il l'acquisition de titres émis par des OPCVM de droit français ?,Oui, Non,False,False,False,False
+91,L'OPCVM est-il restreint aux seuls fonds d'investissement de droit national pour ses placements ?,Oui, Non,False,False,False,False
+92,Les FIA européens sont-ils des actifs que l'OPCVM est en droit d'acquérir ?,Oui, Non,False,False,False,False
+93,"La panoplie d'instruments de gestion inclut-elle des produits dérivés de crédit, tels que les Credit Default Swaps (CDS) ?",Non, Oui,False,False,False,False
+94,Le tableau de stratégie indique-t-il que les obligations convertibles sont mobilisées spécifiquement pour la gestion du risque de crédit ?,Non, Oui,False,False,False,False
+95,La mise en œuvre de stratégies d'arbitrage repose-t-elle sur l'utilisation des obligations convertibles ?,Non, Oui,False,False,False,False
+96,Est-il précisé que les bons de souscription peuvent servir dans des stratégies de couverture ?,Oui, Oui,True,True,True,True
+97,"Selon les informations fournies dans le tableau, Les produits de taux assortis d’une option de vente, figurent-ils parmi les instruments activés pour une stratégie d'intervention, quelle qu'elle soit ?",Non, Non,True,True,True,True
+98,Le recours aux EMTN structurés a-t-il pour objectif de gérer l'exposition au risque de taux ou au risque d'actions ?,Non, Risque de taux,False,False,False,False
+99,Peut-on consulter le prospectus sur Internet d'après les informations du tableau ?,Oui, Oui,True,True,True,True
+100,Est-ce que la diffusion des dividendes passe par des canaux médiatiques ?,Non, Oui,False,False,False,False
+101,"Si le swing pricing dépasse 2 %, en est-on informé via les médias ?",Non, non,True,True,True,True
+102,"Peut-on accéder en ligne aux politiques clés, telles que celle sur les conflits d’intérêts ou la rémunération?",Oui, Oui,True,True,True,True
+103,La VL journalière des compartiments autres que monétaires est-elle visible sur le Web ?,Oui, Non,False,False,False,False
+104,Est-ce que le FCP a la possibilité de placer plus d’un cinquième de son actif dans des parts d’OPCVM ou de FIA ?,Oui, Non,False,False,False,False
+105,Peut-on intégrer des OPCVM régis par le droit français dans la composition du portefeuille ?,Oui, Oui,True,True,True,True
+106,L’usage de fonds professionnels spécialisés est-il permis dans ce cadre ?,Non, Non,True,True,True,True
+107,Les fonds nourriciers peuvent-ils faire partie des actifs éligibles ?,Non, Non.,True,True,True,True
+108,Est-il permis d’exposer la totalité de l’actif net via des instruments dérivés ?,Oui, Non,False,False,False,False
+109,Ce fonds est-il concerné par une facturation liée à ses résultats excédentaires ?,Non, Non,True,True,True,True
+110,Des commissions transactionnelles s’appliquent-elles aux mouvements d’actifs ?,Non, Non.,True,True,True,True
+111,La catégorie 1D entraîne-t-elle des coûts spécifiques lors d’ordres passés sur le marché primaire ?,Oui, Non,False,False,False,False
+112,Ce fonds Emerging Markets Sustainable Blended Debt Fund présente-t-il une exposition au risque associé à l’évaluation du crédit en Chine ?,Oui, Oui,True,True,True,True
+113,Le tableau fait-il apparaître une exposition du fonds European Equity Fund à un ou plusieurs des risques répertoriés ?,Oui, Non,False,False,False,False
+114,Ce compartiment Global Multi-Asset Income Fund Global Multi-Asset présente-t-il une vulnérabilité en lien aux positions à découvert ?,Oui, Non,False,False,False,False
+115,Ce compartiment Global Total Return Credit Fund recourt-il à l’approche par engagements pour mesurer son exposition globale ?,Non, Non,True,True,True,True
+116,Le fonds Emerging Markets Hard Currency Debt Fund affiche-t-il un levier plus élevé que son équivalent en dette corporate ?,Non, Oui,False,False,False,False
+117,Les deux compartiments dédiés aux marchés émergents (le compartiment Emerging Markets Hard Currency Debt Fund et Emerging Markets Corporate Debt Fund ) présentent-ils un effet de levier équivalent ?,Yes, Non,False,False,False,False
+118,V/F : Les frais de la commission de gestion de la part J sont nuls dans les deux véhicules d’investissement concernés.,Vrai, Vrai,True,True,True,True
+119,"V/F : Dans le fonds Asian High Yield Bond Fund, la part D supporte une commission de gestion plus élevée que la part C.",Faux, Vrai,False,False,False,False
+120,Oui/Non : La commission de gestion appliquées à la part D dans le fonds Asian High Yield Bond Fund est-elle inférieure à 1 % ?,Oui, Oui,True,True,True,True
