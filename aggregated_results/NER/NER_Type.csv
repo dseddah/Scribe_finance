@@ -1,0 +1,184 @@
+Type,Qwen/Qwen3-VL-8B-Instruct,mistralai/Pixtral-Large-Instruct-2411,google/gemma-3-12b-it,Qwen/Qwen3-VL-32B-Instruct,google/gemma-3-27b-it,Qwen/Qwen2.5-VL-72B-Instruct-AWQ,mistralai/Pixtral-12B-2409
+,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+"(détention de 3 ans, investissement de 10000 USD)",1.0,1.0,1.0,1.0,1.0,1.0,0.5
+-,0.7884615384615384,0.8269230769230769,0.8461538461538461,0.8846153846153846,0.8461538461538461,0.8461538461538461,0.8269230769230769
+Adresse,0.8888888888888888,0.8888888888888888,0.8888888888888888,0.8888888888888888,0.8888888888888888,0.8888888888888888,0.8888888888888888
+Adresse du centralisateur des ordres de souscription et de rachat,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Agence de notation financière,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Autorité d'agrément,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Autorité d'agrément de l'Initiateur du PRIIP,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Autorité d'agrément de l'OPCVM,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Autorité d'agrément de la société de gestion,0.875,0.875,0.875,0.875,0.875,0.875,0.875
+Autorité d'agrément de régulation de la société de gestion,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Autorité d'agrément des compartiments,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Autorité d'agrément du Fonds,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Autorité de contrôle du dépositaire et conservateur,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Autorité d’agrément,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Capitalisation ,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Centralisateur,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Code Bloomberg Indice,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Code juridique et financier,0.5,1.0,0.5,1.0,1.0,1.0,1.0
+Commissaire aux comptes,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Commission de performance,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Commission de performance en %,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Commission de rachat,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Commission de surperformance,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Commissions liées aux résultats,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Complement de prospectus,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Couverture,1.0,0.5,1.0,0.5,1.0,0.5,0.5
+Date d'agrément,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Date d'agrément du fonds,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Date d'autorisation de commercialisation en France du compartiment Global Corporate Bond Fund,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Date d'autorisation de commercialisation en France du compartiment US Government Mortgage Fund,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Date de clôture de l'exercice comptable,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Date de création du Fonds,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Date de création du KIID (Part I),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Date de création du PRIIP,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Date de création du fonds,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Date de dernière mise à jour,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Date de dernière mise à jour de l’addendum ?,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+Date de lancement,0.7142857142857143,0.5714285714285714,0.8571428571428571,0.7142857142857143,0.8571428571428571,0.7142857142857143,0.8571428571428571
+Date de lancement de la catégorie d'actions /de parts,1.0,0.5,1.0,1.0,1.0,1.0,1.0
+Date de lancement de la catégorie d'actions/de parts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Date de lancement du Fonds,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Date du Conseil,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Demandes de souscription et de rachat,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Devise d'investissement,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Devise de Performance,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Devise de la catégorie d’actions,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Devise de libellé,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Devise de performance,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Devise de référence,1.0,0.8333333333333334,1.0,1.0,1.0,1.0,1.0
+Devise des instruments financiers,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Devise du Fonds,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Devise du fonds,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Directive Européenne,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Directive européenne,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Directive sur les intruments financiers,0.5,1.0,1.0,1.0,1.0,1.0,1.0
+Durée d'investissement,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Durée de placement recommandée,0.875,0.875,0.875,0.875,0.875,0.875,0.875
+Durée de placement recommandée Part I,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Durée de vie du Fonds,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Durée de vie du Fonds (Part I),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Durée de vie du fonds,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Dénomination,0.9487179487179487,0.8461538461538461,0.8974358974358975,0.8717948717948718,0.8461538461538461,0.8974358974358975,0.9487179487179487
+Dépositaire,1.0,1.0,1.0,1.0,1.0,1.0,0.9375
+Dépositaire central de titres,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+ESG,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Entreprise fournissant des informations sur les placements,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+Exposition aux actions,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+FCP nourricier,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Forme juridique de l'OPCVM,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Forme juridique des parts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Forme juridique statutaire,0.8181818181818182,0.9090909090909091,0.9090909090909091,0.9090909090909091,0.8181818181818182,0.9090909090909091,0.7272727272727273
+Fourchette de sensibilité (Part I),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Frais courants,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Frais courants annuels de la Part P,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Frais d'entrée,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Frais d'entrée de la Part P,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Frais de gestion,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Frais de gestion Parts I,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Frais de gestion Parts R,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+Frais de gestion en %,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Frais de gestion en % ( Part I),0.0,1.0,1.0,0.0,0.0,1.0,0.0
+Frais de performance,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+Frais de sortie,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Frais de sortie ( Part I),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Frais de sortie après 1 an,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Frais de sortie en %,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Frais de sortie en dollars,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Frais de transaction,0.75,1.0,0.75,0.75,0.75,0.75,0.75
+Frais de transaction en %,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+Frais de transfert,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Frais d’entrée,0.8571428571428571,1.0,0.8571428571428571,0.8571428571428571,0.8571428571428571,0.8571428571428571,0.8571428571428571
+Frais d’entrée en %,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Frais d’entrée en % (Part I),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Frais d’exploitation immobilière prélevés par le fonds (Part P),1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Fréquence de rachat,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Gestion de trésorerie à court terme,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+Gestionnaire,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+ISIN Part I,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+ISIN Part M,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+ISRR,1.0,0.9090909090909091,1.0,1.0,1.0,1.0,1.0
+Identifiant utilisé en Allemagne pour simplifier la référence aux valeurs mobilières,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+Indice de performance,1.0,1.0,1.0,0.0,1.0,1.0,0.0
+Initiateur du PRIIP,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instruments de marché financier,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+Instruments dérivés,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+KIID,0.7142857142857143,0.2857142857142857,0.14285714285714285,1.0,0.7142857142857143,0.42857142857142855,0.2857142857142857
+Lieu d'agrément,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Lieu d'agrément de la société de gestion,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Lieu d'agrément du Fonds,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Lieu d'agrément du PRIIP,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Lieu d'investissement du Fonds,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Limitation réglementaire,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Législation Financière Internationale,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mail,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Mail de la société de gestion,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Montant minimum de souscription initiale - Part C,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Montant minimum de souscription initiale - Part I,0.0,1.0,0.0,1.0,1.0,1.0,1.0
+Montant minimum de souscription initiale - Part S,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Montant minimum de souscription ultérieure - Part C,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Montant minimum de souscription ultérieure - Part I,0.0,1.0,0.0,1.0,1.0,1.0,1.0
+Montant minimum de souscription ultérieure - Part S,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Moody’s,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+Méthode de calcul du risque,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Méthode de comptabilisation des intérêts,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Numéro d'agrément de la société de gestion,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Objectif d'investissement,0.7777777777777778,0.7777777777777778,0.7777777777777778,0.6666666666666666,0.7777777777777778,0.7777777777777778,0.6666666666666666
+Objectif de gestion lié à l’indice,1.0,1.0,0.6666666666666666,1.0,0.6666666666666666,0.6666666666666666,1.0
+Ordres de souscription,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Part C,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Part I,1.0,0.8571428571428571,1.0,1.0,1.0,1.0,1.0
+Part R,1.0,1.0,1.0,1.0,0.5,1.0,1.0
+Part S,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Performance de l'indice de référence Année 2,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Performance des parts du Fonds Année 4,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+"Performance moyenne en % (Rendement annuel moyen, 5 ans)",1.0,1.0,1.0,1.0,0.0,1.0,1.0
+Plateforme d’analyse financière,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Produits dérivés,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Période de détention recommandée,0.8333333333333334,1.0,0.8333333333333334,0.6666666666666666,1.0,0.6666666666666666,0.8333333333333334
+Restrictions Légales sur les Investissements par la SEC,1.0,0.0,1.0,1.0,1.0,0.0,1.0
+Restrictions légales sur les investissements par la SEC,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Risque ESG,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Risque de change,1.0,1.0,0.8,0.8,1.0,1.0,1.0
+Risque de concentration des investissements,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Risque de crédit,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Risque de liquidité,0.75,0.75,0.75,1.0,0.75,0.75,0.75
+Risque de marché,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Risque de perte en capital,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Risque de taux,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+Risque lié au recours à l’endettement,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+Risque lié aux devises,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Risque principal,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+Risque sur ses actifs,1.0,0.0,1.0,1.0,1.0,0.0,1.0
+Règles fiscales applicables au fonds,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+SFDR Article,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Scénario défavorable sur 1 an en euros,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+Scénario favorable sur 5 ans en euros,0.0,1.0,1.0,0.0,1.0,0.0,0.0
+Scénario modéré sur 5 ans en euros,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Site web,0.75,0.75,1.0,0.75,0.75,1.0,1.0
+Société cotée qui opère en tant qu'opérateur de marché boursier en Europe,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Société de Gestion,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Société de gestion,0.8888888888888888,0.7777777777777778,0.8888888888888888,0.8888888888888888,1.0,1.0,0.8888888888888888
+Société de gestion (Management company),0.75,0.75,0.75,0.75,0.75,0.75,0.75
+Souscription initiale minimale Part I,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Standard & Poor’s,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Statut réglementaire,0.5454545454545454,0.5454545454545454,0.2727272727272727,0.45454545454545453,0.36363636363636365,0.45454545454545453,0.45454545454545453
+Structure du fonds,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Style de gestion,1.0,1.0,0.9,1.0,1.0,1.0,0.9
+Techniques de couverture du risque de change,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Traitement des ordres de souscription et de rachat,0.0,1.0,0.0,0.0,1.0,1.0,1.0
+Type d’investisseur part F,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Types d'actifs,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Téléphone,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Valeur liquidative d’origine - Part C,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Valeur liquidative d’origine - Part I,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+Valeur liquidative d’origine - Part S,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Zone géographique d’investissement,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+instruments dérivés,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+intruments dérivés,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+"numéro de téléphone du Responsable des réclamations, Oliver Hermesdorf",1.0,1.0,1.0,1.0,1.0,1.0,1.0
+produits dérivés,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Échéance du fonds,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Average,0.8942115768463074,0.8782435129740519,0.8802395209580839,0.8982035928143712,0.8902195608782435,0.8902195608782435,0.8842315369261478

@@ -1,0 +1,52 @@
+Domain,Qwen/Qwen3-VL-8B-Instruct,Qwen/Qwen3-VL-32B-Instruct,google/gemma-3-12b-it,google/gemma-3-27b-it,Qwen/Qwen2.5-VL-72B-Instruct-AWQ,mistralai/Pixtral-12B-2409
+,0.0,0.0,0.0,0.0,0.0,0.0
+Acteur,0.75,0.5,0.75,0.5,0.75,0.75
+Affectation du résultat,1.0,1.0,1.0,1.0,1.0,1.0
+Calendrier de traitement des ordres de souscription et de rachat,1.0,1.0,1.0,1.0,1.0,1.0
+Canaux de diffusion informations,0.8,0.8,0.8,0.8,0.6,0.6
+Catégories d'actions,1.0,0.0,1.0,1.0,0.0,0.0
+Commission de gestion,0.6666666666666666,0.6666666666666666,1.0,1.0,0.6666666666666666,0.6666666666666666
+Commission de mouvement,0.5,0.5,0.0,0.0,1.0,1.0
+Commission de performance,0.75,1.0,0.75,1.0,1.0,0.5
+Commission de surperformance,1.0,1.0,0.0,0.0,1.0,1.0
+Commissions,0.5,0.5,0.5,0.5,0.5,0.5
+Conditions réglementaires,0.5,0.5,0.5,0.0,0.5,0.0
+Coût ponctuels,1.0,1.0,1.0,1.0,1.0,0.0
+Date de calcul VNI,1.0,1.0,1.0,1.0,1.0,1.0
+Date de paiment après opération,1.0,1.0,1.0,1.0,1.0,1.0
+Description d'un compartiment,0.9166666666666666,0.8333333333333334,0.5833333333333334,0.5833333333333334,0.8333333333333334,0.3333333333333333
+Devise,1.0,1.0,0.6666666666666666,0.6666666666666666,1.0,1.0
+Effet de levier,1.0,1.0,0.5,0.0,1.0,0.0
+Exposition,0.5,1.0,1.0,1.0,0.5,0.5
+Fonctionnement du fonds,1.0,0.6666666666666666,1.0,0.6666666666666666,1.0,0.3333333333333333
+Frais,0.6666666666666666,1.0,0.3333333333333333,1.0,1.0,0.6666666666666666
+Frais courants,0.8333333333333334,0.8333333333333334,0.6666666666666666,0.8333333333333334,0.8333333333333334,1.0
+Frais d'entrée,1.0,1.0,0.5,0.5,1.0,0.5
+Frais de gestion annuels,0.0,0.0,1.0,1.0,0.0,0.0
+Frais de performance,1.0,1.0,1.0,1.0,0.5,1.0
+Frais de performance / Commission de surperformance,1.0,1.0,1.0,1.0,1.0,1.0
+Frais de sortie,0.8,1.0,1.0,1.0,1.0,0.8
+Frais d’entrée et de sortie,0.6666666666666666,1.0,1.0,1.0,0.6666666666666666,0.6666666666666666
+Frais et commissions,0.0,0.0,1.0,0.0,1.0,0.0
+Frais indirects,0.0,1.0,0.0,0.0,0.5,0.5
+ISRR,1.0,0.0,0.0,0.0,0.0,1.0
+Instruments financier,0.0,0.0,0.0,0.0,0.0,0.0
+Instruments financiers,0.6,0.8,0.2,0.2,0.6,0.4
+Modalités de souscription,1.0,1.0,1.0,0.5,1.0,0.5
+Montant minimal pour une souscription initiale,0.6666666666666666,0.5,0.6666666666666666,1.0,0.5,0.3333333333333333
+Méthode de calcul de la commission de surperformance,0.0,0.0,0.0,0.0,0.0,0.0
+Méthode de calcul du risque global,0.0,1.0,0.0,1.0,1.0,1.0
+Politique de décote selon la catégorie d’actifs,0.5,0.5,1.0,0.5,0.5,0.5
+Principales Incidences Négatives,1.0,1.0,1.0,1.0,1.0,1.0
+Prise en charge des frais,0.0,1.0,0.0,0.0,0.0,0.0
+Période de référence,1.0,1.0,0.5,1.0,1.0,0.5
+Risque de change,0.0,0.0,0.0,0.0,0.0,1.0
+Risques,0.3333333333333333,0.6666666666666666,1.0,0.6666666666666666,0.6666666666666666,0.3333333333333333
+Règles d'investissement,0.4,0.2,0.2,0.2,0.8,0.6
+Référencement / Identification des parts,1.0,1.0,1.0,1.0,1.0,1.0
+Référencement / Identification des parts (Code AMF),1.0,1.0,1.0,1.0,1.0,1.0
+Souscription ultérieure,0.0,0.0,0.0,0.0,1.0,1.0
+Taux de provisionnement,0.0,0.0,0.0,0.0,0.0,0.0
+parts,1.0,1.0,1.0,0.0,1.0,0.0
+éléments de fonctionnement des ordres de souscription et de rachat,0.8,1.0,0.8,0.8,1.0,0.8
+Average,0.7,0.7416666666666667,0.6416666666666667,0.6333333333333333,0.75,0.5666666666666667

@@ -1,0 +1,199 @@
+id,file,question,answer,prediction,evaluation
+1,kiid_arbevel_FR0000422842-fr_chart1.pdf,Ce graphique compare t-il la performance annuelle du fonds PLUVALCA ALLCAPS – part A avec celle de son indice de référence : le SBF 120 Net TR ?,Oui," Oui, ce graphique compare la performance annuelle du fonds PLUVALCA ALLCAPS – part A avec celle de son indice de référence : le SBF 120 Net TR.",True
+2,kiid_arbevel_FR0000422842-fr_chart1.pdf,Quelle est la période couverte par ce graphique ?,"Le graphique couvre la période de 2012 à 2021, soit 10 années complètes de performances.","
+Le graphique couvre la période de 2012 à 2021.",True
+3,kiid_arbevel_FR0000422842-fr_chart1.pdf,Y a-t-il eu des années où la performance du fonds a été négative ?,Oui," Oui, en 2018.",True
+4,kiid_arbevel_FR0000422842-fr_chart1.pdf,Quel est le nom du fonds présenté dans ce graphique ?,PLUVALCA ALLCAPS,"
+PLUVALCA ALLOCATIONS ACTION A",False
+5,kiid_arbevel_FR0000422842-fr_chart1.pdf,Quelle est la date de création du compartiment (le fonds) ?,15 septembre 2017,"
+15/09/2017",True
+6,kiid_arbevel_FR0000422842-fr_chart1.pdf,Quelle est la date de création de la part A (ACTION A),15 septembre 2017, 15/09/2017,True
+7,kiid_arbevel_FR0000422842-fr_chart1.pdf,Le nom du Fonds parapluie est-il mentionné ?,Non, Oui,False
+8,kiid_arbevel_FR0000422842-fr_chart1.pdf,En quelle devise le fonds est-il libellé ?,Euros,"
+Euro",True
+9,kiid_arbevel_FR0000422842-fr_chart1.pdf,Quel est l’indicateur de référence utilisé par le fonds ?,SBF 120 NET TR,"
+L'indicateur de référence utilisé par le fonds est le S&P 120 NET TR (Euro).",False
+10,kiid_arbevel_FR0000422842-fr_chart1.pdf,Quelle a été la performance du fonds PLUVALCA ALLCAPS – Action A en 2021 ?,"20,5 %
+
+","
+La performance du fonds PLUVALCA ALLCAPS – Action A en 2021 a été de 29,5%.",False
+11,kiid_antenor_FR0007078688-fr_chart1.pdf,Quelle est la meilleure performance annuelle réalisée par le fonds Antenor ?,2013,"
+La meilleure performance annuelle réalisée par le fonds Antenor est de 6,86% en 2012.",False
+12,kiid_antenor_FR0007078688-fr_chart1.pdf,Quelle est la pire performance annuelle enregistrée ?,2008,"
+-15,43%",False
+13,kiid_antenor_FR0007078688-fr_chart1.pdf,Combien d'années positives le fonds a-t-il eu ?,7,"
+7",True
+14,kiid_antenor_FR0007078688-fr_chart1.pdf,Combien d'années négatives le fonds a-t-il eu ?,4, 4,True
+15,kiid_antenor_FR0007078688-fr_chart1.pdf,Ces performances incluent-elles les frais ?,Oui,"
+oui",True
+16,kiid_allianz_FR0000017329-fr_chart1.pdf,Quelle a été la performance du fonds en 2018 ?,"-12,9%", 12%,False
+17,kiid_allianz_FR0000017329-fr_chart1.pdf,Est-ce que 2018 a été la pire année de la période représentée ?,Oui, Oui,True
+18,kiid_allianz_FR0000017329-fr_chart1.pdf,Quelle a été la performance de l'OPCVM en 2013 ?,"19,8%","
+La performance de l'OPCVM en 2013 a été de 18,7 %.",False
+19,kiid_allianz_FR0000017329-fr_chart1.pdf,Quelle est la devise de calcul de la performance ?,Euro,"
+EUR",True
+20,prospectus_mandarine_fr0012144590-fr_chart1.pdf,Pendant combien de périodes la cristallisation a-t-elle eu lieu sur l’ensemble des périodes représentées ?,2,"
+La cristallisation a eu lieu pendant 2 périodes sur l’ensemble des périodes représentées.",True
+21,prospectus_mandarine_fr0012144590-fr_chart1.pdf,Quelle est la première période où une cristallisation est observée ?,La cristallisation est observée à la fin de la période 0–1.,"
+Période 1",True
+22,prospectus_mandarine_fr0012144590-fr_chart1.pdf,Combien de périodes consécutives sans cristallisation sont visibles sur le graphique ?,"Trois périodes consécutives (1–2, 2–3, 3–4) sans cristallisation.","
+Trois périodes consécutives sans cristallisation sont visibles sur le graphique.",True
+23,prospectus_mandarine_fr0012144590-fr_chart1.pdf,Y a-t-il eu une cristallisation l’année 6 ?,Oui, Oui,True
+24,kiid_alienor_FR0010526061-fr_chart1.pdf,Quels types d'actifs composent le nouvel indice de référence depuis 2021 ?,15% CAC Total Return ; 10% MSCI World Net Total Return ; 35% Euro MTS 5-7 ans ; 40% ESTR Capitalisé,"
+Le nouvel indice de référence depuis 2021 est composé de 40% d'actions de la zone euro, 40% d'obligations de la zone euro, 10% d'obligations internationales, et 10",False
+25,kiid_alienor_FR0010526061-fr_chart1.pdf,Depuis quand l’OPCVM existe-t-il ?,2007-09-10T00:00:00,01/01/2005,False
+26,kiid_alienor_FR0010526061-fr_chart1.pdf,Les frais d'entrée et de sortie sont-ils inclus dans le calcul des performances passées ?,Non,"
+Oui, les frais d'entrée et de sortie sont inclus dans le calcul des performances passées.",False
+27,kiid_alienor_FR0010526061-fr_chart1.pdf,Quelle a été la pire année pour l’OPCVM ?,2011,"
+2018",False
+28,kiid_alienor_FR0010526061-fr_chart1.pdf,Combien de fois la performance de l’OPCVM a-t-elle dépassé les 4% ?,3," 3 fois (en 2012, 2014 et 2019).",True
+29,prospectus_amundi_fr0010599373-fr_chart1.pdf,Quelle a été la meilleure année pour le fonds ?,2019,"
+2012",False
+30,prospectus_amundi_fr0010599373-fr_chart1.pdf,Qu’indique la lettre B sur le graphique ?,Le fonds devient nourricier,"
+Les performances prévisionnelles présentées dans ce diagramme sont basées sur les données disponibles au 31 janvier 2019 et ne prennent pas en compte les évolutions ultérieures. Les performances prévisionnelles sont plus incertaines et plus sujet",False
+31,prospectus_amundi_fr0010599373-fr_chart1.pdf,Quelle a été la performance annuelle de l’indice de référence en 2016 ?,"4,4 %","
+La performance annuelle de l’indice de référence en 2016 a été de -1,2%.",False
+32,prospectus_amundi_fr0010599373-fr_chart1.pdf,L’OPCVM avait-il le statut de fonds nourricier en 2014 ?,Non,"
+Oui",False
+33,prospectus_amundi_fr0010599373-fr_chart1.pdf,Quel est le nom complet du produit financier présenté dans ce contenu ?,Amundi Actions Euro - Part P,"
+Le nom complet du produit financier présenté dans ce contenu est ""Fonds de réserve pour les retraites (FRR)"".",False
+34,prospectus_amundi_fr0010599373-fr_chart1.pdf,Quelle a été la performance du fonds Amundi Actions Euro - P en 2020 ?,"-1,8 %","
+La performance du fonds Amundi Actions Euro - P en 2020 a été de -1,4 %.",False
+35,prospectus_amundi_fr0010599373-fr_chart2.pdf,"Dans l'exemple du graphique, la part sous-performe-t-elle l’actif de référence pendant toute la période de 5 ans ?",Oui," Oui, la part sous-performe l’actif de référence pendant toute la période de 5 ans, car l'écart relatif est négatif à chaque année.",True
+36,prospectus_amundi_fr0010599373-fr_chart2.pdf,"Dans l'exemple du graphique, une commission de surperformance est-elle dûe la cinquième année ?",Non, Oui,False
+37,prospectus_amundi_fr0010599373-fr_chart2.pdf,En quelle année l'écart cumulé est-il le plus important ?,Année 1,"
+Année 5",False
+38,prospectus_amundi_fr0010599373-fr_chart2.pdf,Que représente la ligne bleue claire ?,Actif net de la part,"
+Actif net de la part",True
+39,prospectus_amundi_fr0010599373-fr_chart3.pdf,"Dans le tableau intitulé ""Cas d'une sous performance compensée"", quel est l'actif net de la part en Année 1?",-2,"
+1",False
+40,prospectus_amundi_fr0010599373-fr_chart3.pdf,La part est-elle en sous-performance au départ dans le graphique?,Oui,"
+Oui",True
+41,prospectus_amundi_fr0010599373-fr_chart3.pdf,"Dans le graphique, le fait que la courbe bleue claire passe au dessus de la bleue foncée signifie t-il que la part a dépassé l'actif de référence ?",Oui,"
+Oui",True
+42,kiid_axiom_LU1876460061-fr_chart1.pdf,En quelle année le fonds a-t-il connu sa meilleure performance ?,2019,"
+2019",True
+43,kiid_axiom_LU1876460061-fr_chart1.pdf,Quelle est la seule année de perte enregistrée sur la période ?,2018,"
+2018",True
+44,kiid_axiom_LU1876460061-fr_chart1.pdf,Pourquoi les performances affichées avant 2019 ne reflètent-elles pas totalement la réalité du fonds actuel ?,A : La performance passée est basée sur la performance passée du fonds français absorbé créé en 2016.,"
+Les performances affichées avant 2019 ne reflètent pas totalement la réalité du fonds actuel car elles sont basées sur la performance du fonds AXIOM OPTIMAL FIXE, qui a été absorbé par le fonds en 20",False
+45,kiid_axiom_LU1876460061-fr_chart1.pdf,Quel changement majeur a eu lieu en 2021 concernant l’indice de référence ?,"À compter du 02.12.2021, l’indice de référence est l’€STR capitalisé +2 %","
+En 2021, l'indice de référence a changé pour l'ESTR capitalisé +2 %.",True
+46,kiid_axiom_LU1876460061-fr_chart1.pdf,Les performances affichées tiennent-elles compte des frais du fonds ?,Oui,"
+Les performances affichées dans le diagramme à barres ne constituent pas une indication fiable des performances futures et sont calculées après déduction de tous les frais prélevés par le Fonds.",True
+47,kiid_bnp_LU1291109293-fr_chart1.pdf,Le fonds a-t-il mieux performé que son indice de référence en 2019 ?,Non, Oui,False
+48,kiid_bnp_LU1291109293-fr_chart1.pdf,"En 2021, le fonds a-t-il surperformé l’indice ?",Non, Oui,False
+49,kiid_bnp_LU1291109293-fr_chart1.pdf,"Durant la période 2012 à 2021, quelle année le fonds a-t-il enregistré son rendement le plus élevé, indépendamment de l’indice de référence ?",2019,"
+L'année 2019 est celle où le fonds a enregistré son rendement le plus élevé, avec une performance d'environ 38%.",True
+50,kiid_bnp_LU1291109293-fr_chart1.pdf,Quel est le nom de l'indice de référence utilisé à partir de février 2016 ?,NMX 30 Infrastructure Global (TR),"
+Le MSCI World.",False
+51,kiid_bnp_LU1291109293-fr_chart1.pdf,Quel est le nom du compartiment effectivement réprésenté entre février 2008 et février 2016 dans le graphique?,NMX®30 Infrastructure Global THEAM Easy UCITS ETF,"
+Le compartiment effectivement représenté entre février 2008 et février 2016 dans le graphique est ""ECP GLOBAL ESG INFRASTRUCTURE LOTS ETF"".",False
+52,kiid_bnp_LU1291109293-fr_chart1.pdf,Quelle était la dénomination du fonds entre février 2016 et avril 2021 ?,NMX 30 Infrastructure Global,"
+ECP GLOBAL ESG INFRASTRUCTURE LOITS ETF",False
+53,kiid_bnp_LU1291109293-fr_chart1.pdf,"D’après la légende, à quel fonds correspondent les barres bleues du graphique des performances passées ?",ECPI GLOBAL ESG INFRASTRUCTURE,"
+ECP GLOBAL ESG INFRASTRUCTURE LOITS ETF",False
+54,kiid_bnp_LU1291109293-fr_chart1.pdf,Quelle est la phrase dans le document qui explique pourquoi les performances du “NMX®30 Infrastructure Global THEAM Easy UCITS ETF” sont utilisées pour illustrer celles du fonds actuellement commercialisé sous le nom “BNP PARIBAS EASY NMX® 30 INFRASTRUCTURE GLOBAL” ?,"02/2008-02/2016: À la suite d’une opération sur titres le 05/02/2016, les performances indiquées correspondent à celles du compartiment «NMX®30 Infrastructure Global THEAM Easy UCITS ETF». Le compartiment «BNP PARIBAS EASY NMX® 30 INFRASTRUCTURE GLOBAL» est géré conformément à une stratégie d’investissement, des processus et des frais absolument identiques.","
+Au cours de la période, l'indice de référence était le MX30 Infrastructure Global.",False
+55,kiid_wiseam_FR0010291187-fr_chart1.pdf,Quelle a été la meilleure année pour le fonds Apprecio E entre 2011 et 2020 ?,2012,"
+La meilleure année pour le fonds Apprecio E entre 2011 et 2020 a été 2019 avec une performance de 11,7%.",False
+56,kiid_wiseam_FR0010291187-fr_chart1.pdf,En quelle année le fonds a-t-il enregistré sa pire performance ?,2018, 2018,True
+57,kiid_wiseam_FR0010291187-fr_chart1.pdf,Le fonds Apprecio E a-t-il surperformé l’indicateur de référence en 2017 ?,Oui, Non,False
+58,kiid_wiseam_FR0010291187-fr_chart1.pdf,"En 2019, le fonds a-t-il enregistré une performance supérieure à 5 % ?",Oui, Oui,True
+59,kiid_wiseam_FR0010291187-fr_chart1.pdf,Quelle est la seule année où la performance du fonds et celle de l’indice sont quasiment identiques ?,2017, 2014,False
+60,kiid_wiseam_FR0010291187-fr_chart1.pdf,Comment est calculée la performance du fonds Apprecio E ?,"coupons nets réinvestis, et nette de frais de gestion directs et indirects et hors frais d’entrée et de sortie"," La performance du fonds Apprecio E est calculée par rapport à l'indicateur de référence qui est composé pour l'Eona et FEMTX Global, dividendes réinvestis pour l'indice MSCI WORLD.",False
+61,kiid_wiseam_FR0010291187-fr_chart1.pdf,Quand a été créé le fonds Apprecio E ?,28/04/2006,"
+Le fonds Apprecio E a été créé le 30 juin 2012.",False
+62,kiid_wiseam_FR0010291187-fr_chart1.pdf,Quel changement au niveau du dépositaire est survenu durant la période présentée ?,changement de société de gestion de VP FINANCE GESTION à WiseAM et de dépositaire de Banque Leonardo à Crédit Industriel et Commercial (CIC),"
+Le dépositaire a changé de la Banque Leonardo à Crédit Industriel et Commercial (CIC).",True
+63,kiid_wiseam_FR0010291187-fr_chart1.pdf,Quel changement au niveau de la société de gestion est survenu durant la période présentée ?,changement de société de gestion de VP FINANCE GESTION à WiseAM,"
+Le changement de société de gestion de VP FINANCE GESTION à Wiselux et de dépositaire de Banque Leumi à Crédit Industriel et Commercial (CIC).",False
+64,kiid_varenne_FR0010392225-fr_chart1.pdf,En quelle année la part A-EUR du fonds a-t-elle enregistré sa meilleure performance annuelle ?,2013,"
+2012",False
+65,kiid_varenne_FR0010392225-fr_chart1.pdf,Quelle a été la pire performance du fonds entre 2011 et 2020 ?,2018,"
+La pire performance du fonds entre 2011 et 2020 a été en 2018 avec -2,18%.",True
+66,kiid_varenne_FR0010392225-fr_chart1.pdf,Quelle est la performance du fonds en 2020 ?,"22,72%"," 23,27%",False
+67,kiid_varenne_FR0010392225-fr_chart1.pdf,Y a-t-il une année où le fonds a enregistré une performance proche de zéro ?,Oui," Oui, en 2016.",True
+68,kiid_varenne_FR0010392225-fr_chart1.pdf,Comment la performance du fonds est-elle calculée ?,coupons nets réinvestis et hors frais d’entrée, La performance du fonds est calculée coupons nets réinvestis et hors frais d'entrée.,True
+69,kiid_varenne_FR0010392225-fr_chart1.pdf,Quelle est la devise utilisée pour calculer les performances ?,euro,"
+euro",True
+70,kiid_varenne_FR0010392225-fr_chart1.pdf,Depuis quand la part A-EUR du fonds existe-t-elle ?,1er décembre 2006, 1er décembre 2006,True
+71,kiid_varenne_FR0010392225-fr_chart1.pdf,Le fonds est-il comparé à un indice de référence dans ce document ?,Non, Oui,False
+72,kiid_varenne_FR0010392225-fr_chart1.pdf,"Quel est le nom complet du fonds figurant dans la rubrique “Performances passées”, et à quelle classe de part correspond-il ?",Varenne Selection part A-EU," Le nom complet du fonds est ""Varenne Sélection"" et il correspond à la classe de part A-EUR.",True
+73,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_chart1.pdf,À combien s’élève le taux de commission de surperformance dans cet exemple ?,20 %,"
+Le taux de commission de surperformance dans cet exemple s'élève à 15%.",False
+74,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_chart1.pdf,Le mécanisme de clawback a-t-il empêché la facturation d'une commission en année 9 ?,Oui, Oui,True
+75,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_chart1.pdf,Y a t-il eu un commission de surperformance à payer en année 3 ?,Non, Oui,False
+76,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_chart1.pdf,"En année 6, le fonds a-t-il récupéré toute sa sous-performance ?",Non, Oui,False
+77,prospectus_Schelcher Prince-fr_chart1.pdf,En quelle année une sous-performance de -10 % est enregistrée ?,Y8,"
+2017",False
+78,prospectus_Schelcher Prince-fr_chart1.pdf,En quelle année la performance du fonds est-elle tombée à -5 % ?,Y3, 2017,False
+79,prospectus_Schelcher Prince-fr_chart1.pdf,Quelle est la performance du fonds en année 1 ?,5 %,"
+La performance du fonds en année 1 est de 10,7%.",False
+80,prospectus_Schelcher Prince-fr_chart1.pdf,Une  commission de performance est-elle dûe la sixième année ?,Oui, Oui,True
+81,prospectus_candriam-Equities-L-Biotechnology-Class-C-EUR-Cap-2023-fr_chart1.pdf,En quelle(s) année(s) observe-t-on un prélèvement de frais de surperformance ?,Année 2 ; Année 5,"
+Année 2 et Année 5",True
+82,prospectus_candriam-Equities-L-Biotechnology-Class-C-EUR-Cap-2023-fr_chart1.pdf,"En année 3, y a-t-il une commission de surperformance prélevée ?",Non, Oui,False
+83,prospectus_candriam-Equities-L-Biotechnology-Class-C-EUR-Cap-2023-fr_chart1.pdf,"En année 4, la performance dépasse-t-elle le Hurdle ?",Oui,"
+Oui",True
+84,prospectus_candriam-Equities-L-Biotechnology-Class-C-EUR-Cap-2023-fr_chart1.pdf,"À partir de l'année 3, à quel moment la VNI nette repasse t-elle au-dessus du HWM ?",Année 5,"
+À l'année 5.",True
+85,prospectus_candriam-Equities-L-Biotechnology-Class-C-EUR-Cap-2023-fr_chart1.pdf,Que représente la courbe rouge ?,VNI (après frais de surperformance),"
+VNE avant flux de surperformance",False
+86,prospectus_candriam-Equities-L-Biotechnology-Class-C-EUR-Cap-2023-fr_chart1.pdf,Quel modèle de commission de surperformance est illustré dans ce graphique ?,modèle avec HWM 5Y, Le modèle de commission de surperformance illustré dans ce graphique est le modèle avec HWM 5Y.,True
+87,prospectus_candriam-Equities-L-Biotechnology-Class-C-EUR-Cap-2023-fr_chart1.pdf,La VNI nette à la fin de l’année 5 est-elle de plus de 105 ?,Oui, Oui,True
+88,kiid_fourpoints_FR0000979221-fr_chart1.pdf,En quelle année le fonds a-t-il réalisé sa meilleure performance ?,2016,"
+2016",True
+89,kiid_fourpoints_FR0000979221-fr_chart1.pdf,Combien d’années le fonds a-t-il surperformé l’indice MSCI World ?,4, 4,True
+90,kiid_fourpoints_FR0000979221-fr_chart1.pdf,Quelle a été la performance du fonds en 2020 ?,"3,4%"," 14,1%",False
+91,kiid_fourpoints_FR0000979221-fr_chart1.pdf,Quelle année montre le plus grand écart de performance entre le fonds et l’indice ?,2019, 2016,False
+92,kiid_fourpoints_FR0000979221-fr_chart1.pdf,Quelles sont les années pendant lesquelles le fonds a eu une performance négative ?,2011 ; 2014 ; 2015 ; 2018," 2011, 2014, 2016, 2018.",False
+93,kiid_fourpoints_FR0000979221-fr_chart1.pdf,En quelle année le fonds a-t-il le plus sous-performé l’indice ?,2019,"
+2014",False
+94,kiid_fourpoints_FR0000979221-fr_chart1.pdf,En quelle année le fonds a le plus surperformé l’indice ?,2016,"
+2012",False
+95,kiid_fourpoints_FR0000979221-fr_chart1.pdf,En quelle année l’indice a le plus surperformé le fonds ?,2019,"
+2015",False
+96,kiid_fourpoints_FR0000979221-fr_chart1.pdf,Combien de fois le fonds a-t-il eu une performance supérieure à 20 % ?,2," 3 fois (2012, 2013, 2015).",False
+97,kiid_fourpoints_FR0000979221-fr_chart1.pdf,Combien d’années le fonds a-t-il affiché une performance positive ?,7, 6,False
+98,kiid_fourpoints_FR0000979221-fr_chart1.pdf,En quelle année la différence de performance entre le fonds et l’indice est la plus faible en % ?,2017,"
+2014",False
+99,kiid_fourpoints_FR0000979221-fr_chart1.pdf,Combien de fois le fonds a-t-il affiché une performance inférieure à -10 % ?,3, 2 fois (2014 et 2018).,False
+100,prospectus-bny-BNY-Mellon-Global-Funds-PLC-BNY-Mellon_Global-Real-Return-Fund-EUR-A-Acc-2022-fr_chart1.pdf,Quelle est la part des investissements durables dans le total des investissements ?,"80,00 %","
+La part des investissements durables dans le total des investissements est de 98 %.",False
+101,prospectus-bny-BNY-Mellon-Global-Funds-PLC-BNY-Mellon_Global-Real-Return-Fund-EUR-A-Acc-2022-fr_chart1.pdf,A combien s'élève la part des investissements non durables ?,"20,00 %", 42 M€,False
+102,prospectus-bny-BNY-Mellon-Global-Funds-PLC-BNY-Mellon_Global-Real-Return-Fund-EUR-A-Acc-2022-fr_chart1.pdf,"Parmi les investissements durables, quelle part est allouée aux critères environnementaux ?","0,00 %", 68%,False
+103,prospectus-bny-BNY-Mellon-Global-Funds-PLC-BNY-Mellon_Global-Real-Return-Fund-EUR-A-Acc-2022-fr_chart1.pdf,Les investissements durables incluent-ils une composante sociale ?,Non, Oui,False
+104,prospectus-bny-BNY-Mellon-Global-Funds-PLC-BNY-Mellon_Global-Real-Return-Fund-EUR-A-Acc-2022-fr_chart1.pdf,Peut-on considérer que les investissements ont un objectif environnemental ou social ?,Non," Non, les investissements n'ont ni objectif environnemental (0,00%) ni objectif social (0,00%).",True
+105,prospectus-bny-BNY-Mellon-Global-Funds-PLC-BNY-Mellon_Global-Real-Return-Fund-EUR-A-Acc-2022-fr_chart2.pdf,"Quel est le niveau d’alignement des investissements avec la taxonomie européenne, obligations souveraines incluses ?","0,00 %"," Le niveau d’alignement des investissements avec la taxonomie européenne, obligations souveraines incluses, est de 0,00%.",True
+106,prospectus-bny-BNY-Mellon-Global-Funds-PLC-BNY-Mellon_Global-Real-Return-Fund-EUR-A-Acc-2022-fr_chart2.pdf,L’exclusion des obligations souveraines modifie-t-elle le niveau d’alignement avec la taxonomie ?,Non," Non, l'exclusion des obligations souveraines ne modifie pas le niveau d'alignement avec la taxonomie, car dans les deux graphiques, le niveau d'alignement est de 0,00%.",True
+107,prospectus-bny-BNY-Mellon-Global-Funds-PLC-BNY-Mellon_Global-Real-Return-Fund-EUR-A-Acc-2022-fr_chart2.pdf,"Quelle est la part des investissements classés comme ""autres investissements"" dans les deux graphiques en camembert ?","100,00 %","
+Dans les deux graphiques en camembert, la part des investissements classés comme ""autres investissements"" est de 100,00%.",True
+108,prospectus-bny-BNY-Mellon-Global-Funds-PLC-BNY-Mellon_Global-Real-Return-Fund-EUR-A-Acc-2022-fr_chart2.pdf,Vrai ou Faux ? Les investissements du portefeuille sont alignés à 50 % sur la taxonomie européenne.,Faux, Faux,True
+109,prospectus-bny-BNY-Mellon-Global-Funds-PLC-BNY-Mellon_Global-Real-Return-Fund-EUR-A-Acc-2022-fr_chart2.pdf,"Vrai ou Faux ? Le portefeuille présente un alignement de 0,00 % avec la taxonomie, obligations souveraines incluses.",Vrai, Vrai,True
+110,prospectus-bny-BNY-Mellon-Global-Funds-PLC-BNY-Mellon_Global-Real-Return-Fund-EUR-A-Acc-2022-fr_chart2.pdf,La part d’investissements alignés sur la taxonomie augmente lorsque l’on exclut les obligations souveraines. Vrai ou Faux ?,Faux, Vrai,False
+111,prospectus-bny-BNY-Mellon-Global-Funds-PLC-BNY-Mellon_Global-Real-Return-Fund-EUR-A-Acc-2022-fr_chart2.pdf,"Tous les investissements sont classés comme ""autres investissements"" dans les deux graphiques. Vrai ou Faux ?",Vrai, Vrai,True
+112,prospectus-bny-BNY-Mellon-Global-Funds-PLC-BNY-Mellon_Global-Real-Return-Fund-EUR-A-Acc-2022-fr_chart2.pdf,Vrai ou Faux ? Le graphique permet de conclure que les critères environnementaux ne sont pas respectés par le portefeuille. ,Vrai, Vrai,True
+113,kiis_auris_FR0013161973-fr_chart1.pdf,Quelle a été la performance du fonds en 2018 ?,"-10,63 %"," 14,4%",False
+114,kiis_auris_FR0013161973-fr_chart1.pdf,En quelle année le fonds a-t-il eu une performance négative ?,2018, 2018,True
+115,kiis_auris_FR0013161973-fr_chart1.pdf,En quelle année le fonds a t-il eu sa meilleure performance ?,2019, 2019,True
+116,kiis_auris_FR0013161973-fr_chart1.pdf,Vrai ou Faux ? La performance du fonds a toujours été positive entre 2017 et 2021.,Faux, Faux,True
+117,kiis_auris_FR0013161973-fr_chart1.pdf,Y a t-il une performance inscrite pour l'année 2021 dans le graphique ?,Non,"
+Non",True
+118,kiis_auris_FR0013161973-fr_chart1.pdf,Quel est le nom du produit dont on étudie les performances passées ?,Opéra Première Symphonie C EUR,"
+Opéra Première Symphonie C EUR",True
+119,kiid_cholet_FR0010249672-fr_chart1.pdf,Quelle a été la performance du fonds CD France Expertise en 2018 ?,"-2,0 %","
+La performance du fonds CD France Expertise en 2018 a été de -10,2%.",False
+120,kiid_cholet_FR0010249672-fr_chart1.pdf,"En 2020, le fonds a-t-il mieux résisté que son indice de référence ?",Oui," Oui, en 2020, le fonds a mieux résisté que son indice de référence, avec une performance de -7,5% contre -15,8% pour le CAC 40 NR.",True
+121,kiid_cholet_FR0010249672-fr_chart1.pdf,Combien d’années le fonds a-t-il enregistré une performance supérieure à celle de son indice ?,6, 4,False
+122,kiid_cholet_FR0010249672-fr_chart1.pdf,Quelles sont les années pendant lesquelles le fonds a eu une performance supérieure à celle de son indice ?,2011 ; 2014 ; 2015 ; 2017 ; 2018 ; 2020,"
+Les années pendant lesquelles le fonds a eu une performance supérieure à celle de son indice sont 2011, 2012, 2013, 2014, 2015, 2016, 201",False
+123,kiid_cholet_FR0010249672-fr_chart1.pdf,Comment les performances sont-elles calculées pour le fonds,Les performances de CD France Expertise présentées ici sont calculées revenus nets réinvestis et après déduction de tous les frais du fonds,"
+Les performances de l'indicateur de référence sont calculées dividendes réinvestis.",False
+124,kiid_cholet_FR0010249672-fr_chart1.pdf,Comment les performances sont-elles calculées pour l’indice ?,Les performances de l'indicateur de référence sont calculées dividendes réinvestis,"
+Les performances de l’indicateur de référence sont calculées dividendes réinvestis.",True
+125,kiid_AGA-CAPITAL-PLUS-VISE_2018-fr_chart1.pdf,Quelle a été la performance du fonds FCP AGA Capital Plus en 2021 ?,"14,03 %","
+La performance du fonds FCP AGA Capital Plus en 2021 a été de 14,03%.",True
+126,kiid_AGA-CAPITAL-PLUS-VISE_2018-fr_chart1.pdf,Quelle est l’année où le fonds a enregistré sa meilleure performance parmi celles affichées ?,2021, 2021,True
+127,kiid_dpam_BE0058182792-fr_chart1.pdf,Quelle a été la performances de l'indice MSCI EMU Net Return  en 2020 ?,-0.01," 2020 a vu une performance de -7,0% pour l'indice MSCI EMU Net Return.",False
+128,kiid_vivienne_FR0011540558-fr_chart1.pdf,Quelle a été la performance la plus élevée de l’OPCVM sur la période 2015–2021 ?,"12,56 %"," La performance la plus élevée de l’OPCVM sur la période 2015–2021 a été de 12,4% en 2017.",False

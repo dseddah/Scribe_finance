@@ -1,0 +1,535 @@
+id,file,question,answer,prediction,evaluation
+1,prospectus_amundi_FR0010655761-fr_Table1.pdf,Quel est le code ISIN mentionné dans le tableau ?,FR0010655761," 
+FR0013555761",False
+2,prospectus_amundi_FR0010655761-fr_Table1.pdf,Quelle est l’affectation des sommes distribuables ?,Capitalisation et/ou distribution par décision de la Société de Gestion.,"
+Capitalisation et/ou distribution par décision de la prochaine Assemblée Générale",False
+3,prospectus_amundi_FR0010655761-fr_Table1.pdf,En quelle devise le fonds est-il libellé ?,euro,"
+euro",True
+4,prospectus_amundi_FR0010655761-fr_Table1.pdf,À quelle fréquence est calculée la valeur liquidative ?,Quotidienne, Quotidienne,True
+5,prospectus_amundi_FR0010655761-fr_Table1.pdf,Quelle est la valeur liquidative d’origine ?,"103,49 euros"," 103,49 euros",True
+6,prospectus_amundi_FR0010655761-fr_Table1.pdf,Quelle est la souscription initiale minimale sur le marché primaire ?,6800 parts,"
+6000 parts",False
+7,prospectus_amundi_FR0010655761-fr_Table1.pdf,Quelle est la souscription ultérieure minimale sur le marché primaire ?,1 part, 1 part(s),True
+8,prospectus_amundi_FR0010655761-fr_Table1.pdf,Quelle est la souscription initiale minimale sur le marché secondaire ?,1 part,"
+1 part(s)",True
+9,prospectus_amundi_FR0010655761-fr_Table1.pdf,Quelle est la souscription ultérieure minimale sur le marché secondaire ?,1 part, 1 part(s),True
+10,prospectus_amundi_FR0010655761-fr_Table1.pdf,Quels sont les types de souscripteurs concernés ?,Tous souscripteurs,"
+Tout souscripteur",True
+11,prospectus_amundi_FR0010655761-fr_Table1.pdf,La souscription initiale minimale sur le marché primaire est-elle de 6800 parts ?,Oui, Oui,True
+12,prospectus_amundi_FR0010655761-fr_Table1.pdf,Le produit est-il ouvert à tous les souscripteurs ?,Oui, Non,False
+13,prospectus_amundi_FR0010655761-fr_Table1.pdf,Quelle est la fréquence de calcul de la valeur liquidative ?,Quotidienne, Quotidienne,True
+14,prospectus_amundi_FR0010655761-fr_Table1.pdf,La valeur liquidative d’origine est-elle supérieure à 100 € ?,Oui, Oui,True
+15,prospectus_amundi_FR0010655761-fr_Table1.pdf,"La valeur liquidative d’origine est supérieure à 100 €, vrai ou faux ?",Oui, Vrai,True
+16,prospectus_amundi_FR0010655761-fr_Table1.pdf,L’affectation des sommes distribuables est-elle uniquement en capitalisation ?,Non, Oui,False
+17,prospectus_amundi_FR0010655761-fr_Table2.pdf,À quelle heure limite les ordres de souscription doivent-ils être centralisés ?,avant 17h00,"
+17h00",False
+18,prospectus_amundi_FR0010655761-fr_Table2.pdf,À quelle heure limite les ordres de rachat doivent-ils être centralisés ?,avant 17h00,"
+17h00",False
+19,prospectus_amundi_FR0010655761-fr_Table2.pdf,Quand l’exécution des ordres a-t-elle lieu ?,en J, J+1 ouvrable,False
+20,prospectus_amundi_FR0010655761-fr_Table2.pdf,Quand la valeur liquidative (VL) est-elle publiée ?,J+1 ouvré,"
+J+1 ouvrés",True
+21,prospectus_amundi_FR0010655761-fr_Table2.pdf,À quelle date les souscriptions sont-elles réglées ?,J+2 ouvrés, J+2 ouvrés,True
+22,prospectus_amundi_FR0010655761-fr_Table2.pdf,À quelle date les rachats sont-ils réglés ?,J+2 ouvrés, J+2 ouvrés,True
+23,prospectus_amundi_FR0010655761-fr_Table3.pdf,Quel est le taux de la commission de souscription non acquise au fonds sur le marché concerné ?,3 % par demande de souscription, 3% par demande de souscription,True
+24,prospectus_amundi_FR0010655761-fr_Table3.pdf,Quel est le taux de la commission de rachat non acquise au fonds ?,3 % par demande de rachat, 3% par demande de rachat,True
+25,prospectus_amundi_FR0010655761-fr_Table3.pdf,Quelle est l’assiette utilisée pour le calcul des commissions de souscription et de rachat ?,Valeur liquidative × Nombre de parts, Valeur liquidative X Nombre de parts,True
+26,prospectus_amundi_FR0010655761-fr_Table3.pdf,La commission de souscription non acquise au fonds est-elle de 3 % ?,Oui, Oui,True
+27,prospectus_amundi_FR0010655761-fr_Table3.pdf,Une commission de souscription acquise au fonds est-elle prélevée ?,Non, Non,True
+28,prospectus_amundi_FR0010655761-fr_Table3.pdf,La commission de rachat non acquise au fonds est-elle de 3 % ?,Oui, Oui,True
+29,prospectus_amundi_FR0010655761-fr_Table3.pdf,Une commission de rachat acquise au fonds est-elle appliquée ?,Non, Non,True
+30,prospectus_amundi_FR0010655761-fr_Table3.pdf,La base de calcul des commissions est-elle : Valeur liquidative × Nombre de parts ?,Oui, Oui,True
+31,priip_primonial_FR0013228715-fr_Table1.pdf,Quel est le montant maximal des frais d’entrée ?,"5,00 %"," 5,00 %",True
+32,priip_primonial_FR0013228715-fr_Table1.pdf,Quel pourcentage des frais d’entrée est acquis à l’OPCI ?,"3,50 %"," 3,50 %",True
+33,priip_primonial_FR0013228715-fr_Table1.pdf,Y a-t-il des frais de sortie pour cette catégorie d’actions ?,Non, Non,True
+34,priip_primonial_FR0013228715-fr_Table1.pdf,À quoi servent les frais d’entrée acquis à l’OPCI ?,couvrir les frais  et taxes relatifs à l’acquisition ou à la cession d’actifs,"
+Les frais d'entrée acquis à l'OPCI servent à couvrir les frais et taxes relatifs à l'acquisition ou à l'accession d'un actif.",True
+35,priip_primonial_FR0013228715-fr_Table1.pdf,Y a-t-il des frais de sortie pour cet OPCI ?,Non,"
+Non",True
+36,priip_primonial_FR0013228715-fr_Table2.pdf,Quel est le pourcentage des frais courants annuels ?,"2,190 % TTC de l’actif net","
+Les frais courants annuels sont de 2,100 % TTC de l'actif net.",False
+37,priip_primonial_FR0013228715-fr_Table2.pdf,Que comprennent les frais courants ?,"frais de gestion et de fonctionnement
+frais d’exploitation immobilière","
+- frais de gestion et de fonctionnement
+- frais d'exploitation immobilière",True
+38,priip_primonial_FR0013228715-fr_Table2.pdf,L’OPCI applique-t-il une commission de performance ?,Oui, Oui,True
+39,priip_primonial_FR0013228715-fr_Table2.pdf,Vrai / Faux : Les frais d’exploitation immobilière font partie des frais courants.,Vrai, Vrai,True
+40,priip_primonial_FR0013228715-fr_Table2.pdf,Vrai / Faux : Le total des frais courants dépasse 3 % de l’actif net.,Faux, Vrai,False
+41,priip_primonial_FR0013228715-fr_Table2.pdf,Vrai / Faux : La commission de performance est systématiquement prélevée chaque année.,Faux, Faux,True
+42,priip_primonial_FR0013228715-fr_Table2.pdf,Est-ce que les frais peuvent varier d’une année sur l’autre ?,Oui," Oui, les frais prélevés par FOPCI peuvent varier d'une année sur l'autre, notamment en fonction des actions de catégorie «B» et des frais courants.",True
+43,priip_primonial_FR0013228715-fr_Table2.pdf,Quels sont les frais courants annuels prélevés par l’OPCI ?," 2,190 % TTC de l’actif net","
+Les frais courants annuels prélevés par l’OPCI sont de 2,100 % TTC de l’actif net pour les frais de gestion et de fonctionnement, et de 1,606 % TTC de l’actif net pour",False
+44,priip_primonial_FR0013228715-fr_Table2.pdf,Comment se décomposent les frais courants ?,"frais de gestion de fonctionnement        1,606 % TTC de l’actif net ; frais d’exploitation immobilière        0,584 % TTC de l’actif net"," Les frais courants se décomposent en 2,100 % de TTC de facture net pour les frais de gestion et de fonctionnement et 1,606 % de TTC de facture net pour les frais d'exploitation immobilière",False
+45,priip_primonial_FR0013228715-fr_Table2.pdf,L’OPCI applique-t-il une commission de performance ?,Oui, Oui,True
+46,priip_primonial_FR0013228715-fr_Table2.pdf,Le montant des frais courants peut-il varier ?,Oui, Oui,True
+47,prospectus_amundi-000109767-fr_Table1.pdf,Quel est le niveau de risque présenté dans ce tableau ?,6,"
+Le niveau de risque présenté dans ce tableau est ""À risque plus élevé.""",False
+48,prospectus_amundi-000109767-fr_Table1.pdf,Y a-t-d'autres informations que le niveau de risque dans ce tableau ? ,Non,"
+Non",True
+49,prospectus_amundi-000109767-fr_Table2.pdf,Quels sont les frais d’entrée maximum applicables dans ce tableau?,2 % maximum,"
+2%",True
+50,prospectus_amundi-000109767-fr_Table2.pdf,Y a-t-il des frais de sortie ?,Non,"
+Oui, les frais de sortie sont de 2% maximum.",False
+51,prospectus_amundi-000109767-fr_Table2.pdf,À combien s'élèvent les frais courants annuels prélevés par le FCPE ?,"1,87 % de l'actif net moyen","
+Les frais courants annuels prélevés par le FCPE s'élèvent à 1,17 % de l'actif net moyen.",False
+52,prospectus_amundi-000109767-fr_Table2.pdf,Le FCPE applique-t-il une commission de performance ?,Non,"
+Oui",False
+53,prospectus_amundi-000109767-fr_Table3.pdf,Combien de catégories de parts le Fonds propose-t-il ?,6, Le Fonds propose 6 catégories de parts.,True
+54,prospectus_amundi-000109767-fr_Table3.pdf,"Quelle est la valeur initiale des parts F, E et P ?",10 EUR," La valeur initiale des parts F, E et P est de 10 EUR.",True
+55,prospectus_amundi-000109767-fr_Table3.pdf,Quelle part est spécifiquement liée aux réseaux du groupe Crédit Agricole ?,part PER CA, Part ASSUREUR,False
+56,prospectus_amundi-000109767-fr_Table3.pdf,Quelle est la nature de l’affectation du résultat pour toutes les parts ?,Capitalisation,"
+Capitalisation",True
+57,prospectus_amundi-000109767-fr_Table3.pdf,Quel est le code ISIN de Part PER CA ?,FR0014001B81,FR0014001881,False
+58,prospectus_amundi-000109767-fr_Table3.pdf,Quel est le code ISIN de Part ASSUREUR ?,FR0014001B99,FR0014001899,False
+59,prospectus_amundi-000109767-fr_Table3.pdf,Toutes les catégories de parts disposent-elles d’un code AMF ?,Oui, Oui,True
+60,prospectus_amundi-000109767-fr_Table3.pdf,Quelle est la valeur initiale de la part E ?,10 EUR, 10 EUR,True
+61,prospectus_amundi-000109767-fr_Table3.pdf,Existe-t-il dans ce tableau des parts avec une affectation du résultat en distribution ?,Non, Non,True
+62,prospectus_amundi-000109767-fr_Table3.pdf,Vrai ou Faux ? Les parts E et F ont un Code AMF mais pas de Code ISIN.,Vrai, Vrai,True
+63,prospectus_amundi-000109767-fr_Table4.pdf,Y a-t-il une commission de souscription ou de rachat appliquée ?,Non, Non,True
+64,prospectus_amundi-000109767-fr_Table4.pdf,Quel est le taux maximum des frais de gestion pour la part E ?,"1,10 % TTC"," 1,10 % TTC maximum",True
+65,prospectus_amundi-000109767-fr_Table4.pdf,Sur quelle assiette sont prélevés les frais de gestion de la part E ?,Actif net,"
+Actif net",True
+66,prospectus_amundi-000109767-fr_Table4.pdf,Qui prend en charge les frais de gestion pour la part E ?,Entreprise,"
+L'entreprise",True
+67,prospectus_amundi-000109767-fr_Table4.pdf,Quel est le taux maximum des frais de gestion pour la part F ?,"1,00 % TTC"," 1,10 % TTC maximum",False
+68,prospectus_amundi-000109767-fr_Table4.pdf,Sur quelle base sont calculés les frais de la part F ?,Actif net,"
+Actif net",True
+69,prospectus_amundi-000109767-fr_Table4.pdf,À combien s’élèvent les frais de gestion maximum pour la part PER ?,"0,10 % TTC maximum"," 1,10 % TTC maximum",False
+70,prospectus_amundi-000109767-fr_Table4.pdf,Qui supporte les frais de gestion de la part PER ?,Fonds,"
+L'assiette",False
+71,prospectus_amundi-000109767-fr_Table4.pdf,Les frais de la part PER CA sont-ils à la charge de l’entreprise ou du Fonds ?,Fonds, Fonds,True
+72,prospectus_amundi-000109767-fr_Table4.pdf,Qui prend en charge les frais liés à la part ASSUREUR ?,Fonds,"
+Fonds",True
+73,prospectus_amundi-000109767-fr_Table4.pdf,"Vrai ou Faux ? Les frais de gestion maximum pour AMUNDI ACTIONS INTERNATIONALES ESR - PER s’élèvent à 1,10 % TTC.",Faux, Vrai,False
+74,prospectus_amundi-000109767-fr_Table4.pdf,Vrai ou Faux ? Les frais liés à ESR - PER CA sont pris en charge par l’entreprise.,Faux, Faux,True
+75,prospectus_amundi-000109767-fr_Table5.pdf,Quels sont les frais de gestion financière appliqués à la Part C ?,"0,40 % TTC maximum","
+Actif net",False
+76,prospectus_amundi-000109767-fr_Table5.pdf,Quel est le taux maximum des frais indirects (commissions et frais de gestion) ?,"1,50 % TTC l'an maximum"," 1,80 % TTC par an maximum",False
+77,prospectus_amundi-000109767-fr_Table5.pdf,Quel est le montant de la commission de mouvement qui peut être prélevées par le dépositaire ?,montant forfaitaire de 0 à 450 euros TTC selon la place,"
+450 euros TTC",True
+78,prospectus_amundi-000109767-fr_Table5.pdf,Une commission de surperformance est-elle appliquée à la Part RETRAITE-C ?,Oui, Oui,True
+79,priip_pimco_IE00B11XZ871-2022-fr_Table1.pdf,Quel est le montant que vous pourriez obtenir après déduction des coûts si vous sortez après un an dans un scénario Favorable ?,11340 USD, 11 340 USD,True
+80,priip_pimco_IE00B11XZ871-2022-fr_Table1.pdf,Quel montant pourriez-vous obtenir après déduction des coûts si vous sortez après un an dans un scénario défavorable ?,8070 USD, 8 570 USD,False
+81,priip_pimco_IE00B11XZ871-2022-fr_Table1.pdf,"Quel montant pourriez-vous obtenir si vous avez investi pendant 5 ans ou plus dans un scénario Intermédiaire, après déduction des coûts ?",10840 USD, 10 840 USD,True
+82,priip_pimco_IE00B11XZ871-2022-fr_Table1.pdf,Quelle est la période de détention recommandée ?,3 ans, 3 ans,True
+83,priip_pimco_IE00B11XZ871-2022-fr_Table1.pdf,Existe t-il un rendement minimal garanti si l'investisseur sort avant 3 ans ?,Non, Non,True
+84,priip_pimco_IE00B11XZ871-2022-fr_Table1.pdf,Quel est le montant de l'investissement sur lequel se base le scénario de performance ?,10000 USD, 10 000 USD,True
+85,priip_pimco_IE00B11XZ871-2022-fr_Table1.pdf,Dans quelle monnaie les scénarios de performance ont ils présentés ?,USD, USD,True
+86,priip_heptagon_IE00B3N32X37-2023-fr_Table1.pdf,Quels sont les coûts totaux associés à l'investissement si le produit est détenu pendant 1 an ?,170,"
+Les coûts totaux associés à l'investissement si le produit est détenu pendant 1 an sont de 170 $.",True
+87,priip_heptagon_IE00B3N32X37-2023-fr_Table1.pdf,Quels sont les coûts totaux associés à l'investissement si le produit est détenu pendant 5 an ?,1340, 1 340 $,True
+88,priip_heptagon_IE00B3N32X37-2023-fr_Table1.pdf,Quelle est la période de détention recommandée ?,5 ans, 5 ans,True
+89,priip_heptagon_IE00B3N32X37-2023-fr_Table1.pdf,Quel est le coût réel du produit en termes de rendement perdu chaque année sur cinq ans en pourcentage?,"1,9%", 1.9%,True
+90,priip_heptagon_IE00B3N32X37-2023-fr_Table2.pdf,Quel est le pourcentage des frais d’entrée prélevé sur l’investissement ?,"0,0 %", 3%,False
+91,priip_heptagon_IE00B3N32X37-2023-fr_Table2.pdf,Le fonds peut-il imposer une commission de rachat à l’avenir ?,Oui, Oui,True
+92,priip_heptagon_IE00B3N32X37-2023-fr_Table2.pdf,Quel est le montant maximum que le fonds pourrait facturer au titre d’une commission de rachat ?,pouvant atteindre 3 % du produit du rachat, 3 % du produit du rachat.,True
+93,priip_heptagon_IE00B3N32X37-2023-fr_Table3.pdf,Quel est le coût lié à l’achat et à la vente des investissements dans le portefeuille ?,"0,0 %"," 0,0%",True
+94,priip_heptagon_IE00B3N32X37-2023-fr_Table3.pdf,Quels sont les autres frais récurrents facturés par le fonds ?,coûts de gestion,"
+L'impact des coûts de gestion du Fonds chaque année.",True
+95,priip_heptagon_IE00B3N32X37-2023-fr_Table3.pdf,"Que couvrent les frais courants indiqués à 1,7 % ?",Ils couvrent principalement les coûts de gestion du fonds.,"
+Les frais courants indiqués à 1,7 % couvrent l'impact des coûts de gestion du Fonds chaque année.",True
+96,priip_heptagon_IE00B3N32X37-2023-fr_Table3.pdf,À combien s’élèvent les autres frais récurrents facturés par le fonds ?,"1,7 %"," 1,7%",True
+97,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,"Quels types d'actions sont disponibles pour le compartiment ""La Française Actions Euro Capital Humain"" ?",action F ; action R  ; action D ; action I,"
+Les types d'actions disponibles sont : action E, action R, action O et action I.",False
+98,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,Quel est le code ISIN de l’action F ?,FR0012553584,"
+FR001253524",False
+99,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,"Quelle est la valeur liquidative d’origine pour toutes les actions, sauf l’action I",100 EUR, 100 EUR,True
+100,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,Quelle est la valeur liquidative d’origine de l’action I ?,"79,11 EUR"," 78,11 EUR",False
+101,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,Quelle est la devise de libellé de ce compartiment ?,EUR, EUR,True
+102,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,Comment sont affectés les revenus pour l'action D?,Distribution,"
+Les revenus pour l'action D sont affectés à la distribution de dividendes et/ou au rachat d'actions propres.",True
+103,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,Comment sont affectés les revenus pour l'action I?,Capitalisation,"
+Capitalisation",True
+104,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,Quelle est la politique d’affectation des plus-values pour le type d'action R ?,Capitalisation,"
+Capitalisation",True
+105,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,Qui peut souscrire aux types d'actions R et D?,Tous souscripteurs, Tous souscripteurs,True
+106,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,"Qui peut souscrire à l’action F du compartiment ""La Française Actions Euro Capital Humain"" ?",réservée aux fonds gérés par les sociétés du Groupe la Française,"
+Les investisseurs qui sont des personnes physiques résidant en France, les sociétés, Groupes de Partenariat et les associations de droit français.",False
+107,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,L’action F est-elle réservée à tous les souscripteurs ?,Non, Non,True
+108,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,La valeur liquidative d’origine de l’action F est-elle de 100 EUR ?,Oui, Oui,True
+109,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,L’action F est-elle libellée en devise EUR ?,Oui, Oui,True
+110,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,Le montant minimum de souscription initiale pour l’action F est-il de 10 actions ?,Non, Oui,False
+111,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,L’affectation des revenus de l’action F peut-elle inclure une distribution ?,Oui, Non,False
+112,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,Vrai ou Faux : L’action F peut être souscrite par des investisseurs institutionnels externes au Groupe La Française.,Faux, Faux,True
+113,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,"Vrai ou Faux : L’affectation des plus-values de l’action F peut être faite par capitalisation, distribution ou report.",Vrai, Vrai,True
+114,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,Vrai ou Faux : La devise de libellé de l’action F est le dollar américain.,Faux, Faux,True
+115,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,Vrai ou Faux : Le montant minimum de souscription pour l’action F est de 1 action.,Vrai, Vrai,True
+116,prospectus-Lafrancaise_fr0013439817-fr_Table1.pdf,Vrai ou Faux : L’affectation des revenus pour l’action F est strictement en capitalisation.,Faux, Faux,True
+117,prospectus-Lafrancaise_fr0013439817-fr_Table2.pdf,Quel est le code ISIN de la classe d'actions R C EUR ?,FR0013439817, FR001343917,False
+118,prospectus-Lafrancaise_fr0013439817-fr_Table2.pdf,Quel est le montant minimum de souscription initiale pour la part R C EUR ?,Aucun, 1 000 EUR,False
+119,prospectus-Lafrancaise_fr0013439817-fr_Table2.pdf,La classe d’actions R C EUR est-elle destinée à tous les souscripteurs ?,Oui, Non,False
+120,prospectus-Lafrancaise_fr0013439817-fr_Table2.pdf,Comment sont traités les revenus et les plus-values de la classe d’actions R C EUR ?,Capitalisation," Les revenus de la classe d’actions R C EUR sont traités par capitalisation, et les plus-values sont également traitées par capitalisation.",True
+121,prospectus-Lafrancaise_fr0013439817-fr_Table2.pdf,En quelle devise est libellée la classe d’actions R C EUR ?,EUR,"
+EUR",True
+122,prospectus-Lafrancaise_fr0013439817-fr_Table2.pdf,Quel est le code ISIN de la classe d’actions T D USD H ?,FR0013439924,"
+FR0013439635",False
+123,prospectus-Lafrancaise_fr0013439817-fr_Table2.pdf,À qui s’adresse la classe d’actions T D USD H en termes de souscripteurs ?,Tous souscripteurs sans rétrocession aux distributeurs.,"
+Tous souscripteurs, sauf les distributeurs fournissant des services d’investissement MIF2 ou de Réception Transmission d’Ordres (RTO), les conseillers en investissement, les gestionnaires de portefeuille et les sociétés de",False
+124,prospectus-Lafrancaise_fr0013439817-fr_Table2.pdf,Quelle classe d'actions nécessite une souscription minimale de 10 000 000 EUR ?,part S,"
+action T D EUR",False
+125,prospectus-Lafrancaise_fr0013439817-fr_Table2.pdf,Quelle est la politique de couverture de la classe d’actions I C USD H ?,"Les actions ""H"" couverte contre la devise de référence du compartiment peuvent être sur ou sous-couvertes durant certaines périodes","
+Non",False
+126,prospectus-Lafrancaise_fr0013439817-fr_Table2.pdf,À qui est exclusivement réservée la classe d’actions S ?,Réservée à la Caisse Fédérale du Crédit Mutuel Nord Europe et aux sociétés du Groupe la Française,"
+Les membres du Comité Exécutif de La Française et les membres du Comité Exécutif du Groupe La Française",False
+127,prospectus-Lafrancaise_fr0013439817-fr_Table2.pdf,La classe d’actions T C EUR est-elle éligible à la distribution de revenus ?,Non, Non,True
+128,prospectus-Lafrancaise_fr0013439817-fr_Table3.pdf,Quelles sont les heures limites pour centraliser les ordres de souscription et de rachat ?,avant 11h00, Les heures limites pour centraliser les ordres de souscription et de rachat sont J avant 11h00.,True
+129,prospectus-Lafrancaise_fr0013439817-fr_Table3.pdf,Quand les règlements des souscriptions et des rachats sont-ils effectués ?,J+2 jours ouvrés, Les règlements des souscriptions sont effectués à J+2 jours ouvrés et les règlements des rachats sont effectués à J+2 jours ouvrés.,True
+130,prospectus-Lafrancaise_fr0013439817-fr_Table3.pdf,Quand la valeur liquidative est-elle publiée ?,J+1 jour ouvré,"
+J+1 jour ouvré",True
+131,prospectus-Lafrancaise_fr0013439817-fr_Table3.pdf,Les actions peuvent-elles être fractionnées ?,Oui, Oui,True
+132,prospectus-Lafrancaise_fr0013439817-fr_Table4.pdf,Quelle est la fourchette de sensibilité aux taux d’intérêt du fonds ?,de 9 à 0,"
+La fourchette de sensibilité aux taux d'intérêt du fonds est de 9 à 0.",True
+133,prospectus-Lafrancaise_fr0013439817-fr_Table4.pdf,Quels sont les pays d’origine des émetteurs publics des titres dans lesquels le fonds est exposé ?,Emetteurs publics OCDE et hors OCDE (y compris les pays émergents) ,"
+Les pays d’origine des émetteurs publics des titres dans lesquels le fonds est exposé sont les pays de l’OCDE (hors zone euro) à 100%.",False
+134,prospectus-Lafrancaise_fr0013439817-fr_Table4.pdf,Quels sont les pays d’origine des émetteurs privés hors OCDE des titres dans lesquels le fonds est exposé ?,Emetteurs privés hors OCDE (y compris les pays émergents),"
+EUR (USD/GBP/NOK/CHF/SEK/CAD/DKK",False
+135,prospectus-Lafrancaise_fr0013439817-fr_Table4.pdf,Quelles sont les devises autorisées pour les investissements ?,EUR/ USD/ GBP/ NOK/ CHF/ SEK/ CAD/ DKK,"
+EUR/USD/GBP/NOK/CHF/SEK/CAD/DKK",True
+136,prospectus-Lafrancaise_fr0013439817-fr_Table4.pdf,Le fonds est-il exposé au risque de change ?,Oui, Non,False
+137,prospectus-Lafrancaise_fr0013439817-fr_Table4.pdf,Comment le risque de change est-il géré ?,couverture imparfaite des positions en devises.,"
+Le risque de change est géré par le fonds en ayant un résiduel dû à une couverture imparfaite des positions en devises.",True
+138,prospectus-Lafrancaise_fr0013439817-fr_Table5.pdf,Quelle est la base de calcul des frais de gestion financière ?,Les frais de gestion financière sont calculés sur l’actif net,"
+La base de calcul des frais de gestion financière est l'actif net.",True
+139,prospectus-Lafrancaise_fr0013439817-fr_Table5.pdf,Quels sont les taux maximum de frais de gestion appliqués aux catégories d'actions I et T ? ,"0,59 % TTC","
+Le taux maximum de frais de gestion appliqué aux catégories d'actions I et T est de 0,59% TTC.",True
+140,prospectus-Lafrancaise_fr0013439817-fr_Table5.pdf,Existe-t-il des frais indirects maximum facturés à l’OPCVM ?,Non, Non,True
+141,prospectus-Lafrancaise_fr0013439817-fr_Table5.pdf,Quels sont les taux de commissions de mouvement pour les Obligations convertibles et les Swaps ?,"Obligations convertibles : 0,05 % (avec un minimum de 100 €) ; waps : 0,010 %, (avec un minimum de 150 €, max. 600 €)","
+Les taux de commissions de mouvement pour les Obligations convertibles sont de 0,05% et pour les Swaps sont de 0,035%.",False
+142,prospectus-Lafrancaise_fr0013439817-fr_Table6.pdf,Les commissions de mouvement s’appliquent-elles à chaque transaction ?,Oui, Oui,True
+143,prospectus-Lafrancaise_fr0013439817-fr_Table6.pdf,Quels sont les frais associés aux swaps à partir du 2 novembre 2021 ?,"0,010 %, (avec un minimum de 150 € et un maximum de 600 €)", 0.010% (avec un minimum de 150€ et un maximum de 600€),True
+144,prospectus-Lafrancaise_fr0013439817-fr_Table6.pdf,Quel est le taux de commission appliqué aux autres obligations après le 2 novembre 2021 ?,"0,035 % (avec un minimum de 100 €)", 0.05%,False
+145,prospectus-Lafrancaise_fr0013439817-fr_Table6.pdf,Quels sont les frais appliqués aux opérations de change à terme après le 2 novembre 2021 ?,"0,010 % ( avec un minimum de 75 € et un maximum de 300 €)", 0.05% (avec un minimum de 100€),False
+146,prospectus-Lafrancaise_fr0013439817-fr_Table6.pdf,Quel montant est appliqué pour une transaction sur un OPC ?,15, 15€,True
+147,prospectus-Lafrancaise_fr0013439817-fr_Table6.pdf,Quels sont les frais forfaitaires appliqués pour les futures avant le 2 novembre 2021 ?,Futures : 6 €,"
+Les frais forfaitaires appliqués pour les futures avant le 2 novembre 2021 sont de 6€.",True
+148,kiid_constance_FR0011271576-fr_Table1.pdf,Quel est l’objectif principal du fonds CONSTANCE BE AMERICA ?,Le FCP a pour objectif la recherche d’une surperformance par rapport à l’indice S&P 500 INDEX représentant l’évolution des marchés d’actions nord-américaines sur la durée de placement recommandée., L'objectif principal du fonds CONSTANCE BE AMERICA est la recherche d'une surperformance par rapport à l'indice S&P 500 NR USD.,True
+149,kiid_constance_FR0011271576-fr_Table1.pdf,À quelle catégorie appartient ce FCP ?,Le FCP est classé « Actions internationales »,"
+Actions",True
+150,kiid_constance_FR0011271576-fr_Table1.pdf,Quelle est le niveau d'exposition du portefeuille en actions nord-américaines ?,Le FCP est exposé à hauteur de 90 % minimum en actions d'émetteurs nord-américains., Le niveau d'exposition du portefeuille en actions nord-américaines est de 90% à 100%.,True
+151,kiid_constance_FR0011271576-fr_Table1.pdf,Quelle est la fourchette d'exposition en actions de sociétés domiciliées au Canada ?,de 0% à 25% maximum, 0% à 100%,False
+152,kiid_constance_FR0011271576-fr_Table1.pdf,Quelle est la durée minimum de placement recommandée ?,Supérieure à 10 ans, 10 ans,False
+153,kiid_constance_FR0011271576-fr_Table1.pdf,quel moment les ordres de souscription et de rachat sont-ils centralisés ?,Chaque jour ouvré avant 17 heures (J-1).,"
+Les ordres de souscription et de rachat sont centralisés deux fois par mois, à savoir le premier jour ouvré et le troisième mardi de chaque mois.",False
+154,kiid_constance_FR0011271576-fr_Table1.pdf,Le fonds peut-il être exposé au risque de change hors USD ?,Oui," Oui, le FCP peut investir jusqu'à 10% de son actif en parts et/ou actions de sociétés non cotées en USD.",True
+155,kiid_constance_FR0011271576-fr_Table1.pdf,Qui est la société de gestion du fonds CONSTANCE BE AMERICA ?,Ce FCP est géré par Constance Associés, Constance Associés,True
+156,kiid_constance_FR0011271576-fr_Table1.pdf,Quel est le code ISIN du fonds CONSTANCE BE AMERICA - Part A/USD ?,FR0011271576,FR0011271570,False
+157,kiid_constance_FR0011271576-fr_Table1.pdf,Vrai ou Faux : Le fonds peut être entièrement exposé au risque de change hors dollar américain.,Vrai, Faux,False
+158,kiid_constance_FR0011271576-fr_Table2.pdf,Y a-t-il des frais d'entrée ou de sortie pour ce fonds ?,Non,"
+Non, il n'y a pas de frais d'entrée. Les frais de sortie sont de 5%.",False
+159,kiid_constance_FR0011271576-fr_Table2.pdf,Quel est le montant des frais courants prélevés par le fonds sur une année ?,"2,44% TTC","
+2,44% TTC",True
+160,kiid_constance_FR0011271576-fr_Table2.pdf,Le fonds applique-t-il une commission de surperformance ?,Non,"
+Non",True
+161,kiid_constance_FR0011271576-fr_Table2.pdf,Vrai ou Faux : Le fonds facture une commission de surperformance en cas de rendement élevé.,Faux, Faux,True
+162,kiid_blackrock_DE000A0D8Q07-fr_Table1.pdf,Quelle est la catégorie de risque attribuée à ce fonds dans le tableau ?,6,"
+Risque plus élevé",False
+163,kiid_blackrock_DE000A0D8Q07-fr_Table1.pdf,Que signifie une notation de 6 sur l’échelle de risque ?,"Cela indique un niveau de risque élevé, mais aussi un potentiel de rendement plus élevé. ","
+Une notation de 6 sur l’échelle de risque signifie un risque plus élevé avec des rendements habituellement plus élevés.",True
+164,kiid_blackrock_DE000A0D8Q07-fr_Table2.pdf,Quels sont les frais d'entrée si des actions en bourse ?,"1,00 %", 2.00 %,False
+165,kiid_blackrock_DE000A0D8Q07-fr_Table2.pdf,Quel est le pourcentage maximum des frais d’entrée ?,"2,00 % maximum","
+2,00 %",True
+166,kiid_blackrock_DE000A0D8Q07-fr_Table2.pdf,À combien s’élèvent les frais courants prélevés chaque année sur le Fonds ?,"0,20 % par an"," 0,20 %",True
+167,kiid_blackrock_DE000A0D8Q07-fr_Table2.pdf,Quel est le montant des frais d’entrée si les actions sont négociées en bourse ?,0 %," 2,00 %",False
+168,kiid_blackrock_DE000A0D8Q07-fr_Table2.pdf,Vrai ou Faux : Les frais d’entrée peuvent atteindre 2 %.,Vrai, Vrai,True
+169,kiid_blackrock_DE000A0D8Q07-fr_Table2.pdf,Vrai ou Faux : Les frais courants du Fonds sont de 1 %.,Faux, Faux,True
+170,kiid_blackrock_DE000A0D8Q07-fr_Table2.pdf,Vrai ou Faux : Une commission de performance est prélevée par le Fonds.,Faux, Faux,True
+171,kiid_blackrock_DE000A0D8Q07-fr_Table2.pdf,Vrai ou Faux : Les frais de sortie peuvent atteindre 1 %.,Vrai, Vrai,True
+172,kiid_blackrock_DE000A0D8Q07-fr_Table2.pdf,"Vrai ou Faux : Les frais d’entrée sont toujours appliqués, même en cas de négociation en bourse.",Faux, Vrai,False
+173,kiid_blackrock_DE000A0D8Q07-fr_Table2.pdf,Oui ou Non : Les frais courants sont facturés chaque année.,Oui, Oui,True
+174,kiid_blackrock_DE000A0D8Q07-fr_Table2.pdf,Oui ou Non : Des frais d’entrée sont appliqués si les actions sont négociées en bourse.,Non, Oui,False
+175,kiid_blackrock_DE000A0D8Q07-fr_Table2.pdf,Oui ou Non : Les frais de sortie peuvent être de 0 % dans certains cas.,Oui, Oui,True
+176,kiid_arbevel_FR0000422842-fr_Table_1.pdf,Quel est le montant maximum des frais d’entrée ?,"2,00 %", 2.00%,True
+177,kiid_arbevel_FR0000422842-fr_Table_1.pdf,Des frais sont-ils prélevés à la sortie ?,Oui,"
+Oui, des frais de sortie de 1,00% sont prélevés.",True
+178,kiid_arbevel_FR0000422842-fr_Table_1.pdf,À combien s’élèvent les frais courants ?,"2,39 % par an", 2.99%,False
+179,kiid_arbevel_FR0000422842-fr_Table_1.pdf,Une commission de performance est-elle applicable ?,Oui, Oui,True
+180,kiid_arbevel_FR0000422842-fr_Table_1.pdf,Y a-t-il eu des commissions de performance sur la dernière période de référence ?,Non,"
+Non",True
+181,kiid_arbevel_FR0000422842-fr_Table_1.pdf,Quel est le nom de la classe d’actions décrite dans ce tableau ?,Action A,"
+FACTION A",False
+182,kiid_arbevel_FR0000422842-fr_Table_1.pdf,Quel est l’indice de référence utilisé pour évaluer la performance du fonds PLUVALCA ALLCAPS – Action A ?,SBF 120,"
+L'indice de référence utilisé pour évaluer la performance du fonds PLUVALCA ALLCAPS – Action A est le CAC All-Tradable.",False
+183,kiid_arbevel_FR0000422842-fr_Table_1.pdf,À quoi sert l’indice de référence dans le calcul de la commission de performance ?,Il sert de base de comparaison : une commission de performance de 20 % est prélevée uniquement si la performance du fonds dépasse celle du SBF 120 et qu’elle est positive.," L'indice de référence sert à déterminer si la performance de l'OPCVM est positive ou négative par rapport à cet indice, ce qui influence le calcul de la commission de performance.",True
+184,kiid_antenor_FR0007078688-fr_Table1.pdf,Quel est le montant des frais d’entrée pour cet OPCVM ?,"2,5 % maximum","
+2,5 %",True
+185,kiid_antenor_FR0007078688-fr_Table1.pdf,Des frais de sortie sont-ils appliqués ?,Non,"
+Oui, des frais de sortie sont appliqués. Ils s'élèvent à 2,5 % et sont plafonnés à 1 % de l'investissement initial.",False
+186,kiid_antenor_FR0007078688-fr_Table1.pdf,Quel est le pourcentage des frais courants ?,"3,66 % TTC de l’actif net, basés sur l’exercice clos au 31/12/2018","
+Le pourcentage des frais courants est de 2,00 %.",False
+187,kiid_antenor_FR0007078688-fr_Table1.pdf,Où peut-on trouver plus de détails sur les frais ?,Dans la section « Frais » du prospectus de l’OPCVM disponible sur le site www.ferrigestion.fr.," 
+www.fongestion.fr",False
+188,prospectus_mandarine_fr0012144590-fr_Table_1.pdf,Quel est le taux maximum des frais de gestion financière pour chaque type de part ?,"Part R : 2,20 % TTC ; Part F : 1,10 % TTC ; Part I : 0,90 % TTC ; Part M : 0,60 % TTC"," Le taux maximum des frais de gestion financière est de 2,20% TTC pour les parts R, 1,10% TTC pour les parts F, 0,90% TTC pour les parts I, et 0,60% TTC pour les",True
+189,prospectus_mandarine_fr0012144590-fr_Table_1.pdf,Quel est le taux maximum des frais de fonctionnement et autres services ?,"0,17 %"," 0,17%",True
+190,prospectus_mandarine_fr0012144590-fr_Table_1.pdf,Quel est le montant maximum des commissions de mouvement allouées au dépositaire/conservateur ?,De 0 à 115 € TTC," 0,18% TTC",False
+191,prospectus_mandarine_fr0012144590-fr_Table_1.pdf,Quel est le mode de calcul de la commission de surperformance ?,"15 % de la surperformance réalisée au-delà de l’indice EURO STOXX® Net Return EUR.
+
+Cette commission est variable, contingente à une performance positive du fonds, et calculée indépendamment pour chaque classe de part."," La commission de surperformance correspond à des frais variables, et est conditionnée à la réalisation par le Fonds d’une performance positive sur l’exercice et d’une performance supérieure à celle de son indice de référence sur la période d’observation. Le calcul",True
+192,prospectus_mandarine_fr0012144590-fr_Table_1.pdf,A combien s'élèvent les commissions de mouvement allouées à la société de gestion ?,"De 0 % à 0,18 % TTC du brut de la négociation","
+Les commissions de mouvement allouées à la société de gestion s'élèvent de 0 à 0,18% TTC du montant de la transaction pour les Parts R et de 0 à 1% TTC pour les Parts F, I et M",False
+193,prospectus_mandarine_fr0012144590-fr_Table_1.pdf,Quel est l’indice de référence utilisé pour calculer la commission de surperformance du fonds ?,EURO STOXX® Net Return EUR,"
+L'indice de référence utilisé pour calculer la commission de surperformance du fonds est l'EURO STOXX® Net Return EUR.",True
+194,prospectus_mandarine_fr0012144590-fr_Table2.pdf,En quelle année une commission de performance a-t-elle été prélevée ?,année 1 ; année 5,"
+Année 1",True
+195,prospectus_mandarine_fr0012144590-fr_Table2.pdf,"Pourquoi aucune commission de performance n’a été prélevée en année 2, alors que le Fonds a surperformé l’indice ?","Parce que la performance absolue du Fonds était négative (-4%).
+La commission n’est prélevée que si la performance est à la fois supérieure à celle de l’indice ET positive."," Non car la performance du Fonds, sous-performance et surperformance, est négative, bien qu'il ait surperformé l'indice de référence.",True
+196,prospectus_mandarine_fr0012144590-fr_Table2.pdf,Une nouvelle période d'observation a t-elle été créé en Année 2 ?,Oui, Oui,True
+197,prospectus_mandarine_fr0012144590-fr_Table2.pdf,Une nouvelle période d'observation a t-elle été créé en Année 4 ?,Non," Non, la période d'observation est prolongée pour s'étendre sur les années 3 et 4",True
+198,prospectus_mandarine_fr0012144590-fr_Table2.pdf,Quel est le terme faisant référence à un fonds de comparaison théorique mentionné ici?,fonds fictif,"
+Indice de référence",False
+199,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table1.pdf,Qui sont les administrateurs du fonds ?,Ian Dyble ; Carl O’Sullivan ;  Peter Sandys ; Matteo Candolfini ; Jane Challice," Les administrateurs du fonds sont Ian Dyble, Carl O'Sullivan, Eoin Fitzgerald, Matteo Candolfini et Jane Challice.",False
+200,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table1.pdf,Quelle est l’adresse du siège social de la société ?,"10 Earlsfort Terrace, Dublin 2, Irlande.", 10 Earlsfort Terrace Dublin 2 Irlande,True
+201,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table1.pdf,Où se trouve le dépositaire du fonds ?,"J.P. Morgan SE, Dublin Branch, 200 Capital Dock, 79 Sir John Rogerson’s Quay, Dublin 2, Irlande.","
+Dublin 2
+Irlande",False
+202,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table1.pdf,Quel est le nom de l’agent administratif ?,J.P. Morgan Administration Services (Ireland) Limited., J.P. Morgan Administration Services (Ireland) Limited,True
+203,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table1.pdf,Qui sont les conseillers en investissement par délégation ?,Janus Henderson Investors US LLC (« JHIUS ») Intech Investment Management LLC (« Intech »)," 
+Janus Henderson Investors US LLC
+Intech Investment Management LLC (< Intech >)",True
+204,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table1.pdf,Quel cabinet fournit les services juridiques ?,Arthur Cox LLP,: Arthur Cox LLP,True
+205,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table1.pdf,Vrai ou Faux : L’agent de transfert est situé à Dublin.,Vrai, Vrai,True
+206,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table1.pdf,Vrai ou Faux : Le dépositaire du fonds est situé à Londres.,Faux, Faux,True
+207,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table1.pdf,Oui/Non : Janus Henderson Investors UK Limited est-il l’un des distributeurs du fonds ?,Oui, Oui,True
+208,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table1.pdf,Le promoteur du fonds est-il le même que le conseiller en investissement ?,Oui, Oui,True
+209,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table2.pdf,Quel est le montant minimal pour une souscription initiale en Catégorie A en euros ?,2 500 EUR, 2 500 EUR,True
+210,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table2.pdf,Peut-on effectuer une souscription ultérieure en Catégorie I ?,Non,"
+Oui",False
+211,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table2.pdf,Quel est le montant minimal requis pour la Catégorie Z en livres sterling (GBP) ?,15 000 000 GBP, 18 000 000 GBP,False
+212,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table2.pdf,Quelle catégorie a le seuil le plus bas pour une souscription initiale ?,Y,"
+Y EUR",True
+213,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table2.pdf,Combien faut-il investir au minimum pour souscrire à la Catégorie G en USD ?,50 000 000 USD, 50 000 000 USD,True
+214,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table2.pdf,Y a-t-il une différence entre les montants minimaux en USD et en EUR pour la Catégorie Z ?,Oui, Oui,True
+215,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table2.pdf,Peut-on souscrire à la Catégorie A en GBP avec un montant initial de 2 500 GBP ?,Oui, Non,False
+216,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table2.pdf,La Catégorie G exige-t-elle un investissement initial supérieur à 10 000 000 EUR ?,Oui, Oui,True
+217,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table2.pdf,La Catégorie Y est-elle disponible en USD ?,Non,"
+Non",True
+218,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table2.pdf,Peut-on investir dans la Catégorie Z en EUR avec un montant initial de 1 000 000 EUR ?,Non, Non,True
+219,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table2.pdf,Vrai ou Faux : La Catégorie S en USD demande un investissement initial supérieur à celui de la Catégorie I.,Vrai, Vrai,True
+220,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table2.pdf,Vrai ou Faux : Le montant minimum requis pour la Catégorie E est de 2 500 dans chaque devise.,Faux, Vrai,False
+221,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table3.pdf,Quel est le dépositaire par délégation pour les actions « A » chinoises ?,JPMorgan Chase Bank (China) Company Limited,"
+JPMorgan Chase Bank (China) Company Limited (Remarque : Les clients doivent se reporter aux instructions de règlement) 1st Floor, Park Place, No. 1601, West Nanjing Road, Jing'an District, Shanghai
+HSBC",False
+222,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table3.pdf,"Pour les actions « B » chinoises, quelle est la banque dépositaire par délégation ?",HSBC Bank (China) Company Limited,"
+HSBC Bank (China) Company Limited",True
+223,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table3.pdf,Quelle banque remplit le rôle de correspondant espèces pour les actions « B » chinoises ?,"JPMorgan Chase Bank, N.A","
+JPMorgan Chase Bank, N.A.",True
+224,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table3.pdf,Quel établissement est le dépositaire pour le marché sud-africain ?,FirstRand Bank Limited,"
+FirstRand Bank Limited",True
+225,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table4.pdf,Quelle catégorie d’actions applique les frais les plus élevés en matière de charges et commissions ?,Catégorie B, Catégorie A,False
+226,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table4.pdf,Quelles catégories d’actions n’appliquent aucune commission de souscription initiale ?,"Les catégories B, G, H ","
+Catégorie B, Catégorie D, Catégorie E, Catégorie H",False
+227,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table4.pdf,"Quelle est la seule catégorie à imposer une commission de services aux actionnaires de 1,25 % ?",catégorie E,"
+Catégorie G",False
+228,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table4.pdf,Quels types de commissions sont absentes dans toutes les catégories d’actions ?,commission de performance,"
+Commission de surperformance initiale, Commission de gestion annuelle, Commission de surperformance.",False
+229,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table4.pdf,Quelles catégories d’actions appliquent une commission de distribution?,Catégorie B,"
+Catégorie A, Catégorie B, Catégorie C, Catégorie D, Catégorie E, Catégorie H",False
+230,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table5.pdf,Combien de devises différentes sont utilisées pour libeller les catégories d’actions dans ce tableau ?,12,"
+11",False
+231,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table5.pdf,Existe-t-il des actions libellées en devise locale asiatique dans ce tableau ?,Oui, Oui,True
+232,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table5.pdf,Quel est le titre de ce tableau ?,CATÉGORIES D’ACTIONS approuvées par la Banque Centrale à la date du présent Supplément, CATÉGORIES D'ACTIONS approuvées par la Banque Centrale à la date du présent Supplément.,True
+233,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table5.pdf,Y a-t-il des catégories d’actions libellées en Réal brésilien (BRL) ?,Oui, Non.,False
+234,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table5.pdf,Quelle devise a le moins de catégories d’actions ?,Réal brésilien,"
+Renminbi chinois (CNH)",False
+235,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table6.pdf,Ce produit financier prend-il en compte les principales incidences négatives sur les facteurs de durabilité ?,Oui," Oui, ce produit financier prend en compte les principales incidences négatives sur les facteurs de durabilité, telles que la violation du Pacte mondial et des directives de l'OCDE, l'exposition aux armes controversées, les émissions",True
+236,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table6.pdf,Quelle méthode est utilisée pour gérer l’exposition aux armes controversées ?,Des filtres d’exclusion.,"
+Filtrés d'exclusion",True
+237,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table6.pdf,Comment le fonds prend-il en compte les violations du Pacte mondial et des directives de l'OCDE ?,Des filtres d’exclusion.,"
+Le fonds prend en compte les violations du Pacte mondial et des directives de l'OCDE par des filtres d'exclusion.",True
+238,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table6.pdf,Quelles sont les trois incidences négatives liées aux émissions de gaz à effet de serre (GES) ?,Émissions de GES ; Empreinte carbone ; Intensité de GES des entreprises en portefeuille,"
+- Émissions de GES
+- Empreinte carbone
+- Intensité de GES des entreprises en portefeuille",True
+239,prospectus_janus-henderson_Technology-and-Innovation-Fund-Class-A2-HEUR-2022-fr_Table6.pdf,Quelle est la méthode utilisée pour traiter les problèmes liés aux GES ?,Par un engagement avec les entreprises.,"
+Par un engagement avec les entreprises",True
+240,prospectus_covea_fr0000931446-fr_Table1.pdf,Quel est le taux maximum des frais de gestion financière pour la Part C ?,"0,47 % maximum", 0.47 %,True
+241,prospectus_covea_fr0000931446-fr_Table1.pdf,La Part I est-elle concernée par des frais administratifs externes ?,Non, Non,True
+242,prospectus_covea_fr0000931446-fr_Table1.pdf,Des frais indirects TTC sont-ils applicables ?,Non, Oui,False
+243,prospectus_covea_fr0000931446-fr_Table1.pdf,Des commissions de mouvement sont-elles prélevées ?,Non,"
+Oui",False
+244,prospectus_covea_fr0000931446-fr_Table1.pdf,Qui prend en charge les frais administratifs externes à la société de gestion ?,Société de gestion,"
+La société de gestion",True
+245,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table1.pdf,Quelle décote est appliquée sur les garanties en espèces ?,Aucune, 0%,True
+246,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table1.pdf,Quelle est la fourchette de décote pour les titres de créance émis par le secteur public ?,0%-4%, 0-4%,True
+247,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table1.pdf,Les titres de créance du privés sont-ils plus décotés que ceux du secteur public ?,Oui, Oui,True
+248,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table1.pdf,Quelle est la décote maximale appliquée aux actions ou parts d’OPC ?,0.08, La décote maximale appliquée aux actions ou parts d’OPC est de 2-8%.,False
+249,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table1.pdf,Quelles sont les quatre grandes catégories d’actifs couvertes par la politique de décote ?,"Espèces ; Titres de créance d'émetteur du secteur public ; Titres de créance d'émetteur du secteur privé ; Actions, parts/actions d’OPC
+
+","
+Espèces, Tiers de créance d'émetteur du secteur public, Tiers de créance d'émetteur du secteur privé, Actions, participations d'OPC",True
+250,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table1.pdf,Quelle catégorie d’actifs présente la plus large plage de décote possible ?,"Actions, parts/actions d’OPC","
+Titres de créance d'émetteur du secteur privé",False
+251,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table1.pdf,Quelle catégorie d’actifs est considérée comme la plus sûre selon le tableau ?,Espèces,"
+Espèces",True
+252,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table1.pdf,Peut-on avoir une décote nulle sur des titres autres que les espèces ?,Oui," Oui, les titres de créance d'émetteur du secteur public peuvent avoir une décote nulle (0-4%).",True
+253,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table2.pdf,Pourquoi aucune commission n’est due en Année 6 alors que le rendement est positif ?,la sous-performance passée n'a pas été compensée," Le rendement de 0,5% en Année 6 est inférieur au seuil de performance de 1%, donc aucune commission n'est due.",False
+254,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table2.pdf,Durant quelles années années le rendement a t-il été négatif ?,Année 4 ; Année 7," 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018",False
+255,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table2.pdf,Quelle était la VNI en début de période de l'année 3 ?,"103,2","
+100",False
+256,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table2.pdf,Combien de fois une commission de surperformance a-t-elle été facturée entre l’année 0 et l’année 10 ?,4, 3 fois,False
+257,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table2.pdf,Pendant combien d’années consécutives aucune commission n’a été facturée ?,5, 2 ans (2010 et 2011),False
+258,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table2.pdf,Combien de temps a-t-il fallu pour que la sous-performance accumulée soit complètement compensée après l’année 4 ?,5 ans, 1 an,False
+259,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table3.pdf,Quelles sont les commissions d’émission pour les classes Classique et R ?,"Max 2,5%","
+Les commissions d’émission sont de 2,5% pour les classes Classique et R.",True
+260,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table3.pdf,Quelle classe d’actions n’applique aucune commission de gestion de portefeuille ?,Z,"
+Classe Z",True
+261,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table3.pdf,Combien de classes d’actions sont présentées ?,5, 4,False
+262,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table3.pdf,La classe R applique-t-elle une commission de sortie ?,Non,"
+Non",True
+263,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table4.pdf,Sur quels indices de référence est basée la commission de surperformance ?,"50% ICE BofA Contingent Capital Index EUR Hedged (Total Return) ; 50% ICE BofA Euro Financial Subordinated & Lower Tier-2 Index (Total Return)
+
+", 50% ICE BofA Contingent Capital Index EUR Hedged (Total Return) et 50% ICE BofA Euro Financial Subordinated & Lower Tier-2 Index (Total Return).,True
+264,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table4.pdf,Quelle est la méthodologie utilisée pour calculer la commission de surperformance ?,Claw Back 5Y, Claw Back 5Y,True
+265,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table4.pdf,Quel est le taux de provisionnement appliqué à la commission de surperformance de la classe I ?,20 %, 20%,True
+266,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table5.pdf,"Quelle est l’heure limite pour effectuer une souscription, un rachat ou une conversion ?",J à 12h00 (heure de Luxembourg), 12h00 (heure de Luxembourg),True
+267,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table5.pdf,À quelle date correspond la valeur nette d’inventaire utilisée pour les opérations ?,J,"
+J à 12h00 (heure de Luxembourg)",True
+268,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table5.pdf,"Quand a lieu l’évaluation des ordres de souscription, de rachat ou de conversion ?",J+1, Le jour J+1,True
+269,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table5.pdf,À quelle date les paiements sont-ils effectués après une opération ?,J+3, J+3,True
+270,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table5.pdf,Vrai / Faux : La valeur nette d’inventaire est calculée uniquement une fois par semaine.,Faux, Faux,True
+271,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table5.pdf,Vrai / Faux : Les paiements liés aux opérations de souscription ou de rachat ont lieu trois jours après la date de l’opération.,Vrai, Vrai,True
+272,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table6.pdf,Quelles sont les classes disposant d’un taux de provisionnement de 20% ?,Toutes les classes, Les classes VB disposent d’un taux de provisionnement de 20%.,False
+273,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table6.pdf,Quelle classe utilise la méthodologie « High Water Mark 5Y » ?,Toutes les classes,"
+VB",False
+274,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table6.pdf,"La classe ""Classique"" en EUR avec l’ISIN LU0151324422 est-elle la seule classe avec un taux de provisionnement de 20% ?",Non, Oui.,False
+275,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table6.pdf,"Quels sont les indices de référence utilisés pour calculer le taux de rendement minimal pour les classes Classique-H, I-H et R-H en Francs Suisse ?",SARON capitalisé (flooré à 0),"
+Les indices de référence utilisés pour calculer le taux de rendement minimal pour les classes Classique-H, I-H et R-H en Francs Suisse sont les FED FUNDS (taux de référence US capitalisé, floor à 0).",False
+276,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table6.pdf,Quelles sont les classes disponibles en devise CHF ?,Classique-H ; I-H ; R-H,"
+Classe-H, I-H, R-H",True
+277,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table6.pdf,Quelle est la devise de la classe R-H dont l'ISIN est LU1184245659 ?,CHF,"
+CHF",True
+278,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table6.pdf,"La classe R-H dont l'ISIN est LU2069305865 utilise-t-elle une méthodologie spécifique comme le ""High Water Mark"" ?",Oui, Non,False
+279,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table7.pdf,Quel est le taux de commission de surperformance pour les classes listées ?,0.2,"
+20%",True
+280,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table7.pdf,Quelle méthodologie est utilisée pour le calcul de la surperformance ?,Claw Back 5Y, Claw Back 5Y,True
+281,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table7.pdf,Quelle est la classe en devise GBP concernée par la surperformance ?,I,"
+I",True
+282,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table7.pdf,Sur quels indices de référence se basent toutes les classes ?,"Tous les benchmarks sont basés sur le J.P. Morgan GBI-EM Global Diversified (Total Return), avec adaptation selon la devise (USD, EUR, EUR Hedged, GBP).","
+Toutes les classes se basent sur l'indice de référence J.P. Morgan GBI-EM Global Diversified (Total Return).",True
+283,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table7.pdf,Combien d’ISIN différents sont listés dans ce tableau ?,8,"
+7",False
+284,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_Table7.pdf,Combien de monnaies différentes sont mentionnées dans le tableau relatif à la surperformance ?,3,"
+3",True
+285,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_table8.pdf,Quelle est la méthode utilisée pour calculer la commission de surperformance de la classe V en EUR ?,Claw Back 5Y, Claw Back 5Y,True
+286,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_table8.pdf,Quel est le taux de provisionnement de la classe a classe d’action V en CHF ?,0.2, 20%,True
+287,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_table8.pdf,Quel est le benchmark utilisé pour la classe V en EUR ?,ICE BofA BB-B Global High Yield Non-Financial Constrained Index EUR Hedged (Total Return), ICE BofA BB-B Global High Yield Non-Financial Constrained Index EUR Hedged (Total Return),True
+288,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_table8.pdf,Quel est le benchmark utilisé pour la classe V en CHF ?,ICE BofA BB-B Global High Yield Non-Financial Constrained Index CHF Hedged (Total Return), ICE BofA BB-B Global High Yield Non-Financial Constrained Index CHF Hedged (Total Return).,True
+289,prospectus_Candriam_Bonds_Euro_High_Yield_Pr_2025-fr_table8.pdf,Est-ce que toutes les classes d’actions ont un taux de provisionnement indiqué ?,Oui, Oui,True
+290,prospectus_dnca-actions-euro-pme_2023-fr_Table1.pdf,L’OPCVM peut-il détenir des parts d’OPCVM de droit français ?,Oui, Oui,True
+291,prospectus_dnca-actions-euro-pme_2023-fr_Table1.pdf,Quel est le pourcentage maximum de détention autorisé en parts d’OPCVM / FIA / fonds d’investissement ?,10 % de l’actif net, 10%,True
+292,prospectus_dnca-actions-euro-pme_2023-fr_Table1.pdf,L’OPCVM peut-il investir dans des fonds d’investissement de droit étranger ?,Oui, Oui,True
+293,prospectus_dnca-actions-euro-pme_2023-fr_Table1.pdf,Est-ce que les FIA européens sont éligibles à la détention par l’OPCVM ?,Oui, Oui,True
+294,prospectus_dnca-actions-euro-pme_2023-fr_Table1.pdf,Quel est le règlement européen qui encadre les fonds monétaires dans l’Union européenne est cité ici ?,règlement européen (UE) 2017/1131, 2017/1131,True
+295,prospectus_dnca-actions-euro-pme_2023-fr_Table1.pdf,"Quel est le pourcentage maximum de l’actif net que l’OPCVM peut investir dans des fonds à la classification ""monétaires"" ?",10 % de l’actif net, 10%,True
+296,prospectus_dnca-actions-euro-pme_2023-fr_Table2.pdf,Quels types de risques sont mentionnés en rapport à l'utilisation des instruments ?,Actions ; Taux ; Change ; Crédit ; Autre(s) risque(s),"
+Les types de risques mentionnés sont : Admission sur les marchés, Marchés organisés, Marché de gré à gré, Actions, Taux, Change, Crédit.",False
+297,prospectus_dnca-actions-euro-pme_2023-fr_Table2.pdf,Quelles stratégies d’intervention sont mentionnées dans ce tableau ?,Couverture ; Exposition ; Arbitrage ; Autre(s) stratégie(s),"
+Couverture, Exposition, Arbitrage, Autre(s) stratégie(s)",True
+298,prospectus_dnca-actions-euro-pme_2023-fr_Table2.pdf,Quels types d’instruments dérivés sont effectivement utilisés selon le tableau ( les cases en noir signifient que l'instrument n'est pas utilisé) ?,Contrats à terme (futures) sur Actions; Contrats à terme (futures) sur Indices ; Options sur actions ; Options sur indices,"
+Les types d’instruments dérivés effectivement utilisés selon le tableau sont :
+- Contrats à terme (futures) sur Actions, Taux, Change, Indices
+- Options sur Actions, Taux, Change, Indices
+- Swaps sur T",False
+299,prospectus_dnca-actions-euro-pme_2023-fr_Table2.pdf,Pour quel type de risque les options sur actions sont-elles utilisées dans la stratégie de gestion ?,Actions,"
+Les options sur actions sont utilisées pour les risques de taux et de change dans la stratégie de gestion.",False
+300,prospectus_dnca-actions-euro-pme_2023-fr_Table2.pdf,Les dérivés de crédit comme les Credit Default Swaps (CDS) sont-ils utilisés ?,Non, Oui,False
+301,prospectus_dnca-actions-euro-pme_2023-fr_Table3.pdf,"Les obligations convertibles sont-elles utilisées dans la stratégie de gestion du risque de crédit, selon le tableau ?",Non, Oui,False
+302,prospectus_dnca-actions-euro-pme_2023-fr_Table3.pdf,Les obligations convertibles sont-elles utilisées pour des stratégies d’arbitrage ?,Non, Oui,False
+303,prospectus_dnca-actions-euro-pme_2023-fr_Table3.pdf,Les bons de souscription sont-ils utilisés pour les interventions de type couverture ?,Oui, Oui,True
+304,prospectus_dnca-actions-euro-pme_2023-fr_Table3.pdf,Les produits de taux putables sont-ils mobilisés dans une quelconque stratégie d'intervention selon le tableau ?,Non, Non,True
+305,prospectus_dnca-actions-euro-pme_2023-fr_Table3.pdf,Les EMTN structurés sont-ils utilisés pour intervenir sur le risque de taux ou d’actions ?,Non,"
+Les EMTN structurés ne sont pas utilisés pour intervenir sur le risque de taux ou d’actions.",True
+306,prospectus_fidelity_Fidelity-Funds-European-Growth-Fund-A-Acc-EUR-2022-fr_table1.pdf,"D'après le tableau, le prospectus est-il disponible en ligne ?",Oui,,True
+307,prospectus_fidelity_Fidelity-Funds-European-Growth-Fund-A-Acc-EUR-2022-fr_table1.pdf,Les annonces de dividendes sont-elles publiées dans les médias ?,Non,,False
+308,prospectus_fidelity_Fidelity-Funds-European-Growth-Fund-A-Acc-EUR-2022-fr_table1.pdf,Un ajustement du swing pricing supérieur à 2 % est-il publié dans les médias ?,Non, Oui,False
+309,prospectus_fidelity_Fidelity-Funds-European-Growth-Fund-A-Acc-EUR-2022-fr_table1.pdf,Où peut-on consulter les politiques et procédures relatives à la gestion des réclamations et une description des fonctions actuelles du dépositaire et des conflits d’intérêts ?,Bureaux,"
+Les relevés/confirmations",False
+310,prospectus_fidelity_Fidelity-Funds-European-Growth-Fund-A-Acc-EUR-2022-fr_table1.pdf,Les politiques essentielles (comme les conflits d’intérêts ou la rémunération) sont-elles consultables en ligne ?,Oui, Oui,True
+311,prospectus_fidelity_Fidelity-Funds-European-Growth-Fund-A-Acc-EUR-2022-fr_table1.pdf,La valeur liquidative (VL) quotidienne des compartiments non monétaires est-elle accessible en ligne ?,Oui, Oui,True
+312,prospectus_Natixis_FR001400U1Z4_2025-fr_table1.pdf,Le FCP peut-il investir plus de 20 % de son actif en parts ou actions d’OPCVM/FIA ?,Oui," Non, le FCP ne peut détenir plus de 10% de ses actifs en OPCVM/FIA/Fonds d’investissement.",False
+313,prospectus_Natixis_FR001400U1Z4_2025-fr_table1.pdf,Les OPCVM de droit français sont-ils autorisés dans le portefeuille ?,Oui, Oui,True
+314,prospectus_Natixis_FR001400U1Z4_2025-fr_table1.pdf,Les fonds professionnels spécialisés peuvent-ils être utilisés ?,Non, Oui,False
+315,prospectus_Natixis_FR001400U1Z4_2025-fr_table1.pdf,Les OPCVM nourriciers sont-ils autorisés dans le portefeuille ?,Non, Oui,False
+316,prospectus_Natixis_FR001400U1Z4_2025-fr_table1.pdf,Des instruments dérivés peuvent-ils être utilisés à 100 % de l’actif net ?,Oui," Oui, le FCP pourra utiliser les instruments dérivés dans la limite de 100 % de l’actif net.",True
+317,prospectus_Natixis_FR001400U1Z4_2025-fr_table1.pdf,Quelle est la proportion attendue de TRS pendant la période de commercialisation ?,1, La proportion attendue d'actifs sous gestion qui fera l'objet d'un TRS est de 100% pendant la période de commercialisation.,True
+318,prospectus_Natixis_FR001400U1Z4_2025-fr_table1.pdf,Quelle est la proportion attendue de TRS après la période de commercialisation ?,"0%, elle pourra être portée à 70%", 70%,False
+319,prospectus_Natixis_FR001400U1Z4_2025-fr_table1.pdf,Quelle est la date d’agrément du FCP par l'AMF ?,2024-10-12T00:00:00, 16-12-2024,False
+320,prospectus_Natixis_FR001400U1Z4_2025-fr_table2.pdf,Quel est le taux maximum de frais de gestion financière applicable à ce Fonds ?,"2,25 % TTC", 1% TTC,False
+321,prospectus_Natixis_FR001400U1Z4_2025-fr_table2.pdf,Les commissions de surperformance sont-elles facturées à ce Fonds ?,Non, Non,True
+322,prospectus_Natixis_FR001400U1Z4_2025-fr_table2.pdf,Des commissions de mouvement sont-elles applicables ?,Non, Oui,False
+323,prospectus_Natixis_FR001400U1Z4_2025-fr_table2.pdf,Quel est le taux maximum des frais de fonctionnement et autres services ?,"0,25 % TTC", 0.25 % TTC,True
+324,prospectus_Natixis_FR001400U1Z4_2025-fr_table2.pdf,Quels types de frais sont exclus des frais opérationnels ?,En sont exclus tous frais relatifs à l’acquisition et à la cession des actifs de l’OPC et les frais relatifs au contrôle des risques,"
+Les frais de recherche dans le cadre du maintien du dépôt actuel des frais de recherche et les frais des données financières et extra-financières à usage de la gestion financière.",False
+325,prospectus_Natixis_FR001400U1Z4_2025-fr_table2.pdf,Quelle est l’assiette utilisée pour le calcul des frais de fonctionnement et autres services ?,Valeur Liquidative de Référence x Nombre de parts,"
+Nombre de parts",False
+326,prospectus_xtrackers_-fr_table1.pdf,Quelles sont les catégories d’actions présentées dans ce tableau ?,1C ; 1D ; 2C-USD Hedged ; 3C-GBP Hedged," 
+Les catégories d’actions présentées dans ce tableau sont :
+- SC
+- 1D
+- 2C-USD Hedged
+- 3C-GBP Hedged",False
+327,prospectus_xtrackers_-fr_table1.pdf,Quelle est la devise de dénomination de la catégorie d'actions 2C-USD Hedged ?,USD, USD,True
+328,prospectus_xtrackers_-fr_table1.pdf,Quelle est la commission globale maximale pour les catégories 2C et 3C ?,"Jusqu’à 0,30 % par an", 0.30 % par an,True
+329,prospectus_xtrackers_-fr_table1.pdf,Quelle catégorie d'actions peut verser un dividende ?,1D, 10 $,False
+330,prospectus_xtrackers_-fr_table1.pdf,Quel est le montant minimum de souscription initiale de la catégorie d'actions 2C-USD Hedged ?,20000 actions, 20 000 Actions,True
+331,prospectus_xtrackers_-fr_table1.pdf,Y a-t-il des frais de transaction sur le marché primaire pour la catégorie 1D ?,Oui, Non,False
+332,prospectus_xtrackers_-fr_table1.pdf,Qui prend en charge les taxes sur les transactions financières pour la catégorie 1C ?,Le compartiment, Le Compartiment prend en charge toute taxe applicable aux transactions financières qui lui serait imputée.,True
+333,prospectus_xtrackers_-fr_table1.pdf,Comment la commission de la Société de Gestion est-elle calculée pour les catégories d’actions du tableau présenté,correspond à un pourcentage maximum calculé chaque Jour d’évaluation sur la base de la Valeur Liquidative de la Catégorie d’Actions concernée.," La commission de la Société de Gestion est calculée à un pourcentage minimum de 0,02 % par an sur la base de la Valeur Liquidative de la Catégorie d’Actions concernée.",False
+334,prospectus_xtrackers_-fr_table1.pdf,Quel est le niveau anticipé d’Écart de suivi (Tracking Error) pour la catégorie d’actions 1D ?,Jusqu’à 1 %," 
+Jusqu’à 1 %",True
+335,prospectus_xtrackers_-fr_table2.pdf,"Quel est l’objectif d’investissement de ce compartiment ?
+
+",L’objectif est que votre investissement reflète la performance de l’indice FTSE 100 Index (l’« Indice de Référence ») dont le but est de refléter la performance des actions des 100 plus grandes sociétés britanniques cotées à la bourse de Londres. Les sociétés sont sélectionnées selon qu’elles ont la plus grande valeur combinée d’actions par rapport aux autres sociétés cotées à la bourse de Londres., L'objectif est que votre investissement reflète la performance de l'indice FTSE 100 Index.,True
+336,prospectus_xtrackers_-fr_table2.pdf,Quelle méthode de gestion est utilisée par le compartiment Xtrackers FTSE 100 Income UCITS ETF ?,Le Compartiment est géré de manière passive conformément à une Politique d’Investissement Direct et est un Compartiment à Réplication totale,"
+La méthode de gestion utilisée est la réplication totale.",True
+337,prospectus_xtrackers_-fr_table2.pdf,Quel type de politique de distribution est prévu pour ce compartiment ?,"Le Compartiment peut distribuer des dividendes jusqu’à quatre fois par an à l’égard de la/des Catégorie(s) d’Actions D. Le Conseil d’Administration peut toutefois décider, pour des raisons économiques ou d’autres raisons impérieuses, de ne distribuer ni acompte sur dividendes ni de proposer d’approbation du versement d’un dividende par l’assemblée générale annuelle de la Société."," Le Compartiment pourra distribuer des dividendes, laquelle sera gérée par un tiers Registrar de Londres.",False
+338,prospectus_xtrackers_-fr_table2.pdf,Quelles sont les restrictions d’investissement spécifiques appliquées ?,Le Compartiment n’investira pas plus de 10 % de ses actifs en parts ou actions d’autres OPCVM ou d’autres OPC," Le Compartiment n’investira pas plus de 10 % de ses actifs en parts ou actions d’autres OPCVM ou d’autres OPC, afin de demeurer dans les investissements éligibles à l’actif des OPCVM régis par la Direct",True
+339,prospectus_xtrackers_-fr_table2.pdf,Le compartiment Xtrackers FTSE 100 Income UCITS ETF offre-t-il une protection sur le capital investi ?,Non, Le compartiment n'offre aucune garantie ou protection du capital à quelque moment que ce soit.,True
+340,prospectus_xtrackers_-fr_table3.pdf,Quel indice est utilisé par le compartiment Xtrackers Xtrackers S&P 500 2x Inverse Daily Swap UCITS ETF ?,S&P 500 2x Inverse Daily Index,"
+S&P 500 2x Inverse Daily Index",True
+341,prospectus_xtrackers_-fr_table3.pdf,Quel compartiment utilise l'indice S&P Select Frontier Index ?,Xtrackers S&P Select Frontier Swap UCITS ETF, Xtrackers S&P Select Frontier Swap UCITS ETF,True
+342,prospectus_xtrackers_-fr_table3.pdf,Quel est l’administrateur de l’indice CAC 40 utilisé par Xtrackers CAC 40 UCITS ETF ?,Euronext Paris ,"
+Euronext Paris",True
+343,prospectus_xtrackers_-fr_table3.pdf,Quelle est l’autorité de surveillance compétente pour l’administrateur des indices S&P Dow Jones ?,Autorité néerlandaise de surveillance des marchés financiers (AFM) – NLAF,"
+Autorité compétente : Autorité fédérale de surveillance des marchés financiers (AFM) - NCAF",False
+344,prospectus_jp-morgan_JPMorgan-Funds-Russia-Fund-A-dist-USD-2022-fr_table1.pdf,Quelle est la date de lancement du compartiment ?,14 mai 2008, 14 mai 2008,True
+345,prospectus_jp-morgan_JPMorgan-Funds-Russia-Fund-A-dist-USD-2022-fr_table1.pdf,Quels sont les frais de souscription maximum pour la classe D (perf) ?,"5,00%","
+Les frais de souscription maximum pour la classe D (perf) sont de 3,50%.",False
+346,prospectus_jp-morgan_JPMorgan-Funds-Russia-Fund-A-dist-USD-2022-fr_table1.pdf,Quelle est l’heure limite pour que les ordres soient traités le jour même ?,avant 14 h 30 (CET) chaque Jour de valorisation,"
+14h30 (CET)",False
+347,prospectus_jp-morgan_JPMorgan-Funds-Russia-Fund-A-dist-USD-2022-fr_table1.pdf,Quelles classes n’appliquent aucune commission de performance ?,X,"
+Les classes d'actions suivantes n'appliquent aucune commission de performance :
+- Classe C (part I)
+- Classe D (part I)
+- Classe E (part I)
+- Classe F (part I)
+- Classe X (part",False
+348,prospectus_jp-morgan_JPMorgan-Funds-Russia-Fund-A-dist-USD-2022-fr_table1.pdf,Quelle classe applique une commission de rachat ?,A (perf) ; D (perf),"
+Classe C (part)",False
+349,prospectus_Ninety-One_Global-Strategy-Fund-Global-Strategic-Equity-Fund-A-Acc-EUR-2022-fr_table1.pdf,Le fonds Emerging Markets Sustainable Blended Debt Fund est-il exposé au risque lié à la notation de crédit en Chine ?,Oui,,True
+350,prospectus_Ninety-One_Global-Strategy-Fund-Global-Strategic-Equity-Fund-A-Acc-EUR-2022-fr_table1.pdf,Quels fonds sont exposés au risque lié à la fiscalité chinoise ?,Emerging Markets Sustainable Blended Debt Fund ; Global Dynamic Fund ; Global Environment Fund ; Global Equity Fund ; Global Franchise Fund ; Global Income Opportunities Fund ; Global Multi-Asset Income Fund ; Global Multi-Asset Sustainable Growth Fund (Euro) ; Global Multi-Asset Sustainable Growth Fund ; Global Macro Allocation Fund,"
+Emerging Markets Sustainable Equity, Emerging Markets Dividend Fund, Emerging Markets Equity, Emerging Markets Dynamic, Emerging Markets Improvement Fund, Global Equity, Global Franchise, Global Gold Fund, Global High Yield, Global Income",False
+351,prospectus_Ninety-One_Global-Strategy-Fund-Global-Strategic-Equity-Fund-A-Acc-EUR-2022-fr_table1.pdf,Combien de fonds sont exposés au risque  lié à la fiscalité chinoise ?,10, 1.,False
+352,prospectus_Ninety-One_Global-Strategy-Fund-Global-Strategic-Equity-Fund-A-Acc-EUR-2022-fr_table1.pdf,Le fonds European Equity Fund est-il exposé à un quelconque risque mentionné dans le tableau ?,Oui, Non,False
+353,prospectus_Ninety-One_Global-Strategy-Fund-Global-Strategic-Equity-Fund-A-Acc-EUR-2022-fr_table1.pdf,Le compartiment Global Multi-Asset Income Fund Global Multi-Asset est-il exposé au risque lié à aux positions à découvert ?,Oui,,True
+354,prospectus_Ninety-One_Global-Strategy-Fund-Global-Strategic-Equity-Fund-A-Acc-EUR-2022-fr_table1.pdf,Combien de compartiments sont exposés au risque d'effet de levier ?,7, 10,False
+355,prospectus_Ninety-One_Global-Strategy-Fund-Global-Strategic-Equity-Fund-A-Acc-EUR-2022-fr_table1.pdf,Quels sont les compartiments exposés au risque d'effet de levier ?,Emerging Markets Sustainable Blended Debt Fund ; Global High Yield Fund ; Global Income Opportunities Fund ; Global Multi-Asset Income Fund ; Global Multi-Asset Sustainable Growth Fund (Euro) ; Global Multi-Asset Sustainable Growth Fund ; Global Macro Allocation Fund ," Les compartiments exposés au risque d'effet de levier sont : Emerging Markets Sustainable Equity, Global High Yield, Global Income Opportunities, Income Multi-Asset (Euro), Sustainable Multi-Asset (Euro), Sustainable Multi-",False
+356,prospectus_Ninety-One_Global-Strategy-Fund-Global-Strategic-Equity-Fund-A-Acc-EUR-2022-fr_table2.pdf,Quel compartiment présente le niveau d’effet de levier attendu le plus élevé ?,Target Return Bond Fund," Le compartiment ""Global High Yield Fund"" présente le niveau d’effet de levier attendu le plus élevé avec 100 %.",False
+357,prospectus_Ninety-One_Global-Strategy-Fund-Global-Strategic-Equity-Fund-A-Acc-EUR-2022-fr_table2.pdf,Quel est le niveau d’effet de levier attendu pour le compartiment Global High Yield Fund ?,1, 100 %,True
+358,prospectus_Ninety-One_Global-Strategy-Fund-Global-Strategic-Equity-Fund-A-Acc-EUR-2022-fr_table2.pdf,Le compartiment Global Total Return Credit Fund utilise-t-il la méthode d’engagements pour l’exposition globale ?,Non, Non,True
+359,prospectus_Ninety-One_Global-Strategy-Fund-Global-Strategic-Equity-Fund-A-Acc-EUR-2022-fr_table2.pdf,Quels compartiments utilisent la méthode VaR absolue ?,Global Total Return Credit Fund ; Target Return Bond Fund ; Emerging Markets Local Currency Total Return Debt Fund,"
+- Global Total Return Credit Fund
+- Target Return Bond Fund
+- Emerging Markets Local Currency Total Return Debt Fund",True
+360,prospectus_Ninety-One_Global-Strategy-Fund-Global-Strategic-Equity-Fund-A-Acc-EUR-2022-fr_table2.pdf,Le compartiment Emerging Markets Hard Currency Debt Fund a-t-il un niveau d’effet de levier supérieur à celui du Emerging Markets Corporate Debt Fund ?,Non, Non,True
+361,prospectus_Ninety-One_Global-Strategy-Fund-Global-Strategic-Equity-Fund-A-Acc-EUR-2022-fr_table2.pdf,Le compartiment Emerging Markets Hard Currency Debt Fund a-t-il un niveau d’effet de levier égal à celui du Emerging Markets Corporate Debt Fund ?,Yes, Oui,True
+362,prospectus_Ninety-One_Global-Strategy-Fund-Global-Strategic-Equity-Fund-A-Acc-EUR-2022-fr_table2.pdf,Quels compartiments n’ont pas de portefeuille de référence indiqué ?,U.S. Dollar Money Fund ; Sterling Money Fund ; Global Total Return Credit Fund ; Target Return Bond Fund,"
+- U.S. Dollar Money Fund
+- Sterling Money Fund
+- Global Total Return Credit Fund
+- Target Return Bond Fund
+- Emerging Markets Local Currency Total Return Debt Fund",False
+363,prospectus_Ninety-One_Global-Strategy-Fund-Global-Strategic-Equity-Fund-A-Acc-EUR-2022-fr_table2.pdf,Quel est le portefeuille de référence utilisé pour le compartiment Emerging Markets Blended Debt Fund  ?,Indice JP Morgan JEMB Hard Currency/Local Currency 50-50, Indice JP Morgan JEMB Hard Currency/Local Currency 50/50,True
+364,prospectus_blackrock_BlackRock-Global-Funds-Asian-Growth-Leaders-Fund-E2-EUR-2022-fr_table1.pdf,Quelle est la catégorie du Asia Pacific Equity Income Fund qui a la commission de distribution la plus élevée ?,C, Catégorie I,False
+365,prospectus_blackrock_BlackRock-Global-Funds-Asian-Growth-Leaders-Fund-E2-EUR-2022-fr_table1.pdf,Quelle est la catégorie avec la commission de distribution la plus élevée pour le fonds Asian High Yield Bond Fund ?,Catégorie C, Catégorie C,True
+366,prospectus_blackrock_BlackRock-Global-Funds-Asian-Growth-Leaders-Fund-E2-EUR-2022-fr_table1.pdf,Vrai / Faux : La catégorie J a une commission de gestion de 0 % dans les deux fonds.,Vrai, Vrai,True
+367,prospectus_blackrock_BlackRock-Global-Funds-Asian-Growth-Leaders-Fund-E2-EUR-2022-fr_table1.pdf,Vrai / Faux : La catégorie D a une commission de gestion plus élevée que la catégorie C dans le Asian High Yield Bond Fund.,Faux, Vrai,False
+368,prospectus_blackrock_BlackRock-Global-Funds-Asian-Growth-Leaders-Fund-E2-EUR-2022-fr_table1.pdf,Oui /Non Est-ce que la catégorie D du Asian High Yield Bond Fund applique une commission de gestion de moins de 1 % ?,Oui, Oui,True

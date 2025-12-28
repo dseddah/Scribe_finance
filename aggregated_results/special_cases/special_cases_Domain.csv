@@ -1,0 +1,18 @@
+Domain,mistralai/Pixtral-Large-Instruct-2411,google/gemma-3-27b-it,Qwen/Qwen2.5-VL-72B-Instruct-AWQ,google/gemma-3-12b-it,Qwen/Qwen3-VL-8B-Instruct,Qwen/Qwen3-VL-32B-Instruct,mistralai/Pixtral-12B-2409
+Benchmark,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Commission de performance,0.0,0.0,0.0,0.0,0.5,0.5,0.0
+Devise,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+Durée,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+ESG,0.0,1.0,1.0,0.0,1.0,1.0,1.0
+Engagement,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Instruments,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Instruments dérivés,1.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0,1.0,0.3333333333333333
+Méthode de gestion,1.0,1.0,1.0,0.0,1.0,1.0,0.0
+Objectif d'investissement,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+Risques,0.3333333333333333,0.6666666666666666,1.0,0.3333333333333333,0.0,0.3333333333333333,0.0
+Répartition des investissements,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+Taux de prélevement,0.0,0.0,1.0,1.0,1.0,1.0,0.0
+Taux de rendement minimal cumulé ,1.0,1.0,1.0,0.0,1.0,1.0,0.0
+Type de marché,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+Valeur liquidative,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Average,0.6363636363636364,0.5454545454545454,0.7272727272727273,0.4090909090909091,0.6363636363636364,0.7272727272727273,0.2727272727272727

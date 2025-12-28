@@ -1,12 +1,7 @@
 logs/
-results/
 .venv/
 __pycache__/
 *.pyc
-
-# Results files
-results/
-aggregated_results/
 
 # MacOS files
 .DS_Store

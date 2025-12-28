@@ -3,13 +3,7 @@ id,conversation_id,file,question,answer,prediction,evaluation
 A. 29 500 $
 B. 38 375 $
 C. 39 725 $
-D. 40 000 $",C,"**C. 39 725 $**
-
----
-
-**Explication :**
-
-Pour répondre à cette question, il faut comprendre le contexte. Bien que la question ne précise pas le taux d’intérêt ou le type d’investissement, la réponse **C. 39",True
+D. 40 000 $",C,B. 38 375 $,False
 2,1.1,priip_heptagon_IE00B3N32X37-2023-fr_calcul_1.pdf,"Et par curiosité, cette valeur-là, elle dépasse de combien celle du scénario intermédiaire sur la même période ?
 A. Environ 7 625 $
 B. Un peu plus de 5 000 $
@@ -24,7 +18,7 @@ D. 43 750 $",B,D,False
 A. 9 250 $
 B. 12 750 $
 C. 11 625 $
-D. 19 650 $",C,C,True
+D. 19 650 $",C,B,False
 5,1.1,priip_heptagon_IE00B3N32X37-2023-fr_calcul_1.pdf,"Et si je garde mes 25 000 $ 5 ans dans ce même scénario de tensions, je retombe à quoi ?
 A. 5 275 $
 B. 8 000 $
@@ -34,7 +28,7 @@ D. 5 000 $",A,A,True
 A. 8 %
 B. 0,8 %
 C. 3,8 %
-D. Impossible à dire",C,C,True
+D. Impossible à dire",C,A,False
 7,1.1,priip_heptagon_IE00B3N32X37-2023-fr_calcul_1.pdf,"Et si j’investis 25 000 $ avec le même scénario, et j’applique la même baisse au bout de 5 ans. J’obtiens environ ?
 A. 24 050 $
 B. 24 010 $
@@ -59,13 +53,7 @@ D. Seulement pour les rendements positifs",C,C,True
 A. 500 €
 B. 2 %
 C. 625 €
-D. 700 €",A,"**C. 625 €**
-
----
-
-**Explication :**
-
-Dans de nombreux fonds d’investissement, les **frais d’entrée** (ou frais de souscription) sont souvent exprimés en **pourcentage** du montant investi. Si le taux est de **2",False
+D. 700 €",A,C. 625 €,False
 12,2.1,priip_gay-lussac_FR0010178665-fr_calcul_1.pdf,"Et si je prends cette même somme pour la part I ou R, j’aurais une différence au niveau des frais ?
 A. Oui, les frais sont plus élevés pour la part R
 B. Non, c’est toujours 2 %, donc le même coût
@@ -115,20 +103,7 @@ D. C’est déduit des frais de sortie",B,B,True
 A. 13 540 USD
 B. 10 630 USD
 C. 16 410 USD
-D. 17 530 USD",C,"**C. 16 410 USD**
-
----
-
-**Explication :**
-
-Il s’agit d’un calcul d’**intérêts composés**. La formule est :
-
-\[
-A = P \times (1 + r)^t
-\]
-
-où :
-- \( A \)",True
+D. 17 530 USD",C,C. 16 410 USD,True
 22,3.1,priip_artisan_IE00B8Q6N977-2022-fr_calcul_1.pdf,"Et dans ce cas-là, sur un an, mon rendement en pourcentage, c’est bien ce fameux 64 % qu’on voit ?
 A. Oui, exactement
 B. Non, c’est sur 5 ans
@@ -178,13 +153,7 @@ D. Oui, c’est entre tensions et défavorable",B,B,True
 A. 168 USD
 B. 1.7 %
 C. 841 USD
-D. 10 000 USD",A,"**C. 841 USD**
-
----
-
-**Explication :**
-
-Le tableau (non fourni ici, mais typique dans ce genre de question) montre probablement les **coûts cumulés** ou les **frais de sortie** selon la durée d’investissement et le montant",False
+D. 10 000 USD",A,A. 168 USD,True
 32,4.1,priip_capital-group_LU1378994856-2022-fr_calcul_1.pdf,"Et si on investi le nombre d'années correspondant à la seconde période de détention présentée, le coût total passe à combien ?
 A. 168 USD
 B. 525 USD
@@ -229,20 +198,12 @@ D. Ce n’est pas mentionné",B,B,True
 A. Oui, on a les chiffres exacts
 B. Non, cette info n’est pas dans le document
 C. Oui, ils sont dans une note de bas de page
-D. On peut l’estimer à partir du rendement",B,"**B. Non, cette info n’est pas dans le document**
-
-**Explication :**  
-La question porte sur la disponibilité de données précises concernant le nombre d’investisseurs ayant suivi une stratégie ou un scénario modéré. Dans un contexte typique de document financier,",True
+D. On peut l’estimer à partir du rendement",B,"B. Non, cette info n’est pas dans le document",True
 41,5.1,priip_sofidy_FR0013260288_2023-fr_calcul_1.pdf,"D’après le document, à quel niveau de risque est classé ce produit sur une échelle de 1 à 7 ?
 A. Niveau 1 – Risque très faible
 B. Niveau 2 – Risque faible
 C. Niveau 5 – Risque modéré
-D. Niveau 7 – Risque très élevé",B,"**C. Niveau 5 – Risque modéré**
-
-*Explication :*  
-Le document mentionne que le produit est classé **« Niveau 5 – Risque modéré »**. C’est la réponse correcte parmi les options proposées.
-
-✅ **Réponse finale : C.",False
+D. Niveau 7 – Risque très élevé",B,D. Niveau 7 – Risque très élevé,False
 42,5.1,priip_sofidy_FR0013260288_2023-fr_calcul_1.pdf,"D’accord, donc c’est plutôt rassurant. Mais ce niveau de risque est-il garanti si on sort avant les 8 ans ?
 A. Oui, le niveau reste le même quelle que soit la durée
 B. Oui, car le produit est stable
@@ -292,9 +253,7 @@ D. On ne sait pas",B,B,True
 A. Distribution trimestrielle
 B. Capitalisation
 C. Distribution annuelle
-D. Non précisée",B,"**A. Distribution trimestrielle**
-
-La catégorie **""USD Hedged ACC""** (Accumulating, Hedged in USD) est généralement conçue pour les investisseurs souhaitant une exposition en USD avec une protection contre les fluctuations de change, et elle est souvent **accumulative**,",False
+D. Non précisée",B,B. Capitalisation,True
 52,6.1,prospectus_fidelity_2024_calcul_1.pdf,"Et la catégorie précédente dans le tableau (la ligne précédente), c’est le même principe ?
 A. Oui, c’est aussi en capitalisation
 B. Non, c’est une distribution
@@ -319,13 +278,7 @@ D. 8",B,B,True
 A. EUR Hedged Acc
 B. P EUR Acc non coté
 C. P EUR Inc non coté
-D. Acc USD",B,"**B. P EUR Acc non coté**
-
----
-
-### Explication :
-
-Tu veux investir dans **une part non ETF** en **EUR** avec **capitalisation** (c’est-à-dire que tu veux un fonds qui ne se base pas sur un ETF, mais sur une gestion active",False
+D. Acc USD",B,C. P EUR Inc non coté,False
 57,6.09999999999999,prospectus_fidelity_2024_calcul_1.pdf,"Est-ce qu’on connaît la date de fin de la période d’offre initiale pour toutes ces catégories ?
 A. Oui, c’est toujours janvier 2025
 B. Non, certaines n’ont pas cette info
@@ -350,9 +303,7 @@ D. On ne peut pas le savoir",B,B,True
 A. 3,5 %
 B. 5 %
 C. 0 %
-D. 2,19 %",B,"**D. 2,19 %**
-
-Les frais d’entrée maximum pour ce fonds s’élèvent à **2,19 %**, ce qui correspond à la limite légale en vigueur pour les fonds d’investissement en France (notamment pour les fonds de placement en",False
+D. 2,19 %",B,B. 5 %,True
 62,7.1,priip_primonial_FR0013228715-fr_calcul_1.pdf,"Ok, donc si j’investis 20 000 €, combien pourrait être réellement être investi dans ce cas ?
 A. 20 000 €
 B. 9 500 €

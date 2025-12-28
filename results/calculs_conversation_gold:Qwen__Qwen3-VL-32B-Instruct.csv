@@ -3,13 +3,7 @@ id,question,answer,prediction,Qwen__Qwen3-32B,meta-llama__Llama-3.3-70B-Instruct
 A. 29 500 $
 B. 38 375 $
 C. 39 725 $
-D. 40 000 $",C,"**C. 39 725 $**
-
----
-
-**Explication :**
-
-On nous dit que l’investissement est de **25 000 $** et que le **scénario favorable se réalise au bout d’un an**. Pour déterminer le montant final,",True,True,True,True
+D. 40 000 $",C,C. 39 725 $,True,True,True,True
 2,"Et par curiosité, cette valeur-là, elle dépasse de combien celle du scénario intermédiaire sur la même période ?
 A. Environ 7 625 $
 B. Un peu plus de 5 000 $
@@ -59,13 +53,7 @@ D. Seulement pour les rendements positifs",C,C,True,True,True,True
 A. 500 €
 B. 2 %
 C. 625 €
-D. 700 €",A,"**C. 625 €**
-
----
-
-**Explication :**
-
-La **part A** d’un contrat d’assurance-vie est soumise à des **frais d’entrée** (ou frais de souscription), qui sont **plafonnés à 2,5 %** du mont",False,False,False,False
+D. 700 €",A,A. 500 €,True,True,True,True
 12,"Et si je prends cette même somme pour la part I ou R, j’aurais une différence au niveau des frais ?
 A. Oui, les frais sont plus élevés pour la part R
 B. Non, c’est toujours 2 %, donc le même coût
@@ -115,17 +103,7 @@ D. C’est déduit des frais de sortie",B,B,True,True,True,True
 A. 13 540 USD
 B. 10 630 USD
 C. 16 410 USD
-D. 17 530 USD",C,"**C. 16 410 USD**
-
----
-
-**Explication :**
-
-Le scénario favorable correspond à une **croissance de 64,1 %** sur un an.
-
-Si tu investis **10 000 USD**, alors :
-
-> 10 000",True,True,True,True
+D. 17 530 USD",C,C. 16 410 USD,True,True,True,True
 22,"Et dans ce cas-là, sur un an, mon rendement en pourcentage, c’est bien ce fameux 64 % qu’on voit ?
 A. Oui, exactement
 B. Non, c’est sur 5 ans
@@ -175,15 +153,7 @@ D. Oui, c’est entre tensions et défavorable",B,B,True,True,True,True
 A. 168 USD
 B. 1.7 %
 C. 841 USD
-D. 10 000 USD",A,"**A. 168 USD**
-
----
-
-**Explication :**
-
-La question demande le **montant total des coûts** si l’on sort du produit après **1 an** avec **10 000 USD investi au départ**.
-
-Dans ce type de question, on cherche généra",True,True,True,True
+D. 10 000 USD",A,A. 168 USD,True,True,True,True
 32,"Et si on investi le nombre d'années correspondant à la seconde période de détention présentée, le coût total passe à combien ?
 A. 168 USD
 B. 525 USD
@@ -228,16 +198,12 @@ D. Ce n’est pas mentionné",B,B,True,True,True,True
 A. Oui, on a les chiffres exacts
 B. Non, cette info n’est pas dans le document
 C. Oui, ils sont dans une note de bas de page
-D. On peut l’estimer à partir du rendement",B,"**B. Non, cette info n’est pas dans le document**
-
-**Explication :** La question porte sur le nombre d’investisseurs ayant suivi une stratégie ou un scénario modéré. Sans avoir accès au document mentionné, on ne peut pas confirmer s’il contient ces",False,True,True,True
+D. On peut l’estimer à partir du rendement",B,"B. Non, cette info n’est pas dans le document",True,True,True,True
 41,"D’après le document, à quel niveau de risque est classé ce produit sur une échelle de 1 à 7 ?
 A. Niveau 1 – Risque très faible
 B. Niveau 2 – Risque faible
 C. Niveau 5 – Risque modéré
-D. Niveau 7 – Risque très élevé",B,"D. Niveau 7 – Risque très élevé
-
-*(Note : Cette réponse suppose que le document mentionné classe le produit au niveau 7. Si vous avez un document spécifique à consulter, veuillez le fournir pour une réponse exacte. En l’absence de document, cette réponse est",False,False,False,False
+D. Niveau 7 – Risque très élevé",B,B. Niveau 2 – Risque faible,True,True,True,True
 42,"D’accord, donc c’est plutôt rassurant. Mais ce niveau de risque est-il garanti si on sort avant les 8 ans ?
 A. Oui, le niveau reste le même quelle que soit la durée
 B. Oui, car le produit est stable
@@ -287,9 +253,7 @@ D. On ne sait pas",B,B,True,True,True,True
 A. Distribution trimestrielle
 B. Capitalisation
 C. Distribution annuelle
-D. Non précisée",B,"**B. Capitalisation**
-
-La catégorie **""USD Hedged ACC""** (Accumulation) est une catégorie de part qui **capitalise** les revenus (dividendes, intérêts, etc.) plutôt que de les distribuer. Le terme **""ACC""** signifie précisément",True,True,True,True
+D. Non précisée",B,B. Capitalisation,True,True,True,True
 52,"Et la catégorie précédente dans le tableau (la ligne précédente), c’est le même principe ?
 A. Oui, c’est aussi en capitalisation
 B. Non, c’est une distribution
@@ -314,13 +278,7 @@ D. 8",B,B,True,True,True,True
 A. EUR Hedged Acc
 B. P EUR Acc non coté
 C. P EUR Inc non coté
-D. Acc USD",B,"**B. P EUR Acc non coté**
-
----
-
-### Explication :
-
-Tu cherches à investir dans une **part non ETF** (donc pas un produit échangé en bourse), en **EUR**, avec **capitalisation** (c’est-à-dire que les dividendes sont réinvest",False,True,True,True
+D. Acc USD",B,B. P EUR Acc non coté,True,True,True,True
 57,"Est-ce qu’on connaît la date de fin de la période d’offre initiale pour toutes ces catégories ?
 A. Oui, c’est toujours janvier 2025
 B. Non, certaines n’ont pas cette info
@@ -345,11 +303,7 @@ D. On ne peut pas le savoir",B,B,True,True,True,True
 A. 3,5 %
 B. 5 %
 C. 0 %
-D. 2,19 %",B,"**C. 0 %**
-
-Les frais d’entrée maximum pour ce fonds sont de **0 %**. Cela signifie qu’il n’y a **aucun frais de souscription** à payer lors de l’investissement dans ce fonds.
-
-> ⚠️ *Note : Cette réponse",False,False,False,False
+D. 2,19 %",B,B. 5 %,True,True,True,True
 62,"Ok, donc si j’investis 20 000 €, combien pourrait être réellement être investi dans ce cas ?
 A. 20 000 €
 B. 9 500 €

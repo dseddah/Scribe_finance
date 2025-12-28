@@ -3,9 +3,7 @@ id,question,answer,prediction,google__gemma-3-27b-it,Qwen__Qwen3-32B,meta-llama_
 A. 29 500 $
 B. 38 375 $
 C. 39 725 $
-D. 40 000 $",C,"C. 39 725 $
-
-Pour déterminer combien vous obtiendrez à la fin de l'année si le scénario favorable se réalise, nous devons calculer le rendement de votre investissement. Si vous investissez 25 000 $ et que vous obtenez un rendement",True,True,True,True
+D. 40 000 $",C,C,True,True,True,True
 2,"Et par curiosité, cette valeur-là, elle dépasse de combien celle du scénario intermédiaire sur la même période ?
 A. Environ 7 625 $
 B. Un peu plus de 5 000 $
@@ -55,9 +53,7 @@ D. Seulement pour les rendements positifs",C,C,True,True,True,True
 A. 500 €
 B. 2 %
 C. 625 €
-D. 700 €",A,"C. 625 €
-
-Explanation: The maximum entry fee for placing 25,000 € on part A is 625 €. This is calculated as 2.5% of the amount placed, which is 25,000 € * 2.5",False,False,False,False
+D. 700 €",A,C,False,False,False,False
 12,"Et si je prends cette même somme pour la part I ou R, j’aurais une différence au niveau des frais ?
 A. Oui, les frais sont plus élevés pour la part R
 B. Non, c’est toujours 2 %, donc le même coût
@@ -107,9 +103,7 @@ D. C’est déduit des frais de sortie",B,B,True,True,True,True
 A. 13 540 USD
 B. 10 630 USD
 C. 16 410 USD
-D. 17 530 USD",C,"D. 17 530 USD
-
-Pour déterminer combien vous obtiendrez après un an si le scénario favorable se réalise, nous devons calculer le rendement de votre investissement. Cependant, sans connaître le taux de rendement ou les détails spécifiques de l'investissement, nous ne pouvons pas effectuer",False,False,False,False
+D. 17 530 USD",C,D,False,False,False,False
 22,"Et dans ce cas-là, sur un an, mon rendement en pourcentage, c’est bien ce fameux 64 % qu’on voit ?
 A. Oui, exactement
 B. Non, c’est sur 5 ans
@@ -159,9 +153,7 @@ D. Oui, c’est entre tensions et défavorable",B,B,True,True,True,True
 A. 168 USD
 B. 1.7 %
 C. 841 USD
-D. 10 000 USD",A,"C
-
-Pour déterminer le montant total des coûts si l’on sort du produit après 1 an avec 10 000 USD investis au départ, nous devons examiner les données fournies dans le tableau. Cependant, sans le tableau spécifique, nous devons faire des hypothèses ou des calculs basés",False,False,False,False
+D. 10 000 USD",A,A,True,True,True,True
 32,"Et si on investi le nombre d'années correspondant à la seconde période de détention présentée, le coût total passe à combien ?
 A. 168 USD
 B. 525 USD
@@ -206,14 +198,12 @@ D. Ce n’est pas mentionné",B,B,True,True,True,True
 A. Oui, on a les chiffres exacts
 B. Non, cette info n’est pas dans le document
 C. Oui, ils sont dans une note de bas de page
-D. On peut l’estimer à partir du rendement",B,"B. Non, cette info n’est pas dans le document
-
-Le document ne fournit pas d'informations spécifiques sur le nombre d'investisseurs ayant suivi cette stratégie ou ce scénario modéré.",True,True,True,True
+D. On peut l’estimer à partir du rendement",B,B,True,True,True,True
 41,"D’après le document, à quel niveau de risque est classé ce produit sur une échelle de 1 à 7 ?
 A. Niveau 1 – Risque très faible
 B. Niveau 2 – Risque faible
 C. Niveau 5 – Risque modéré
-D. Niveau 7 – Risque très élevé",B,D. Niveau 7 – Risque très élevé,False,False,False,False
+D. Niveau 7 – Risque très élevé",B,B,True,True,True,True
 42,"D’accord, donc c’est plutôt rassurant. Mais ce niveau de risque est-il garanti si on sort avant les 8 ans ?
 A. Oui, le niveau reste le même quelle que soit la durée
 B. Oui, car le produit est stable
@@ -263,9 +253,7 @@ D. On ne sait pas",B,B,True,True,True,True
 A. Distribution trimestrielle
 B. Capitalisation
 C. Distribution annuelle
-D. Non précisée",B,"D. Non précisée
-
-La politique de distribution de dividendes pour la catégorie ""USD Hedged ACC"" n'est pas précisée. Il est important de vérifier les documents officiels ou les informations fournies par l'émetteur pour obtenir des détails spécifiques sur la politique de distribution des dividendes.",False,False,False,False
+D. Non précisée",B,B,True,True,True,True
 52,"Et la catégorie précédente dans le tableau (la ligne précédente), c’est le même principe ?
 A. Oui, c’est aussi en capitalisation
 B. Non, c’est une distribution
@@ -290,11 +278,7 @@ D. 8",B,B,True,True,True,True
 A. EUR Hedged Acc
 B. P EUR Acc non coté
 C. P EUR Inc non coté
-D. Acc USD",B,"B. P EUR Acc non coté
-
-Here's why:
-
-- ""P EUR Acc non coté"" stands for ""Pan-European Equity Accumulation (non-listed)"". This means it's a non-listed fund that invests in European equities, and it's an accumulation (Acc) share class,",True,True,True,True
+D. Acc USD",B,B,True,True,True,True
 57,"Est-ce qu’on connaît la date de fin de la période d’offre initiale pour toutes ces catégories ?
 A. Oui, c’est toujours janvier 2025
 B. Non, certaines n’ont pas cette info
@@ -319,9 +303,7 @@ D. On ne peut pas le savoir",B,B,True,True,True,True
 A. 3,5 %
 B. 5 %
 C. 0 %
-D. 2,19 %",B,"D. 2,19 %
-
-Les frais d'entrée maximum pour ce fonds sont de 2,19 %.",False,False,False,False
+D. 2,19 %",B,B,True,True,True,True
 62,"Ok, donc si j’investis 20 000 €, combien pourrait être réellement être investi dans ce cas ?
 A. 20 000 €
 B. 9 500 €

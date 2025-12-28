@@ -1,0 +1,44 @@
+id,question,answer,prediction,meta-llama__Llama-3.3-70B-Instruct,Qwen__Qwen3-32B,google__gemma-3-27b-it,majority_vote
+1,Quel est le niveau maximum d’engagement autorisé sur les instruments dérivés ?,100% de l’actif net, 100% de l'actif net,True,True,True,True
+2,Quels types de marchés sont utilisés pour les instruments dérivés ?,Marchés réglementés ; Marchés organisés ; Marchés de gré à gré,"
+- les marchés de gré à gré ;
+- les marchés organisés.",True,True,False,True
+3,Quelle case n'est pas cochée parmi les risques sur lesquels le gérant désire intervenir ?,autres risques,"
+autres risques",True,True,True,True
+4,Quels sont les risques sur lesquels le gérant peut intervenir ?,action ; taux ; change ; crédit,"
+- action ;
+- taux ;
+- change ;
+- crédit ;
+- autres risques.",False,False,False,False
+5,Quelles sont les interventions autorisées avec les instruments dérivés ?,couverture ; exposition,"
+Les interventions autorisées avec les instruments dérivés sont la couverture, l'exposition, la liquidité et une autre nature à préciser.",False,False,False,False
+6,Quels instruments dérivés spécifiques peuvent être utilisés par le compartiment ?,Futures ; Options ; Swaps ; Change à terme ; Dérivés de crédit (CDS) ; Credit Default Swap (CDS),"
+- options ;
+- swaps ;
+- contrats à terme ;
+- dérivés de crédit (Credit Default Swap (CDS)).",False,True,True,True
+7,Est-il précisé que les anticipations du gestionnaire peuvent influencer l’usage des dérivés ?,Oui, Oui,True,True,True,True
+8,Quel est le taux maximum de commission de performance pouvant être prélevé ?,Aucune commission de performance d’une catégorie d’actions ne peut dépasser 10 % de sa VL quotidienne moyenne sur l’exercice financier annuel de la SICAV,"
+Le taux maximum de commission de performance pouvant être prélevé est de 12 décimales.",False,False,False,False
+9,Dans quelles conditions la commission de performance est-elle comptabilisée selon le prospectus ?,VL ajustée > seuil plafond ajusté + taux de rendement minimal cumulé, La commission de performance est comptabilisée si VL quotée > seuil plafond ajusté + taux de rendement minimal cumulé.,False,True,False,False
+10,Le taux de rendement minimal cumulé est-il bien calculé selon cette formule :  taux de rendement  minimal × nombre de jours civils depuis le dernier paiement de la commission de performance (ou le lancement) ÷ nombre de jours civils dans l'année,Oui, Oui,True,True,True,True
+11,"Selon ce document, quelle est la formule utilisée pour calculer la valeur liquidative ajustée (VL ajustée) d'une catégorie d’actions ?",actifs de la catégorie d’actions + tous les dividendes payés depuis le dernier paiement de la commission de performance (ou le lancement) + toute commission de performance comptabilisée (pas encore payée) - tout ajustement du swing pricing ÷ nombre d’actions = VL ajustée,"
+La VL ajustée est calculée en prenant le dernier cours de marché de l'indice de marché précédent, auquel on ajoute le rendement cumulé de l'indice de marché depuis le dernier jour de valorisation.",False,False,False,False
+12,À quel moment la commission de performance commence-t-elle à être comptabilisée dans la valeur liquidative ?,La commission de performance est comptabilisée lorsque VL ajustée > seuil plafond ajusté + taux de rendement minimal cumulé, La commission de performance est comptabilisée dans la valeur liquidative à la fin de chaque semestre.,False,False,False,False
+13,Quel est l’objectif principal du compartiment Japan Growth Fund ?,Le Compartiment cherche à atteindre une croissance du capital sur le long terme, Le Compartiment cherche à offrir une croissance du capital sur le long terme.,True,True,True,True
+14,Quelle proportion minimale des actifs est investie dans des actions japonaises ?,"Le Compartiment investit au moins 70 % de ses actifs dans des actions de sociétés qui sont cotées, qui ont leur siège social ou qui exercent la majeure partie de leur activité au Japon", 70 %,True,True,True,True
+15,Dans quel but le fonds utilise t-il des instruments dérivés ?,"Le Compartiment peut utiliser des instruments dérivés à des fins de couverture, d’investissement et de gestion efficace du portefeuille"," Le Compartiment peut utiliser des instruments dérivés à des fins de couverture, d'investissement et de gestion efficace du portefeuille.",True,True,True,True
+16,Quels instruments spécifiques peuvent être utilisés en plus des instruments dérivés de base ?,TRS (y compris des CFD) ; Prêt de titres ; Accords de prise et mise en pension,"
+Les instruments spécifiques qui peuvent être utilisés en plus des instruments dérivés de base sont les méthodes d'évaluation des risques et les techniques pour la couverture des risques de change.",False,False,False,False
+17,Quelle est la limite d’utilisation maximale des TRS dans le fonds ?,10 %,"
+La limite d’utilisation maximale des TRS dans le fonds est de 10 %.",True,True,True,True
+18,Quelle est l’indice de référence utilisé à titre comparatif ?,TOPIX Total Return Index,"
+TOPIX Total Return Index",True,True,True,True
+19,Quelle est la devise de référence du compartiment Japan Growth Fund?,JPY,"
+JPY",True,True,True,True
+20,Quelle méthode de gestion des risques est utilisée ?,Par les engagements,"
+La méthode de gestion des risques utilisée est l'engagement.",True,True,True,True
+21,Quelle est la durée de détention recommandée ?,au moins 4 ans,"
+La durée de détention recommandée est d'au moins 4 ans.",True,True,True,True
+22,Ce produit financier a-t-il un objectif d'investissement durable ?,Non, OUI,False,False,False,False

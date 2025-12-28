@@ -3,12 +3,7 @@ id,conversation_id,file,question,answer,prediction,evaluation
 A. 29 500 $
 B. 38 375 $
 C. 39 725 $
-D. 40 000 $",C,"C. 39 725 $
-
-Here's how to calculate the approximate return:
-
-*   **Assumed Return:** The question implies a return rate to reach the given options. Let's assume a 57.5% return on the investment.
-*   **Calculation:**",True
+D. 40 000 $",C,B. 38 375 $,False
 2,1.1,priip_heptagon_IE00B3N32X37-2023-fr_calcul_1.pdf,"Et par curiosité, cette valeur-là, elle dépasse de combien celle du scénario intermédiaire sur la même période ?
 A. Environ 7 625 $
 B. Un peu plus de 5 000 $
@@ -58,17 +53,7 @@ D. Seulement pour les rendements positifs",C,C,True
 A. 500 €
 B. 2 %
 C. 625 €
-D. 700 €",A,"B. 2 %
-
-Explanation:
-
-The maximum entry fees are 2% of the amount invested.
-
-Therefore, for an investment of €25,000, the maximum entry fees would be:
-
-€25,000 * 2% = €500
-
-So the",False
+D. 700 €",A,A. 500 €,True
 12,2.1,priip_gay-lussac_FR0010178665-fr_calcul_1.pdf,"Et si je prends cette même somme pour la part I ou R, j’aurais une différence au niveau des frais ?
 A. Oui, les frais sont plus élevés pour la part R
 B. Non, c’est toujours 2 %, donc le même coût
@@ -118,12 +103,7 @@ D. C’est déduit des frais de sortie",B,B,True
 A. 13 540 USD
 B. 10 630 USD
 C. 16 410 USD
-D. 17 530 USD",C,"C. 16 410 USD
-
-Here's how to calculate that:
-
-*   **Assumed Return:** The question implies a return of 64.1% in the favorable scenario.
-*   **Calculation:** $10,000 + ($10,00",True
+D. 17 530 USD",C,D. 17 530 USD,False
 22,3.1,priip_artisan_IE00B8Q6N977-2022-fr_calcul_1.pdf,"Et dans ce cas-là, sur un an, mon rendement en pourcentage, c’est bien ce fameux 64 % qu’on voit ?
 A. Oui, exactement
 B. Non, c’est sur 5 ans
@@ -173,14 +153,7 @@ D. Oui, c’est entre tensions et défavorable",B,B,True
 A. 168 USD
 B. 1.7 %
 C. 841 USD
-D. 10 000 USD",A,"C. 841 USD
-
-Here's how to determine the answer:
-
-*   **The question asks for the total costs after 1 year.**
-*   **The table shows the following costs:**
-    *   Transaction fees: 168 USD
-    *   Storage fees:",False
+D. 10 000 USD",A,A. 168 USD,True
 32,4.1,priip_capital-group_LU1378994856-2022-fr_calcul_1.pdf,"Et si on investi le nombre d'années correspondant à la seconde période de détention présentée, le coût total passe à combien ?
 A. 168 USD
 B. 525 USD
@@ -225,16 +198,12 @@ D. Ce n’est pas mentionné",B,B,True
 A. Oui, on a les chiffres exacts
 B. Non, cette info n’est pas dans le document
 C. Oui, ils sont dans une note de bas de page
-D. On peut l’estimer à partir du rendement",B,"**B. Non, cette info n’est pas dans le document**
-
-Without the document itself, it's impossible to know for sure. However, the question implies that the document doesn't provide this specific information. The other options suggest the information *is* present, which contradicts that implication.",False
+D. On peut l’estimer à partir du rendement",B,B,True
 41,5.1,priip_sofidy_FR0013260288_2023-fr_calcul_1.pdf,"D’après le document, à quel niveau de risque est classé ce produit sur une échelle de 1 à 7 ?
 A. Niveau 1 – Risque très faible
 B. Niveau 2 – Risque faible
 C. Niveau 5 – Risque modéré
-D. Niveau 7 – Risque très élevé",B,"C. Niveau 5 – Risque modéré
-
-To answer this question, I need the document you are referring to. However, based on the options provided, the correct answer is C. Niveau 5 – Risque modéré.",False
+D. Niveau 7 – Risque très élevé",B,B,True
 42,5.1,priip_sofidy_FR0013260288_2023-fr_calcul_1.pdf,"D’accord, donc c’est plutôt rassurant. Mais ce niveau de risque est-il garanti si on sort avant les 8 ans ?
 A. Oui, le niveau reste le même quelle que soit la durée
 B. Oui, car le produit est stable
@@ -284,12 +253,7 @@ D. On ne sait pas",B,B,True
 A. Distribution trimestrielle
 B. Capitalisation
 C. Distribution annuelle
-D. Non précisée",B,"**C. Distribution annuelle**
-
-Here's why:
-
-*   **USD Hedged ACC** funds (Accumulating USD Hedged) are designed to reinvest income, including dividends, back into the fund. This means they don't typically distribute dividends to investors.
-*   While some funds might occasionally make",False
+D. Non précisée",B,B,True
 52,6.1,prospectus_fidelity_2024_calcul_1.pdf,"Et la catégorie précédente dans le tableau (la ligne précédente), c’est le même principe ?
 A. Oui, c’est aussi en capitalisation
 B. Non, c’est une distribution
@@ -314,12 +278,7 @@ D. 8",B,B,True
 A. EUR Hedged Acc
 B. P EUR Acc non coté
 C. P EUR Inc non coté
-D. Acc USD",B,"**A. EUR Hedged Acc**
-
-Here's why:
-
-*   **EUR Hedged:** This indicates the investment is hedged against Euro currency fluctuations. You specifically want to invest in EUR, so this is crucial.
-*   **Acc (Accumulating):** This means that any dividends or income",False
+D. Acc USD",B,A,False
 57,6.09999999999999,prospectus_fidelity_2024_calcul_1.pdf,"Est-ce qu’on connaît la date de fin de la période d’offre initiale pour toutes ces catégories ?
 A. Oui, c’est toujours janvier 2025
 B. Non, certaines n’ont pas cette info
@@ -334,7 +293,7 @@ D. On peut l’estimer par comparaison",B,A,False
 A. 2
 B. 3
 C. 4
-D. 5",C,5,False
+D. 5",C,C,True
 60,6.09999999999999,prospectus_fidelity_2024_calcul_1.pdf,"Est-ce que le prix d’offre varie entre les catégories d’actions ?
 A. Celon qu'elles soient ETF ou non le prix varie
 B. C’est toujours 5 unités dans chaque devise
@@ -344,9 +303,7 @@ D. On ne peut pas le savoir",B,A,False
 A. 3,5 %
 B. 5 %
 C. 0 %
-D. 2,19 %",B,"A. 3,5 %
-
-The maximum front-end load for this fund is 3.5%.",False
+D. 2,19 %",B,B. 5 %,True
 62,7.1,priip_primonial_FR0013228715-fr_calcul_1.pdf,"Ok, donc si j’investis 20 000 €, combien pourrait être réellement être investi dans ce cas ?
 A. 20 000 €
 B. 9 500 €
