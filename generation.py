@@ -19,10 +19,10 @@ def main(model_name: str, task: str, datasets_path: Path):
         )
         return
 
-    if model_name == "mistralai/Pixtral-12B-2409":
+    if model_name.startswith("mistralai"):
         tested_llm = LLM(
             model=model_name,
-            max_model_len=16384,
+            max_model_len=8192,
             tokenizer_mode="mistral",
             config_format="mistral",
             load_format="mistral",
@@ -34,10 +34,11 @@ def main(model_name: str, task: str, datasets_path: Path):
     else:
         tested_llm = LLM(
             model=model_name,
-            max_model_len=16384,
-            tensor_parallel_size=len(os.environ["SLURM_GPUS_ON_NODE"].split(","))
-            if os.environ.get("SLURM_GPUS_ON_NODE")
+            max_model_len=8192,
+            tensor_parallel_size=len(os.environ["CUDA_VISIBLE_DEVICES"].split(","))
+            if os.environ.get("CUDA_VISIBLE_DEVICES")
             else 1,
+            limit_mm_per_prompt={"image": 1},
         )
 
     match task:
