@@ -73,16 +73,34 @@ def build_conversational_prompt(
             }
         )
 
-    prompt += [
-        {
-            "role": "user",
-            "content": question,
-        },
-        {
-            "role": "assistant",
-            "content": "Answer:",
-        },
-    ]
+    if len(previous_questions) == 0:
+        prompt += [
+            {
+                "role": "user",
+                "content": [
+                    {"type": "image_url", "image_url": {"url": image}},
+                    {
+                        "type": "text",
+                        "text": f"Answer all questions concisely based on the image provided. Don't include any explanations. {question}",
+                    },
+                ],
+            },
+            {
+                "role": "assistant",
+                "content": "Answer:",
+            },
+        ]
+    else:
+        prompt += [
+            {
+                "role": "user",
+                "content": question,
+            },
+            {
+                "role": "assistant",
+                "content": "Answer:",
+            },
+        ]
 
     return prompt
 
