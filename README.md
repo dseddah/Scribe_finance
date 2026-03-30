@@ -1,4 +1,4 @@
-# Gaperon Finance
+# Scribe Finance
 
 This repository contains a benchmark to evaluate large language models (LLMs)
 on several finance-related question. Most evaluation use an image as the context
