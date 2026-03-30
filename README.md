@@ -193,3 +193,15 @@ python group_evaluation.py <MODEL> <TASK>
 - Check `logs/` for SLURM stdout/stderr when jobs fail.
 - If aggregation doesn't run, ensure the initial `sbatch` submissions in
 	`run.sh` succeeded and that the job IDs were captured correctly.
+
+## Citation
+This work will be published as part of the 7th Financial Narrative Processing Workshop, colocated with LREC2026. If you use this model, please cite: 
+```@misc{mouilleron-etal:2026:ScribeFinance,
+      title={When Tables Go Crazy: Evaluating Multimodal Models on French Financial Documents}, 
+      author={Virginie Mouilleron and Théo Lasnier and Anna Mosolova and Djamé Seddah},
+      year={2026},
+      eprint={2602.10384},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2602.10384}
+}
